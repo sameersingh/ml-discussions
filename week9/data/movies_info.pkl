@@ -1,0 +1,13457 @@
+(dp0
+cnumpy.core.multiarray
+scalar
+p1
+(cnumpy
+dtype
+p2
+(S'i8'
+p3
+I0
+I1
+tp4
+Rp5
+(I3
+S'<'
+p6
+NNNI-1
+I-1
+I0
+tp7
+bS'\x00\x00\x00\x00\x00\x00\x00\x00'
+p8
+tp9
+Rp10
+S'Toy Story (1995)'
+p11
+sg1
+(g5
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p12
+tp13
+Rp14
+S'GoldenEye (1995)'
+p15
+sg1
+(g5
+S'\x02\x00\x00\x00\x00\x00\x00\x00'
+p16
+tp17
+Rp18
+S'Four Rooms (1995)'
+p19
+sg1
+(g5
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p20
+tp21
+Rp22
+S'Get Shorty (1995)'
+p23
+sg1
+(g5
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p24
+tp25
+Rp26
+S'Copycat (1995)'
+p27
+sg1
+(g5
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p28
+tp29
+Rp30
+S'Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)'
+p31
+sg1
+(g5
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p32
+tp33
+Rp34
+S'Twelve Monkeys (1995)'
+p35
+sg1
+(g5
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+p36
+tp37
+Rp38
+S'Babe (1995)'
+p39
+sg1
+(g5
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p40
+tp41
+Rp42
+S'Dead Man Walking (1995)'
+p43
+sg1
+(g5
+S'\t\x00\x00\x00\x00\x00\x00\x00'
+p44
+tp45
+Rp46
+S'Richard III (1995)'
+p47
+sg1
+(g5
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p48
+tp49
+Rp50
+S'Seven (Se7en) (1995)'
+p51
+sg1
+(g5
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p52
+tp53
+Rp54
+S'Usual Suspects, The (1995)'
+p55
+sg1
+(g5
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p56
+tp57
+Rp58
+S'Mighty Aphrodite (1995)'
+p59
+sg1
+(g5
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p60
+tp61
+Rp62
+S'Postino, Il (1994)'
+p63
+sg1
+(g5
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p64
+tp65
+Rp66
+S"Mr. Holland's Opus (1995)"
+p67
+sg1
+(g5
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p68
+tp69
+Rp70
+S'French Twist (Gazon maudit) (1995)'
+p71
+sg1
+(g5
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p72
+tp73
+Rp74
+S'From Dusk Till Dawn (1996)'
+p75
+sg1
+(g5
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p76
+tp77
+Rp78
+S'White Balloon, The (1995)'
+p79
+sg1
+(g5
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p80
+tp81
+Rp82
+S"Antonia's Line (1995)"
+p83
+sg1
+(g5
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p84
+tp85
+Rp86
+S'Angels and Insects (1995)'
+p87
+sg1
+(g5
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p88
+tp89
+Rp90
+S'Muppet Treasure Island (1996)'
+p91
+sg1
+(g5
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p92
+tp93
+Rp94
+S'Braveheart (1995)'
+p95
+sg1
+(g5
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p96
+tp97
+Rp98
+S'Taxi Driver (1976)'
+p99
+sg1
+(g5
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p100
+tp101
+Rp102
+S'Rumble in the Bronx (1995)'
+p103
+sg1
+(g5
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+p104
+tp105
+Rp106
+S'Birdcage, The (1996)'
+p107
+sg1
+(g5
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p108
+tp109
+Rp110
+S'Brothers McMullen, The (1995)'
+p111
+sg1
+(g5
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p112
+tp113
+Rp114
+S'Bad Boys (1995)'
+p115
+sg1
+(g5
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+p116
+tp117
+Rp118
+S'Apollo 13 (1995)'
+p119
+sg1
+(g5
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+p120
+tp121
+Rp122
+S'Batman Forever (1995)'
+p123
+sg1
+(g5
+S'\x1d\x00\x00\x00\x00\x00\x00\x00'
+p124
+tp125
+Rp126
+S'Belle de jour (1967)'
+p127
+sg1
+(g5
+S'\x1e\x00\x00\x00\x00\x00\x00\x00'
+p128
+tp129
+Rp130
+S'Crimson Tide (1995)'
+p131
+sg1
+(g5
+S'\x1f\x00\x00\x00\x00\x00\x00\x00'
+p132
+tp133
+Rp134
+S'Crumb (1994)'
+p135
+sg1
+(g5
+S' \x00\x00\x00\x00\x00\x00\x00'
+p136
+tp137
+Rp138
+S'Desperado (1995)'
+p139
+sg1
+(g5
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p140
+tp141
+Rp142
+S'Doom Generation, The (1995)'
+p143
+sg1
+(g5
+S'"\x00\x00\x00\x00\x00\x00\x00'
+p144
+tp145
+Rp146
+S'Free Willy 2: The Adventure Home (1995)'
+p147
+sg1
+(g5
+S'#\x00\x00\x00\x00\x00\x00\x00'
+p148
+tp149
+Rp150
+S'Mad Love (1995)'
+p151
+sg1
+(g5
+S'$\x00\x00\x00\x00\x00\x00\x00'
+p152
+tp153
+Rp154
+S'Nadja (1994)'
+p155
+sg1
+(g5
+S'%\x00\x00\x00\x00\x00\x00\x00'
+p156
+tp157
+Rp158
+S'Net, The (1995)'
+p159
+sg1
+(g5
+S'&\x00\x00\x00\x00\x00\x00\x00'
+p160
+tp161
+Rp162
+S'Strange Days (1995)'
+p163
+sg1
+(g5
+S"'\x00\x00\x00\x00\x00\x00\x00"
+p164
+tp165
+Rp166
+S'To Wong Foo, Thanks for Everything! Julie Newmar (1995)'
+p167
+sg1
+(g5
+S'(\x00\x00\x00\x00\x00\x00\x00'
+p168
+tp169
+Rp170
+S'Billy Madison (1995)'
+p171
+sg1
+(g5
+S')\x00\x00\x00\x00\x00\x00\x00'
+p172
+tp173
+Rp174
+S'Clerks (1994)'
+p175
+sg1
+(g5
+S'*\x00\x00\x00\x00\x00\x00\x00'
+p176
+tp177
+Rp178
+S'Disclosure (1994)'
+p179
+sg1
+(g5
+S'+\x00\x00\x00\x00\x00\x00\x00'
+p180
+tp181
+Rp182
+S'Dolores Claiborne (1994)'
+p183
+sg1
+(g5
+S',\x00\x00\x00\x00\x00\x00\x00'
+p184
+tp185
+Rp186
+S'Eat Drink Man Woman (1994)'
+p187
+sg1
+(g5
+S'-\x00\x00\x00\x00\x00\x00\x00'
+p188
+tp189
+Rp190
+S'Exotica (1994)'
+p191
+sg1
+(g5
+S'.\x00\x00\x00\x00\x00\x00\x00'
+p192
+tp193
+Rp194
+S'Ed Wood (1994)'
+p195
+sg1
+(g5
+S'/\x00\x00\x00\x00\x00\x00\x00'
+p196
+tp197
+Rp198
+S'Hoop Dreams (1994)'
+p199
+sg1
+(g5
+S'0\x00\x00\x00\x00\x00\x00\x00'
+p200
+tp201
+Rp202
+S'I.Q. (1994)'
+p203
+sg1
+(g5
+S'1\x00\x00\x00\x00\x00\x00\x00'
+p204
+tp205
+Rp206
+S'Star Wars (1977)'
+p207
+sg1
+(g5
+S'2\x00\x00\x00\x00\x00\x00\x00'
+p208
+tp209
+Rp210
+S'Legends of the Fall (1994)'
+p211
+sg1
+(g5
+S'3\x00\x00\x00\x00\x00\x00\x00'
+p212
+tp213
+Rp214
+S'Madness of King George, The (1994)'
+p215
+sg1
+(g5
+S'4\x00\x00\x00\x00\x00\x00\x00'
+p216
+tp217
+Rp218
+S'Natural Born Killers (1994)'
+p219
+sg1
+(g5
+S'5\x00\x00\x00\x00\x00\x00\x00'
+p220
+tp221
+Rp222
+S'Outbreak (1995)'
+p223
+sg1
+(g5
+S'6\x00\x00\x00\x00\x00\x00\x00'
+p224
+tp225
+Rp226
+S'Professional, The (1994)'
+p227
+sg1
+(g5
+S'7\x00\x00\x00\x00\x00\x00\x00'
+p228
+tp229
+Rp230
+S'Pulp Fiction (1994)'
+p231
+sg1
+(g5
+S'8\x00\x00\x00\x00\x00\x00\x00'
+p232
+tp233
+Rp234
+S'Priest (1994)'
+p235
+sg1
+(g5
+S'9\x00\x00\x00\x00\x00\x00\x00'
+p236
+tp237
+Rp238
+S'Quiz Show (1994)'
+p239
+sg1
+(g5
+S':\x00\x00\x00\x00\x00\x00\x00'
+p240
+tp241
+Rp242
+S'Three Colors: Red (1994)'
+p243
+sg1
+(g5
+S';\x00\x00\x00\x00\x00\x00\x00'
+p244
+tp245
+Rp246
+S'Three Colors: Blue (1993)'
+p247
+sg1
+(g5
+S'<\x00\x00\x00\x00\x00\x00\x00'
+p248
+tp249
+Rp250
+S'Three Colors: White (1994)'
+p251
+sg1
+(g5
+S'=\x00\x00\x00\x00\x00\x00\x00'
+p252
+tp253
+Rp254
+S'Stargate (1994)'
+p255
+sg1
+(g5
+S'>\x00\x00\x00\x00\x00\x00\x00'
+p256
+tp257
+Rp258
+S'Santa Clause, The (1994)'
+p259
+sg1
+(g5
+S'?\x00\x00\x00\x00\x00\x00\x00'
+p260
+tp261
+Rp262
+S'Shawshank Redemption, The (1994)'
+p263
+sg1
+(g5
+S'@\x00\x00\x00\x00\x00\x00\x00'
+p264
+tp265
+Rp266
+S"What's Eating Gilbert Grape (1993)"
+p267
+sg1
+(g5
+S'A\x00\x00\x00\x00\x00\x00\x00'
+p268
+tp269
+Rp270
+S'While You Were Sleeping (1995)'
+p271
+sg1
+(g5
+S'B\x00\x00\x00\x00\x00\x00\x00'
+p272
+tp273
+Rp274
+S'Ace Ventura: Pet Detective (1994)'
+p275
+sg1
+(g5
+S'C\x00\x00\x00\x00\x00\x00\x00'
+p276
+tp277
+Rp278
+S'Crow, The (1994)'
+p279
+sg1
+(g5
+S'D\x00\x00\x00\x00\x00\x00\x00'
+p280
+tp281
+Rp282
+S'Forrest Gump (1994)'
+p283
+sg1
+(g5
+S'E\x00\x00\x00\x00\x00\x00\x00'
+p284
+tp285
+Rp286
+S'Four Weddings and a Funeral (1994)'
+p287
+sg1
+(g5
+S'F\x00\x00\x00\x00\x00\x00\x00'
+p288
+tp289
+Rp290
+S'Lion King, The (1994)'
+p291
+sg1
+(g5
+S'G\x00\x00\x00\x00\x00\x00\x00'
+p292
+tp293
+Rp294
+S'Mask, The (1994)'
+p295
+sg1
+(g5
+S'H\x00\x00\x00\x00\x00\x00\x00'
+p296
+tp297
+Rp298
+S'Maverick (1994)'
+p299
+sg1
+(g5
+S'I\x00\x00\x00\x00\x00\x00\x00'
+p300
+tp301
+Rp302
+S'Faster Pussycat! Kill! Kill! (1965)'
+p303
+sg1
+(g5
+S'J\x00\x00\x00\x00\x00\x00\x00'
+p304
+tp305
+Rp306
+S'Brother Minister: The Assassination of Malcolm X (1994)'
+p307
+sg1
+(g5
+S'K\x00\x00\x00\x00\x00\x00\x00'
+p308
+tp309
+Rp310
+S"Carlito's Way (1993)"
+p311
+sg1
+(g5
+S'L\x00\x00\x00\x00\x00\x00\x00'
+p312
+tp313
+Rp314
+S'Firm, The (1993)'
+p315
+sg1
+(g5
+S'M\x00\x00\x00\x00\x00\x00\x00'
+p316
+tp317
+Rp318
+S'Free Willy (1993)'
+p319
+sg1
+(g5
+S'N\x00\x00\x00\x00\x00\x00\x00'
+p320
+tp321
+Rp322
+S'Fugitive, The (1993)'
+p323
+sg1
+(g5
+S'O\x00\x00\x00\x00\x00\x00\x00'
+p324
+tp325
+Rp326
+S'Hot Shots! Part Deux (1993)'
+p327
+sg1
+(g5
+S'P\x00\x00\x00\x00\x00\x00\x00'
+p328
+tp329
+Rp330
+S'Hudsucker Proxy, The (1994)'
+p331
+sg1
+(g5
+S'Q\x00\x00\x00\x00\x00\x00\x00'
+p332
+tp333
+Rp334
+S'Jurassic Park (1993)'
+p335
+sg1
+(g5
+S'R\x00\x00\x00\x00\x00\x00\x00'
+p336
+tp337
+Rp338
+S'Much Ado About Nothing (1993)'
+p339
+sg1
+(g5
+S'S\x00\x00\x00\x00\x00\x00\x00'
+p340
+tp341
+Rp342
+S"Robert A. Heinlein's The Puppet Masters (1994)"
+p343
+sg1
+(g5
+S'T\x00\x00\x00\x00\x00\x00\x00'
+p344
+tp345
+Rp346
+S'Ref, The (1994)'
+p347
+sg1
+(g5
+S'U\x00\x00\x00\x00\x00\x00\x00'
+p348
+tp349
+Rp350
+S'Remains of the Day, The (1993)'
+p351
+sg1
+(g5
+S'V\x00\x00\x00\x00\x00\x00\x00'
+p352
+tp353
+Rp354
+S'Searching for Bobby Fischer (1993)'
+p355
+sg1
+(g5
+S'W\x00\x00\x00\x00\x00\x00\x00'
+p356
+tp357
+Rp358
+S'Sleepless in Seattle (1993)'
+p359
+sg1
+(g5
+S'X\x00\x00\x00\x00\x00\x00\x00'
+p360
+tp361
+Rp362
+S'Blade Runner (1982)'
+p363
+sg1
+(g5
+S'Y\x00\x00\x00\x00\x00\x00\x00'
+p364
+tp365
+Rp366
+S'So I Married an Axe Murderer (1993)'
+p367
+sg1
+(g5
+S'Z\x00\x00\x00\x00\x00\x00\x00'
+p368
+tp369
+Rp370
+S'Nightmare Before Christmas, The (1993)'
+p371
+sg1
+(g5
+S'[\x00\x00\x00\x00\x00\x00\x00'
+p372
+tp373
+Rp374
+S'True Romance (1993)'
+p375
+sg1
+(g5
+S'\\\x00\x00\x00\x00\x00\x00\x00'
+p376
+tp377
+Rp378
+S'Welcome to the Dollhouse (1995)'
+p379
+sg1
+(g5
+S']\x00\x00\x00\x00\x00\x00\x00'
+p380
+tp381
+Rp382
+S'Home Alone (1990)'
+p383
+sg1
+(g5
+S'^\x00\x00\x00\x00\x00\x00\x00'
+p384
+tp385
+Rp386
+S'Aladdin (1992)'
+p387
+sg1
+(g5
+S'_\x00\x00\x00\x00\x00\x00\x00'
+p388
+tp389
+Rp390
+S'Terminator 2: Judgment Day (1991)'
+p391
+sg1
+(g5
+S'`\x00\x00\x00\x00\x00\x00\x00'
+p392
+tp393
+Rp394
+S'Dances with Wolves (1990)'
+p395
+sg1
+(g5
+S'a\x00\x00\x00\x00\x00\x00\x00'
+p396
+tp397
+Rp398
+S'Silence of the Lambs, The (1991)'
+p399
+sg1
+(g5
+S'b\x00\x00\x00\x00\x00\x00\x00'
+p400
+tp401
+Rp402
+S'Snow White and the Seven Dwarfs (1937)'
+p403
+sg1
+(g5
+S'c\x00\x00\x00\x00\x00\x00\x00'
+p404
+tp405
+Rp406
+S'Fargo (1996)'
+p407
+sg1
+(g5
+S'd\x00\x00\x00\x00\x00\x00\x00'
+p408
+tp409
+Rp410
+S'Heavy Metal (1981)'
+p411
+sg1
+(g5
+S'e\x00\x00\x00\x00\x00\x00\x00'
+p412
+tp413
+Rp414
+S'Aristocats, The (1970)'
+p415
+sg1
+(g5
+S'f\x00\x00\x00\x00\x00\x00\x00'
+p416
+tp417
+Rp418
+S'All Dogs Go to Heaven 2 (1996)'
+p419
+sg1
+(g5
+S'g\x00\x00\x00\x00\x00\x00\x00'
+p420
+tp421
+Rp422
+S'Theodore Rex (1995)'
+p423
+sg1
+(g5
+S'h\x00\x00\x00\x00\x00\x00\x00'
+p424
+tp425
+Rp426
+S'Sgt. Bilko (1996)'
+p427
+sg1
+(g5
+S'i\x00\x00\x00\x00\x00\x00\x00'
+p428
+tp429
+Rp430
+S'Diabolique (1996)'
+p431
+sg1
+(g5
+S'j\x00\x00\x00\x00\x00\x00\x00'
+p432
+tp433
+Rp434
+S'Moll Flanders (1996)'
+p435
+sg1
+(g5
+S'k\x00\x00\x00\x00\x00\x00\x00'
+p436
+tp437
+Rp438
+S'Kids in the Hall: Brain Candy (1996)'
+p439
+sg1
+(g5
+S'l\x00\x00\x00\x00\x00\x00\x00'
+p440
+tp441
+Rp442
+S'Mystery Science Theater 3000: The Movie (1996)'
+p443
+sg1
+(g5
+S'm\x00\x00\x00\x00\x00\x00\x00'
+p444
+tp445
+Rp446
+S'Operation Dumbo Drop (1995)'
+p447
+sg1
+(g5
+S'n\x00\x00\x00\x00\x00\x00\x00'
+p448
+tp449
+Rp450
+S'Truth About Cats & Dogs, The (1996)'
+p451
+sg1
+(g5
+S'o\x00\x00\x00\x00\x00\x00\x00'
+p452
+tp453
+Rp454
+S'Flipper (1996)'
+p455
+sg1
+(g5
+S'p\x00\x00\x00\x00\x00\x00\x00'
+p456
+tp457
+Rp458
+S'Horseman on the Roof, The (Hussard sur le toit, Le) (1995)'
+p459
+sg1
+(g5
+S'q\x00\x00\x00\x00\x00\x00\x00'
+p460
+tp461
+Rp462
+S'Wallace & Gromit: The Best of Aardman Animation (1996)'
+p463
+sg1
+(g5
+S'r\x00\x00\x00\x00\x00\x00\x00'
+p464
+tp465
+Rp466
+S'Haunted World of Edward D. Wood Jr., The (1995)'
+p467
+sg1
+(g5
+S's\x00\x00\x00\x00\x00\x00\x00'
+p468
+tp469
+Rp470
+S'Cold Comfort Farm (1995)'
+p471
+sg1
+(g5
+S't\x00\x00\x00\x00\x00\x00\x00'
+p472
+tp473
+Rp474
+S'Rock, The (1996)'
+p475
+sg1
+(g5
+S'u\x00\x00\x00\x00\x00\x00\x00'
+p476
+tp477
+Rp478
+S'Twister (1996)'
+p479
+sg1
+(g5
+S'v\x00\x00\x00\x00\x00\x00\x00'
+p480
+tp481
+Rp482
+S'Maya Lin: A Strong Clear Vision (1994)'
+p483
+sg1
+(g5
+S'w\x00\x00\x00\x00\x00\x00\x00'
+p484
+tp485
+Rp486
+S'Striptease (1996)'
+p487
+sg1
+(g5
+S'x\x00\x00\x00\x00\x00\x00\x00'
+p488
+tp489
+Rp490
+S'Independence Day (ID4) (1996)'
+p491
+sg1
+(g5
+S'y\x00\x00\x00\x00\x00\x00\x00'
+p492
+tp493
+Rp494
+S'Cable Guy, The (1996)'
+p495
+sg1
+(g5
+S'z\x00\x00\x00\x00\x00\x00\x00'
+p496
+tp497
+Rp498
+S'Frighteners, The (1996)'
+p499
+sg1
+(g5
+S'{\x00\x00\x00\x00\x00\x00\x00'
+p500
+tp501
+Rp502
+S'Lone Star (1996)'
+p503
+sg1
+(g5
+S'|\x00\x00\x00\x00\x00\x00\x00'
+p504
+tp505
+Rp506
+S'Phenomenon (1996)'
+p507
+sg1
+(g5
+S'}\x00\x00\x00\x00\x00\x00\x00'
+p508
+tp509
+Rp510
+S'Spitfire Grill, The (1996)'
+p511
+sg1
+(g5
+S'~\x00\x00\x00\x00\x00\x00\x00'
+p512
+tp513
+Rp514
+S'Godfather, The (1972)'
+p515
+sg1
+(g5
+S'\x7f\x00\x00\x00\x00\x00\x00\x00'
+p516
+tp517
+Rp518
+S'Supercop (1992)'
+p519
+sg1
+(g5
+S'\x80\x00\x00\x00\x00\x00\x00\x00'
+p520
+tp521
+Rp522
+S'Bound (1996)'
+p523
+sg1
+(g5
+S'\x81\x00\x00\x00\x00\x00\x00\x00'
+p524
+tp525
+Rp526
+S'Kansas City (1996)'
+p527
+sg1
+(g5
+S'\x82\x00\x00\x00\x00\x00\x00\x00'
+p528
+tp529
+Rp530
+S"Breakfast at Tiffany's (1961)"
+p531
+sg1
+(g5
+S'\x83\x00\x00\x00\x00\x00\x00\x00'
+p532
+tp533
+Rp534
+S'Wizard of Oz, The (1939)'
+p535
+sg1
+(g5
+S'\x84\x00\x00\x00\x00\x00\x00\x00'
+p536
+tp537
+Rp538
+S'Gone with the Wind (1939)'
+p539
+sg1
+(g5
+S'\x85\x00\x00\x00\x00\x00\x00\x00'
+p540
+tp541
+Rp542
+S'Citizen Kane (1941)'
+p543
+sg1
+(g5
+S'\x86\x00\x00\x00\x00\x00\x00\x00'
+p544
+tp545
+Rp546
+S'2001: A Space Odyssey (1968)'
+p547
+sg1
+(g5
+S'\x87\x00\x00\x00\x00\x00\x00\x00'
+p548
+tp549
+Rp550
+S'Mr. Smith Goes to Washington (1939)'
+p551
+sg1
+(g5
+S'\x88\x00\x00\x00\x00\x00\x00\x00'
+p552
+tp553
+Rp554
+S'Big Night (1996)'
+p555
+sg1
+(g5
+S'\x89\x00\x00\x00\x00\x00\x00\x00'
+p556
+tp557
+Rp558
+S'D3: The Mighty Ducks (1996)'
+p559
+sg1
+(g5
+S'\x8a\x00\x00\x00\x00\x00\x00\x00'
+p560
+tp561
+Rp562
+S'Love Bug, The (1969)'
+p563
+sg1
+(g5
+S'\x8b\x00\x00\x00\x00\x00\x00\x00'
+p564
+tp565
+Rp566
+S'Homeward Bound: The Incredible Journey (1993)'
+p567
+sg1
+(g5
+S'\x8c\x00\x00\x00\x00\x00\x00\x00'
+p568
+tp569
+Rp570
+S'20,000 Leagues Under the Sea (1954)'
+p571
+sg1
+(g5
+S'\x8d\x00\x00\x00\x00\x00\x00\x00'
+p572
+tp573
+Rp574
+S'Bedknobs and Broomsticks (1971)'
+p575
+sg1
+(g5
+S'\x8e\x00\x00\x00\x00\x00\x00\x00'
+p576
+tp577
+Rp578
+S'Sound of Music, The (1965)'
+p579
+sg1
+(g5
+S'\x8f\x00\x00\x00\x00\x00\x00\x00'
+p580
+tp581
+Rp582
+S'Die Hard (1988)'
+p583
+sg1
+(g5
+S'\x90\x00\x00\x00\x00\x00\x00\x00'
+p584
+tp585
+Rp586
+S'Lawnmower Man, The (1992)'
+p587
+sg1
+(g5
+S'\x91\x00\x00\x00\x00\x00\x00\x00'
+p588
+tp589
+Rp590
+S'Unhook the Stars (1996)'
+p591
+sg1
+(g5
+S'\x92\x00\x00\x00\x00\x00\x00\x00'
+p592
+tp593
+Rp594
+S'Long Kiss Goodnight, The (1996)'
+p595
+sg1
+(g5
+S'\x93\x00\x00\x00\x00\x00\x00\x00'
+p596
+tp597
+Rp598
+S'Ghost and the Darkness, The (1996)'
+p599
+sg1
+(g5
+S'\x94\x00\x00\x00\x00\x00\x00\x00'
+p600
+tp601
+Rp602
+S'Jude (1996)'
+p603
+sg1
+(g5
+S'\x95\x00\x00\x00\x00\x00\x00\x00'
+p604
+tp605
+Rp606
+S'Swingers (1996)'
+p607
+sg1
+(g5
+S'\x96\x00\x00\x00\x00\x00\x00\x00'
+p608
+tp609
+Rp610
+S'Willy Wonka and the Chocolate Factory (1971)'
+p611
+sg1
+(g5
+S'\x97\x00\x00\x00\x00\x00\x00\x00'
+p612
+tp613
+Rp614
+S'Sleeper (1973)'
+p615
+sg1
+(g5
+S'\x98\x00\x00\x00\x00\x00\x00\x00'
+p616
+tp617
+Rp618
+S'Fish Called Wanda, A (1988)'
+p619
+sg1
+(g5
+S'\x99\x00\x00\x00\x00\x00\x00\x00'
+p620
+tp621
+Rp622
+S"Monty Python's Life of Brian (1979)"
+p623
+sg1
+(g5
+S'\x9a\x00\x00\x00\x00\x00\x00\x00'
+p624
+tp625
+Rp626
+S'Dirty Dancing (1987)'
+p627
+sg1
+(g5
+S'\x9b\x00\x00\x00\x00\x00\x00\x00'
+p628
+tp629
+Rp630
+S'Reservoir Dogs (1992)'
+p631
+sg1
+(g5
+S'\x9c\x00\x00\x00\x00\x00\x00\x00'
+p632
+tp633
+Rp634
+S'Platoon (1986)'
+p635
+sg1
+(g5
+S'\x9d\x00\x00\x00\x00\x00\x00\x00'
+p636
+tp637
+Rp638
+S"Weekend at Bernie's (1989)"
+p639
+sg1
+(g5
+S'\x9e\x00\x00\x00\x00\x00\x00\x00'
+p640
+tp641
+Rp642
+S'Basic Instinct (1992)'
+p643
+sg1
+(g5
+S'\x9f\x00\x00\x00\x00\x00\x00\x00'
+p644
+tp645
+Rp646
+S'Glengarry Glen Ross (1992)'
+p647
+sg1
+(g5
+S'\xa0\x00\x00\x00\x00\x00\x00\x00'
+p648
+tp649
+Rp650
+S'Top Gun (1986)'
+p651
+sg1
+(g5
+S'\xa1\x00\x00\x00\x00\x00\x00\x00'
+p652
+tp653
+Rp654
+S'On Golden Pond (1981)'
+p655
+sg1
+(g5
+S'\xa2\x00\x00\x00\x00\x00\x00\x00'
+p656
+tp657
+Rp658
+S'Return of the Pink Panther, The (1974)'
+p659
+sg1
+(g5
+S'\xa3\x00\x00\x00\x00\x00\x00\x00'
+p660
+tp661
+Rp662
+S'Abyss, The (1989)'
+p663
+sg1
+(g5
+S'\xa4\x00\x00\x00\x00\x00\x00\x00'
+p664
+tp665
+Rp666
+S'Jean de Florette (1986)'
+p667
+sg1
+(g5
+S'\xa5\x00\x00\x00\x00\x00\x00\x00'
+p668
+tp669
+Rp670
+S'Manon of the Spring (Manon des sources) (1986)'
+p671
+sg1
+(g5
+S'\xa6\x00\x00\x00\x00\x00\x00\x00'
+p672
+tp673
+Rp674
+S'Private Benjamin (1980)'
+p675
+sg1
+(g5
+S'\xa7\x00\x00\x00\x00\x00\x00\x00'
+p676
+tp677
+Rp678
+S'Monty Python and the Holy Grail (1974)'
+p679
+sg1
+(g5
+S'\xa8\x00\x00\x00\x00\x00\x00\x00'
+p680
+tp681
+Rp682
+S'Wrong Trousers, The (1993)'
+p683
+sg1
+(g5
+S'\xa9\x00\x00\x00\x00\x00\x00\x00'
+p684
+tp685
+Rp686
+S'Cinema Paradiso (1988)'
+p687
+sg1
+(g5
+S'\xaa\x00\x00\x00\x00\x00\x00\x00'
+p688
+tp689
+Rp690
+S'Delicatessen (1991)'
+p691
+sg1
+(g5
+S'\xab\x00\x00\x00\x00\x00\x00\x00'
+p692
+tp693
+Rp694
+S'Empire Strikes Back, The (1980)'
+p695
+sg1
+(g5
+S'\xac\x00\x00\x00\x00\x00\x00\x00'
+p696
+tp697
+Rp698
+S'Princess Bride, The (1987)'
+p699
+sg1
+(g5
+S'\xad\x00\x00\x00\x00\x00\x00\x00'
+p700
+tp701
+Rp702
+S'Raiders of the Lost Ark (1981)'
+p703
+sg1
+(g5
+S'\xae\x00\x00\x00\x00\x00\x00\x00'
+p704
+tp705
+Rp706
+S'Brazil (1985)'
+p707
+sg1
+(g5
+S'\xaf\x00\x00\x00\x00\x00\x00\x00'
+p708
+tp709
+Rp710
+S'Aliens (1986)'
+p711
+sg1
+(g5
+S'\xb0\x00\x00\x00\x00\x00\x00\x00'
+p712
+tp713
+Rp714
+S'Good, The Bad and The Ugly, The (1966)'
+p715
+sg1
+(g5
+S'\xb1\x00\x00\x00\x00\x00\x00\x00'
+p716
+tp717
+Rp718
+S'12 Angry Men (1957)'
+p719
+sg1
+(g5
+S'\xb2\x00\x00\x00\x00\x00\x00\x00'
+p720
+tp721
+Rp722
+S'Clockwork Orange, A (1971)'
+p723
+sg1
+(g5
+S'\xb3\x00\x00\x00\x00\x00\x00\x00'
+p724
+tp725
+Rp726
+S'Apocalypse Now (1979)'
+p727
+sg1
+(g5
+S'\xb4\x00\x00\x00\x00\x00\x00\x00'
+p728
+tp729
+Rp730
+S'Return of the Jedi (1983)'
+p731
+sg1
+(g5
+S'\xb5\x00\x00\x00\x00\x00\x00\x00'
+p732
+tp733
+Rp734
+S'GoodFellas (1990)'
+p735
+sg1
+(g5
+S'\xb6\x00\x00\x00\x00\x00\x00\x00'
+p736
+tp737
+Rp738
+S'Alien (1979)'
+p739
+sg1
+(g5
+S'\xb7\x00\x00\x00\x00\x00\x00\x00'
+p740
+tp741
+Rp742
+S'Army of Darkness (1993)'
+p743
+sg1
+(g5
+S'\xb8\x00\x00\x00\x00\x00\x00\x00'
+p744
+tp745
+Rp746
+S'Psycho (1960)'
+p747
+sg1
+(g5
+S'\xb9\x00\x00\x00\x00\x00\x00\x00'
+p748
+tp749
+Rp750
+S'Blues Brothers, The (1980)'
+p751
+sg1
+(g5
+S'\xba\x00\x00\x00\x00\x00\x00\x00'
+p752
+tp753
+Rp754
+S'Godfather: Part II, The (1974)'
+p755
+sg1
+(g5
+S'\xbb\x00\x00\x00\x00\x00\x00\x00'
+p756
+tp757
+Rp758
+S'Full Metal Jacket (1987)'
+p759
+sg1
+(g5
+S'\xbc\x00\x00\x00\x00\x00\x00\x00'
+p760
+tp761
+Rp762
+S'Grand Day Out, A (1992)'
+p763
+sg1
+(g5
+S'\xbd\x00\x00\x00\x00\x00\x00\x00'
+p764
+tp765
+Rp766
+S'Henry V (1989)'
+p767
+sg1
+(g5
+S'\xbe\x00\x00\x00\x00\x00\x00\x00'
+p768
+tp769
+Rp770
+S'Amadeus (1984)'
+p771
+sg1
+(g5
+S'\xbf\x00\x00\x00\x00\x00\x00\x00'
+p772
+tp773
+Rp774
+S'Raging Bull (1980)'
+p775
+sg1
+(g5
+S'\xc0\x00\x00\x00\x00\x00\x00\x00'
+p776
+tp777
+Rp778
+S'Right Stuff, The (1983)'
+p779
+sg1
+(g5
+S'\xc1\x00\x00\x00\x00\x00\x00\x00'
+p780
+tp781
+Rp782
+S'Sting, The (1973)'
+p783
+sg1
+(g5
+S'\xc2\x00\x00\x00\x00\x00\x00\x00'
+p784
+tp785
+Rp786
+S'Terminator, The (1984)'
+p787
+sg1
+(g5
+S'\xc3\x00\x00\x00\x00\x00\x00\x00'
+p788
+tp789
+Rp790
+S'Dead Poets Society (1989)'
+p791
+sg1
+(g5
+S'\xc4\x00\x00\x00\x00\x00\x00\x00'
+p792
+tp793
+Rp794
+S'Graduate, The (1967)'
+p795
+sg1
+(g5
+S'\xc5\x00\x00\x00\x00\x00\x00\x00'
+p796
+tp797
+Rp798
+S'Nikita (La Femme Nikita) (1990)'
+p799
+sg1
+(g5
+S'\xc6\x00\x00\x00\x00\x00\x00\x00'
+p800
+tp801
+Rp802
+S'Bridge on the River Kwai, The (1957)'
+p803
+sg1
+(g5
+S'\xc7\x00\x00\x00\x00\x00\x00\x00'
+p804
+tp805
+Rp806
+S'Shining, The (1980)'
+p807
+sg1
+(g5
+S'\xc8\x00\x00\x00\x00\x00\x00\x00'
+p808
+tp809
+Rp810
+S'Evil Dead II (1987)'
+p811
+sg1
+(g5
+S'\xc9\x00\x00\x00\x00\x00\x00\x00'
+p812
+tp813
+Rp814
+S'Groundhog Day (1993)'
+p815
+sg1
+(g5
+S'\xca\x00\x00\x00\x00\x00\x00\x00'
+p816
+tp817
+Rp818
+S'Unforgiven (1992)'
+p819
+sg1
+(g5
+S'\xcb\x00\x00\x00\x00\x00\x00\x00'
+p820
+tp821
+Rp822
+S'Back to the Future (1985)'
+p823
+sg1
+(g5
+S'\xcc\x00\x00\x00\x00\x00\x00\x00'
+p824
+tp825
+Rp826
+S'Patton (1970)'
+p827
+sg1
+(g5
+S'\xcd\x00\x00\x00\x00\x00\x00\x00'
+p828
+tp829
+Rp830
+S'Akira (1988)'
+p831
+sg1
+(g5
+S'\xce\x00\x00\x00\x00\x00\x00\x00'
+p832
+tp833
+Rp834
+S'Cyrano de Bergerac (1990)'
+p835
+sg1
+(g5
+S'\xcf\x00\x00\x00\x00\x00\x00\x00'
+p836
+tp837
+Rp838
+S'Young Frankenstein (1974)'
+p839
+sg1
+(g5
+S'\xd0\x00\x00\x00\x00\x00\x00\x00'
+p840
+tp841
+Rp842
+S'This Is Spinal Tap (1984)'
+p843
+sg1
+(g5
+S'\xd1\x00\x00\x00\x00\x00\x00\x00'
+p844
+tp845
+Rp846
+S'Indiana Jones and the Last Crusade (1989)'
+p847
+sg1
+(g5
+S'\xd2\x00\x00\x00\x00\x00\x00\x00'
+p848
+tp849
+Rp850
+S'M*A*S*H (1970)'
+p851
+sg1
+(g5
+S'\xd3\x00\x00\x00\x00\x00\x00\x00'
+p852
+tp853
+Rp854
+S'Unbearable Lightness of Being, The (1988)'
+p855
+sg1
+(g5
+S'\xd4\x00\x00\x00\x00\x00\x00\x00'
+p856
+tp857
+Rp858
+S'Room with a View, A (1986)'
+p859
+sg1
+(g5
+S'\xd5\x00\x00\x00\x00\x00\x00\x00'
+p860
+tp861
+Rp862
+S'Pink Floyd - The Wall (1982)'
+p863
+sg1
+(g5
+S'\xd6\x00\x00\x00\x00\x00\x00\x00'
+p864
+tp865
+Rp866
+S'Field of Dreams (1989)'
+p867
+sg1
+(g5
+S'\xd7\x00\x00\x00\x00\x00\x00\x00'
+p868
+tp869
+Rp870
+S'When Harry Met Sally... (1989)'
+p871
+sg1
+(g5
+S'\xd8\x00\x00\x00\x00\x00\x00\x00'
+p872
+tp873
+Rp874
+S"Bram Stoker's Dracula (1992)"
+p875
+sg1
+(g5
+S'\xd9\x00\x00\x00\x00\x00\x00\x00'
+p876
+tp877
+Rp878
+S'Cape Fear (1991)'
+p879
+sg1
+(g5
+S'\xda\x00\x00\x00\x00\x00\x00\x00'
+p880
+tp881
+Rp882
+S'Nightmare on Elm Street, A (1984)'
+p883
+sg1
+(g5
+S'\xdb\x00\x00\x00\x00\x00\x00\x00'
+p884
+tp885
+Rp886
+S'Mirror Has Two Faces, The (1996)'
+p887
+sg1
+(g5
+S'\xdc\x00\x00\x00\x00\x00\x00\x00'
+p888
+tp889
+Rp890
+S'Breaking the Waves (1996)'
+p891
+sg1
+(g5
+S'\xdd\x00\x00\x00\x00\x00\x00\x00'
+p892
+tp893
+Rp894
+S'Star Trek: First Contact (1996)'
+p895
+sg1
+(g5
+S'\xde\x00\x00\x00\x00\x00\x00\x00'
+p896
+tp897
+Rp898
+S'Sling Blade (1996)'
+p899
+sg1
+(g5
+S'\xdf\x00\x00\x00\x00\x00\x00\x00'
+p900
+tp901
+Rp902
+S'Ridicule (1996)'
+p903
+sg1
+(g5
+S'\xe0\x00\x00\x00\x00\x00\x00\x00'
+p904
+tp905
+Rp906
+S'101 Dalmatians (1996)'
+p907
+sg1
+(g5
+S'\xe1\x00\x00\x00\x00\x00\x00\x00'
+p908
+tp909
+Rp910
+S'Die Hard 2 (1990)'
+p911
+sg1
+(g5
+S'\xe2\x00\x00\x00\x00\x00\x00\x00'
+p912
+tp913
+Rp914
+S'Star Trek VI: The Undiscovered Country (1991)'
+p915
+sg1
+(g5
+S'\xe3\x00\x00\x00\x00\x00\x00\x00'
+p916
+tp917
+Rp918
+S'Star Trek: The Wrath of Khan (1982)'
+p919
+sg1
+(g5
+S'\xe4\x00\x00\x00\x00\x00\x00\x00'
+p920
+tp921
+Rp922
+S'Star Trek III: The Search for Spock (1984)'
+p923
+sg1
+(g5
+S'\xe5\x00\x00\x00\x00\x00\x00\x00'
+p924
+tp925
+Rp926
+S'Star Trek IV: The Voyage Home (1986)'
+p927
+sg1
+(g5
+S'\xe6\x00\x00\x00\x00\x00\x00\x00'
+p928
+tp929
+Rp930
+S'Batman Returns (1992)'
+p931
+sg1
+(g5
+S'\xe7\x00\x00\x00\x00\x00\x00\x00'
+p932
+tp933
+Rp934
+S'Young Guns (1988)'
+p935
+sg1
+(g5
+S'\xe8\x00\x00\x00\x00\x00\x00\x00'
+p936
+tp937
+Rp938
+S'Under Siege (1992)'
+p939
+sg1
+(g5
+S'\xe9\x00\x00\x00\x00\x00\x00\x00'
+p940
+tp941
+Rp942
+S'Jaws (1975)'
+p943
+sg1
+(g5
+S'\xea\x00\x00\x00\x00\x00\x00\x00'
+p944
+tp945
+Rp946
+S'Mars Attacks! (1996)'
+p947
+sg1
+(g5
+S'\xeb\x00\x00\x00\x00\x00\x00\x00'
+p948
+tp949
+Rp950
+S'Citizen Ruth (1996)'
+p951
+sg1
+(g5
+S'\xec\x00\x00\x00\x00\x00\x00\x00'
+p952
+tp953
+Rp954
+S'Jerry Maguire (1996)'
+p955
+sg1
+(g5
+S'\xed\x00\x00\x00\x00\x00\x00\x00'
+p956
+tp957
+Rp958
+S'Raising Arizona (1987)'
+p959
+sg1
+(g5
+S'\xee\x00\x00\x00\x00\x00\x00\x00'
+p960
+tp961
+Rp962
+S'Sneakers (1992)'
+p963
+sg1
+(g5
+S'\xef\x00\x00\x00\x00\x00\x00\x00'
+p964
+tp965
+Rp966
+S'Beavis and Butt-head Do America (1996)'
+p967
+sg1
+(g5
+S'\xf0\x00\x00\x00\x00\x00\x00\x00'
+p968
+tp969
+Rp970
+S'Last of the Mohicans, The (1992)'
+p971
+sg1
+(g5
+S'\xf1\x00\x00\x00\x00\x00\x00\x00'
+p972
+tp973
+Rp974
+S'Kolya (1996)'
+p975
+sg1
+(g5
+S'\xf2\x00\x00\x00\x00\x00\x00\x00'
+p976
+tp977
+Rp978
+S'Jungle2Jungle (1997)'
+p979
+sg1
+(g5
+S'\xf3\x00\x00\x00\x00\x00\x00\x00'
+p980
+tp981
+Rp982
+S"Smilla's Sense of Snow (1997)"
+p983
+sg1
+(g5
+S'\xf4\x00\x00\x00\x00\x00\x00\x00'
+p984
+tp985
+Rp986
+S"Devil's Own, The (1997)"
+p987
+sg1
+(g5
+S'\xf5\x00\x00\x00\x00\x00\x00\x00'
+p988
+tp989
+Rp990
+S'Chasing Amy (1997)'
+p991
+sg1
+(g5
+S'\xf6\x00\x00\x00\x00\x00\x00\x00'
+p992
+tp993
+Rp994
+S'Turbo: A Power Rangers Movie (1997)'
+p995
+sg1
+(g5
+S'\xf7\x00\x00\x00\x00\x00\x00\x00'
+p996
+tp997
+Rp998
+S'Grosse Pointe Blank (1997)'
+p999
+sg1
+(g5
+S'\xf8\x00\x00\x00\x00\x00\x00\x00'
+p1000
+tp1001
+Rp1002
+S'Austin Powers: International Man of Mystery (1997)'
+p1003
+sg1
+(g5
+S'\xf9\x00\x00\x00\x00\x00\x00\x00'
+p1004
+tp1005
+Rp1006
+S'Fifth Element, The (1997)'
+p1007
+sg1
+(g5
+S'\xfa\x00\x00\x00\x00\x00\x00\x00'
+p1008
+tp1009
+Rp1010
+S'Shall We Dance? (1996)'
+p1011
+sg1
+(g5
+S'\xfb\x00\x00\x00\x00\x00\x00\x00'
+p1012
+tp1013
+Rp1014
+S'Lost World: Jurassic Park, The (1997)'
+p1015
+sg1
+(g5
+S'\xfc\x00\x00\x00\x00\x00\x00\x00'
+p1016
+tp1017
+Rp1018
+S'Pillow Book, The (1995)'
+p1019
+sg1
+(g5
+S'\xfd\x00\x00\x00\x00\x00\x00\x00'
+p1020
+tp1021
+Rp1022
+S'Batman & Robin (1997)'
+p1023
+sg1
+(g5
+S'\xfe\x00\x00\x00\x00\x00\x00\x00'
+p1024
+tp1025
+Rp1026
+S"My Best Friend's Wedding (1997)"
+p1027
+sg1
+(g5
+S'\xff\x00\x00\x00\x00\x00\x00\x00'
+p1028
+tp1029
+Rp1030
+S'When the Cats Away (Chacun cherche son chat) (1996)'
+p1031
+sg1
+(g5
+S'\x00\x01\x00\x00\x00\x00\x00\x00'
+p1032
+tp1033
+Rp1034
+S'Men in Black (1997)'
+p1035
+sg1
+(g5
+S'\x01\x01\x00\x00\x00\x00\x00\x00'
+p1036
+tp1037
+Rp1038
+S'Contact (1997)'
+p1039
+sg1
+(g5
+S'\x02\x01\x00\x00\x00\x00\x00\x00'
+p1040
+tp1041
+Rp1042
+S'George of the Jungle (1997)'
+p1043
+sg1
+(g5
+S'\x03\x01\x00\x00\x00\x00\x00\x00'
+p1044
+tp1045
+Rp1046
+S'Event Horizon (1997)'
+p1047
+sg1
+(g5
+S'\x04\x01\x00\x00\x00\x00\x00\x00'
+p1048
+tp1049
+Rp1050
+S'Air Bud (1997)'
+p1051
+sg1
+(g5
+S'\x05\x01\x00\x00\x00\x00\x00\x00'
+p1052
+tp1053
+Rp1054
+S'In the Company of Men (1997)'
+p1055
+sg1
+(g5
+S'\x06\x01\x00\x00\x00\x00\x00\x00'
+p1056
+tp1057
+Rp1058
+S'Steel (1997)'
+p1059
+sg1
+(g5
+S'\x07\x01\x00\x00\x00\x00\x00\x00'
+p1060
+tp1061
+Rp1062
+S'Mimic (1997)'
+p1063
+sg1
+(g5
+S'\x08\x01\x00\x00\x00\x00\x00\x00'
+p1064
+tp1065
+Rp1066
+S'Hunt for Red October, The (1990)'
+p1067
+sg1
+(g5
+S'\t\x01\x00\x00\x00\x00\x00\x00'
+p1068
+tp1069
+Rp1070
+S'Kull the Conqueror (1997)'
+p1071
+sg1
+(g5
+S'\n\x01\x00\x00\x00\x00\x00\x00'
+p1072
+tp1073
+Rp1074
+S'unknown'
+p1075
+sg1
+(g5
+S'\x0b\x01\x00\x00\x00\x00\x00\x00'
+p1076
+tp1077
+Rp1078
+g991
+sg1
+(g5
+S'\x0c\x01\x00\x00\x00\x00\x00\x00'
+p1079
+tp1080
+Rp1081
+S'Full Monty, The (1997)'
+p1082
+sg1
+(g5
+S'\r\x01\x00\x00\x00\x00\x00\x00'
+p1083
+tp1084
+Rp1085
+S'Gattaca (1997)'
+p1086
+sg1
+(g5
+S'\x0e\x01\x00\x00\x00\x00\x00\x00'
+p1087
+tp1088
+Rp1089
+S'Starship Troopers (1997)'
+p1090
+sg1
+(g5
+S'\x0f\x01\x00\x00\x00\x00\x00\x00'
+p1091
+tp1092
+Rp1093
+S'Good Will Hunting (1997)'
+p1094
+sg1
+(g5
+S'\x10\x01\x00\x00\x00\x00\x00\x00'
+p1095
+tp1096
+Rp1097
+S'Heat (1995)'
+p1098
+sg1
+(g5
+S'\x11\x01\x00\x00\x00\x00\x00\x00'
+p1099
+tp1100
+Rp1101
+S'Sabrina (1995)'
+p1102
+sg1
+(g5
+S'\x12\x01\x00\x00\x00\x00\x00\x00'
+p1103
+tp1104
+Rp1105
+S'Sense and Sensibility (1995)'
+p1106
+sg1
+(g5
+S'\x13\x01\x00\x00\x00\x00\x00\x00'
+p1107
+tp1108
+Rp1109
+S'Leaving Las Vegas (1995)'
+p1110
+sg1
+(g5
+S'\x14\x01\x00\x00\x00\x00\x00\x00'
+p1111
+tp1112
+Rp1113
+S'Restoration (1995)'
+p1114
+sg1
+(g5
+S'\x15\x01\x00\x00\x00\x00\x00\x00'
+p1115
+tp1116
+Rp1117
+S'Bed of Roses (1996)'
+p1118
+sg1
+(g5
+S'\x16\x01\x00\x00\x00\x00\x00\x00'
+p1119
+tp1120
+Rp1121
+S'Once Upon a Time... When We Were Colored (1995)'
+p1122
+sg1
+(g5
+S'\x17\x01\x00\x00\x00\x00\x00\x00'
+p1123
+tp1124
+Rp1125
+S'Up Close and Personal (1996)'
+p1126
+sg1
+(g5
+S'\x18\x01\x00\x00\x00\x00\x00\x00'
+p1127
+tp1128
+Rp1129
+S'River Wild, The (1994)'
+p1130
+sg1
+(g5
+S'\x19\x01\x00\x00\x00\x00\x00\x00'
+p1131
+tp1132
+Rp1133
+S'Time to Kill, A (1996)'
+p1134
+sg1
+(g5
+S'\x1a\x01\x00\x00\x00\x00\x00\x00'
+p1135
+tp1136
+Rp1137
+S'Emma (1996)'
+p1138
+sg1
+(g5
+S'\x1b\x01\x00\x00\x00\x00\x00\x00'
+p1139
+tp1140
+Rp1141
+S'Tin Cup (1996)'
+p1142
+sg1
+(g5
+S'\x1c\x01\x00\x00\x00\x00\x00\x00'
+p1143
+tp1144
+Rp1145
+S'Secrets & Lies (1996)'
+p1146
+sg1
+(g5
+S'\x1d\x01\x00\x00\x00\x00\x00\x00'
+p1147
+tp1148
+Rp1149
+S'English Patient, The (1996)'
+p1150
+sg1
+(g5
+S'\x1e\x01\x00\x00\x00\x00\x00\x00'
+p1151
+tp1152
+Rp1153
+S"Marvin's Room (1996)"
+p1154
+sg1
+(g5
+S'\x1f\x01\x00\x00\x00\x00\x00\x00'
+p1155
+tp1156
+Rp1157
+S'Scream (1996)'
+p1158
+sg1
+(g5
+S' \x01\x00\x00\x00\x00\x00\x00'
+p1159
+tp1160
+Rp1161
+S'Evita (1996)'
+p1162
+sg1
+(g5
+S'!\x01\x00\x00\x00\x00\x00\x00'
+p1163
+tp1164
+Rp1165
+S'Fierce Creatures (1997)'
+p1166
+sg1
+(g5
+S'"\x01\x00\x00\x00\x00\x00\x00'
+p1167
+tp1168
+Rp1169
+S'Absolute Power (1997)'
+p1170
+sg1
+(g5
+S'#\x01\x00\x00\x00\x00\x00\x00'
+p1171
+tp1172
+Rp1173
+S'Rosewood (1997)'
+p1174
+sg1
+(g5
+S'$\x01\x00\x00\x00\x00\x00\x00'
+p1175
+tp1176
+Rp1177
+S'Donnie Brasco (1997)'
+p1178
+sg1
+(g5
+S'%\x01\x00\x00\x00\x00\x00\x00'
+p1179
+tp1180
+Rp1181
+S'Liar Liar (1997)'
+p1182
+sg1
+(g5
+S'&\x01\x00\x00\x00\x00\x00\x00'
+p1183
+tp1184
+Rp1185
+S'Breakdown (1997)'
+p1186
+sg1
+(g5
+S"'\x01\x00\x00\x00\x00\x00\x00"
+p1187
+tp1188
+Rp1189
+S'Promesse, La (1996)'
+p1190
+sg1
+(g5
+S'(\x01\x00\x00\x00\x00\x00\x00'
+p1191
+tp1192
+Rp1193
+S"Ulee's Gold (1997)"
+p1194
+sg1
+(g5
+S')\x01\x00\x00\x00\x00\x00\x00'
+p1195
+tp1196
+Rp1197
+S'Face/Off (1997)'
+p1198
+sg1
+(g5
+S'*\x01\x00\x00\x00\x00\x00\x00'
+p1199
+tp1200
+Rp1201
+S'Hoodlum (1997)'
+p1202
+sg1
+(g5
+S'+\x01\x00\x00\x00\x00\x00\x00'
+p1203
+tp1204
+Rp1205
+S'Air Force One (1997)'
+p1206
+sg1
+(g5
+S',\x01\x00\x00\x00\x00\x00\x00'
+p1207
+tp1208
+Rp1209
+S'In & Out (1997)'
+p1210
+sg1
+(g5
+S'-\x01\x00\x00\x00\x00\x00\x00'
+p1211
+tp1212
+Rp1213
+S'L.A. Confidential (1997)'
+p1214
+sg1
+(g5
+S'.\x01\x00\x00\x00\x00\x00\x00'
+p1215
+tp1216
+Rp1217
+g1194
+sg1
+(g5
+S'/\x01\x00\x00\x00\x00\x00\x00'
+p1218
+tp1219
+Rp1220
+S'Fly Away Home (1996)'
+p1221
+sg1
+(g5
+S'0\x01\x00\x00\x00\x00\x00\x00'
+p1222
+tp1223
+Rp1224
+S'Ice Storm, The (1997)'
+p1225
+sg1
+(g5
+S'1\x01\x00\x00\x00\x00\x00\x00'
+p1226
+tp1227
+Rp1228
+S'Mrs. Brown (Her Majesty, Mrs. Brown) (1997)'
+p1229
+sg1
+(g5
+S'2\x01\x00\x00\x00\x00\x00\x00'
+p1230
+tp1231
+Rp1232
+S"Devil's Advocate, The (1997)"
+p1233
+sg1
+(g5
+S'3\x01\x00\x00\x00\x00\x00\x00'
+p1234
+tp1235
+Rp1236
+S'FairyTale: A True Story (1997)'
+p1237
+sg1
+(g5
+S'4\x01\x00\x00\x00\x00\x00\x00'
+p1238
+tp1239
+Rp1240
+S'Deceiver (1997)'
+p1241
+sg1
+(g5
+S'5\x01\x00\x00\x00\x00\x00\x00'
+p1242
+tp1243
+Rp1244
+S'Rainmaker, The (1997)'
+p1245
+sg1
+(g5
+S'6\x01\x00\x00\x00\x00\x00\x00'
+p1246
+tp1247
+Rp1248
+S'Wings of the Dove, The (1997)'
+p1249
+sg1
+(g5
+S'7\x01\x00\x00\x00\x00\x00\x00'
+p1250
+tp1251
+Rp1252
+S'Midnight in the Garden of Good and Evil (1997)'
+p1253
+sg1
+(g5
+S'8\x01\x00\x00\x00\x00\x00\x00'
+p1254
+tp1255
+Rp1256
+S'Titanic (1997)'
+p1257
+sg1
+(g5
+S'9\x01\x00\x00\x00\x00\x00\x00'
+p1258
+tp1259
+Rp1260
+S'3 Ninjas: High Noon At Mega Mountain (1998)'
+p1261
+sg1
+(g5
+S':\x01\x00\x00\x00\x00\x00\x00'
+p1262
+tp1263
+Rp1264
+S'Apt Pupil (1998)'
+p1265
+sg1
+(g5
+S';\x01\x00\x00\x00\x00\x00\x00'
+p1266
+tp1267
+Rp1268
+S'As Good As It Gets (1997)'
+p1269
+sg1
+(g5
+S'<\x01\x00\x00\x00\x00\x00\x00'
+p1270
+tp1271
+Rp1272
+S'In the Name of the Father (1993)'
+p1273
+sg1
+(g5
+S'=\x01\x00\x00\x00\x00\x00\x00'
+p1274
+tp1275
+Rp1276
+S"Schindler's List (1993)"
+p1277
+sg1
+(g5
+S'>\x01\x00\x00\x00\x00\x00\x00'
+p1278
+tp1279
+Rp1280
+S'Everyone Says I Love You (1996)'
+p1281
+sg1
+(g5
+S'?\x01\x00\x00\x00\x00\x00\x00'
+p1282
+tp1283
+Rp1284
+S'Paradise Lost: The Child Murders at Robin Hood Hills (1996)'
+p1285
+sg1
+(g5
+S'@\x01\x00\x00\x00\x00\x00\x00'
+p1286
+tp1287
+Rp1288
+S'Mother (1996)'
+p1289
+sg1
+(g5
+S'A\x01\x00\x00\x00\x00\x00\x00'
+p1290
+tp1291
+Rp1292
+S'Murder at 1600 (1997)'
+p1293
+sg1
+(g5
+S'B\x01\x00\x00\x00\x00\x00\x00'
+p1294
+tp1295
+Rp1296
+S"Dante's Peak (1997)"
+p1297
+sg1
+(g5
+S'C\x01\x00\x00\x00\x00\x00\x00'
+p1298
+tp1299
+Rp1300
+S'Lost Highway (1997)'
+p1301
+sg1
+(g5
+S'D\x01\x00\x00\x00\x00\x00\x00'
+p1302
+tp1303
+Rp1304
+S'Crash (1996)'
+p1305
+sg1
+(g5
+S'E\x01\x00\x00\x00\x00\x00\x00'
+p1306
+tp1307
+Rp1308
+S'G.I. Jane (1997)'
+p1309
+sg1
+(g5
+S'F\x01\x00\x00\x00\x00\x00\x00'
+p1310
+tp1311
+Rp1312
+S'Cop Land (1997)'
+p1313
+sg1
+(g5
+S'G\x01\x00\x00\x00\x00\x00\x00'
+p1314
+tp1315
+Rp1316
+S'Conspiracy Theory (1997)'
+p1317
+sg1
+(g5
+S'H\x01\x00\x00\x00\x00\x00\x00'
+p1318
+tp1319
+Rp1320
+S'Desperate Measures (1998)'
+p1321
+sg1
+(g5
+S'I\x01\x00\x00\x00\x00\x00\x00'
+p1322
+tp1323
+Rp1324
+S'187 (1997)'
+p1325
+sg1
+(g5
+S'J\x01\x00\x00\x00\x00\x00\x00'
+p1326
+tp1327
+Rp1328
+S'Edge, The (1997)'
+p1329
+sg1
+(g5
+S'K\x01\x00\x00\x00\x00\x00\x00'
+p1330
+tp1331
+Rp1332
+S'Kiss the Girls (1997)'
+p1333
+sg1
+(g5
+S'L\x01\x00\x00\x00\x00\x00\x00'
+p1334
+tp1335
+Rp1336
+S'Game, The (1997)'
+p1337
+sg1
+(g5
+S'M\x01\x00\x00\x00\x00\x00\x00'
+p1338
+tp1339
+Rp1340
+S'U Turn (1997)'
+p1341
+sg1
+(g5
+S'N\x01\x00\x00\x00\x00\x00\x00'
+p1342
+tp1343
+Rp1344
+S'How to Be a Player (1997)'
+p1345
+sg1
+(g5
+S'O\x01\x00\x00\x00\x00\x00\x00'
+p1346
+tp1347
+Rp1348
+S'Playing God (1997)'
+p1349
+sg1
+(g5
+S'P\x01\x00\x00\x00\x00\x00\x00'
+p1350
+tp1351
+Rp1352
+S'House of Yes, The (1997)'
+p1353
+sg1
+(g5
+S'Q\x01\x00\x00\x00\x00\x00\x00'
+p1354
+tp1355
+Rp1356
+S'Bean (1997)'
+p1357
+sg1
+(g5
+S'R\x01\x00\x00\x00\x00\x00\x00'
+p1358
+tp1359
+Rp1360
+S'Mad City (1997)'
+p1361
+sg1
+(g5
+S'S\x01\x00\x00\x00\x00\x00\x00'
+p1362
+tp1363
+Rp1364
+S'Boogie Nights (1997)'
+p1365
+sg1
+(g5
+S'T\x01\x00\x00\x00\x00\x00\x00'
+p1366
+tp1367
+Rp1368
+S'Critical Care (1997)'
+p1369
+sg1
+(g5
+S'U\x01\x00\x00\x00\x00\x00\x00'
+p1370
+tp1371
+Rp1372
+S'Man Who Knew Too Little, The (1997)'
+p1373
+sg1
+(g5
+S'V\x01\x00\x00\x00\x00\x00\x00'
+p1374
+tp1375
+Rp1376
+S'Alien: Resurrection (1997)'
+p1377
+sg1
+(g5
+S'W\x01\x00\x00\x00\x00\x00\x00'
+p1378
+tp1379
+Rp1380
+S'Apostle, The (1997)'
+p1381
+sg1
+(g5
+S'X\x01\x00\x00\x00\x00\x00\x00'
+p1382
+tp1383
+Rp1384
+S'Deconstructing Harry (1997)'
+p1385
+sg1
+(g5
+S'Y\x01\x00\x00\x00\x00\x00\x00'
+p1386
+tp1387
+Rp1388
+S'Jackie Brown (1997)'
+p1389
+sg1
+(g5
+S'Z\x01\x00\x00\x00\x00\x00\x00'
+p1390
+tp1391
+Rp1392
+S'Wag the Dog (1997)'
+p1393
+sg1
+(g5
+S'[\x01\x00\x00\x00\x00\x00\x00'
+p1394
+tp1395
+Rp1396
+g1321
+sg1
+(g5
+S'\\\x01\x00\x00\x00\x00\x00\x00'
+p1397
+tp1398
+Rp1399
+S'Hard Rain (1998)'
+p1400
+sg1
+(g5
+S']\x01\x00\x00\x00\x00\x00\x00'
+p1401
+tp1402
+Rp1403
+S'Fallen (1998)'
+p1404
+sg1
+(g5
+S'^\x01\x00\x00\x00\x00\x00\x00'
+p1405
+tp1406
+Rp1407
+S'Prophecy II, The (1998)'
+p1408
+sg1
+(g5
+S'_\x01\x00\x00\x00\x00\x00\x00'
+p1409
+tp1410
+Rp1411
+S'Spice World (1997)'
+p1412
+sg1
+(g5
+S'`\x01\x00\x00\x00\x00\x00\x00'
+p1413
+tp1414
+Rp1415
+S'Deep Rising (1998)'
+p1416
+sg1
+(g5
+S'a\x01\x00\x00\x00\x00\x00\x00'
+p1417
+tp1418
+Rp1419
+S'Wedding Singer, The (1998)'
+p1420
+sg1
+(g5
+S'b\x01\x00\x00\x00\x00\x00\x00'
+p1421
+tp1422
+Rp1423
+S'Sphere (1998)'
+p1424
+sg1
+(g5
+S'c\x01\x00\x00\x00\x00\x00\x00'
+p1425
+tp1426
+Rp1427
+S'Client, The (1994)'
+p1428
+sg1
+(g5
+S'd\x01\x00\x00\x00\x00\x00\x00'
+p1429
+tp1430
+Rp1431
+S"One Flew Over the Cuckoo's Nest (1975)"
+p1432
+sg1
+(g5
+S'e\x01\x00\x00\x00\x00\x00\x00'
+p1433
+tp1434
+Rp1435
+S'Spawn (1997)'
+p1436
+sg1
+(g5
+S'f\x01\x00\x00\x00\x00\x00\x00'
+p1437
+tp1438
+Rp1439
+S'Assignment, The (1997)'
+p1440
+sg1
+(g5
+S'g\x01\x00\x00\x00\x00\x00\x00'
+p1441
+tp1442
+Rp1443
+S'Wonderland (1997)'
+p1444
+sg1
+(g5
+S'h\x01\x00\x00\x00\x00\x00\x00'
+p1445
+tp1446
+Rp1447
+S'Incognito (1997)'
+p1448
+sg1
+(g5
+S'i\x01\x00\x00\x00\x00\x00\x00'
+p1449
+tp1450
+Rp1451
+S'Blues Brothers 2000 (1998)'
+p1452
+sg1
+(g5
+S'j\x01\x00\x00\x00\x00\x00\x00'
+p1453
+tp1454
+Rp1455
+S'Sudden Death (1995)'
+p1456
+sg1
+(g5
+S'k\x01\x00\x00\x00\x00\x00\x00'
+p1457
+tp1458
+Rp1459
+S'Ace Ventura: When Nature Calls (1995)'
+p1460
+sg1
+(g5
+S'l\x01\x00\x00\x00\x00\x00\x00'
+p1461
+tp1462
+Rp1463
+S'Powder (1995)'
+p1464
+sg1
+(g5
+S'm\x01\x00\x00\x00\x00\x00\x00'
+p1465
+tp1466
+Rp1467
+S'Dangerous Minds (1995)'
+p1468
+sg1
+(g5
+S'n\x01\x00\x00\x00\x00\x00\x00'
+p1469
+tp1470
+Rp1471
+S'Clueless (1995)'
+p1472
+sg1
+(g5
+S'o\x01\x00\x00\x00\x00\x00\x00'
+p1473
+tp1474
+Rp1475
+S'Bio-Dome (1996)'
+p1476
+sg1
+(g5
+S'p\x01\x00\x00\x00\x00\x00\x00'
+p1477
+tp1478
+Rp1479
+S'Black Sheep (1996)'
+p1480
+sg1
+(g5
+S'q\x01\x00\x00\x00\x00\x00\x00'
+p1481
+tp1482
+Rp1483
+S'Mary Reilly (1996)'
+p1484
+sg1
+(g5
+S'r\x01\x00\x00\x00\x00\x00\x00'
+p1485
+tp1486
+Rp1487
+S'Bridges of Madison County, The (1995)'
+p1488
+sg1
+(g5
+S's\x01\x00\x00\x00\x00\x00\x00'
+p1489
+tp1490
+Rp1491
+S'Jeffrey (1995)'
+p1492
+sg1
+(g5
+S't\x01\x00\x00\x00\x00\x00\x00'
+p1493
+tp1494
+Rp1495
+S'Judge Dredd (1995)'
+p1496
+sg1
+(g5
+S'u\x01\x00\x00\x00\x00\x00\x00'
+p1497
+tp1498
+Rp1499
+S'Mighty Morphin Power Rangers: The Movie (1995)'
+p1500
+sg1
+(g5
+S'v\x01\x00\x00\x00\x00\x00\x00'
+p1501
+tp1502
+Rp1503
+S'Showgirls (1995)'
+p1504
+sg1
+(g5
+S'w\x01\x00\x00\x00\x00\x00\x00'
+p1505
+tp1506
+Rp1507
+S'Houseguest (1994)'
+p1508
+sg1
+(g5
+S'x\x01\x00\x00\x00\x00\x00\x00'
+p1509
+tp1510
+Rp1511
+S'Heavyweights (1994)'
+p1512
+sg1
+(g5
+S'y\x01\x00\x00\x00\x00\x00\x00'
+p1513
+tp1514
+Rp1515
+S'Miracle on 34th Street (1994)'
+p1516
+sg1
+(g5
+S'z\x01\x00\x00\x00\x00\x00\x00'
+p1517
+tp1518
+Rp1519
+S'Tales From the Crypt Presents: Demon Knight (1995)'
+p1520
+sg1
+(g5
+S'{\x01\x00\x00\x00\x00\x00\x00'
+p1521
+tp1522
+Rp1523
+S'Star Trek: Generations (1994)'
+p1524
+sg1
+(g5
+S'|\x01\x00\x00\x00\x00\x00\x00'
+p1525
+tp1526
+Rp1527
+S"Muriel's Wedding (1994)"
+p1528
+sg1
+(g5
+S'}\x01\x00\x00\x00\x00\x00\x00'
+p1529
+tp1530
+Rp1531
+S'Adventures of Priscilla, Queen of the Desert, The (1994)'
+p1532
+sg1
+(g5
+S'~\x01\x00\x00\x00\x00\x00\x00'
+p1533
+tp1534
+Rp1535
+S'Flintstones, The (1994)'
+p1536
+sg1
+(g5
+S'\x7f\x01\x00\x00\x00\x00\x00\x00'
+p1537
+tp1538
+Rp1539
+S'Naked Gun 33 1/3: The Final Insult (1994)'
+p1540
+sg1
+(g5
+S'\x80\x01\x00\x00\x00\x00\x00\x00'
+p1541
+tp1542
+Rp1543
+S'True Lies (1994)'
+p1544
+sg1
+(g5
+S'\x81\x01\x00\x00\x00\x00\x00\x00'
+p1545
+tp1546
+Rp1547
+S'Addams Family Values (1993)'
+p1548
+sg1
+(g5
+S'\x82\x01\x00\x00\x00\x00\x00\x00'
+p1549
+tp1550
+Rp1551
+S'Age of Innocence, The (1993)'
+p1552
+sg1
+(g5
+S'\x83\x01\x00\x00\x00\x00\x00\x00'
+p1553
+tp1554
+Rp1555
+S'Beverly Hills Cop III (1994)'
+p1556
+sg1
+(g5
+S'\x84\x01\x00\x00\x00\x00\x00\x00'
+p1557
+tp1558
+Rp1559
+S'Black Beauty (1994)'
+p1560
+sg1
+(g5
+S'\x85\x01\x00\x00\x00\x00\x00\x00'
+p1561
+tp1562
+Rp1563
+S'Fear of a Black Hat (1993)'
+p1564
+sg1
+(g5
+S'\x86\x01\x00\x00\x00\x00\x00\x00'
+p1565
+tp1566
+Rp1567
+S'Last Action Hero (1993)'
+p1568
+sg1
+(g5
+S'\x87\x01\x00\x00\x00\x00\x00\x00'
+p1569
+tp1570
+Rp1571
+S'Man Without a Face, The (1993)'
+p1572
+sg1
+(g5
+S'\x88\x01\x00\x00\x00\x00\x00\x00'
+p1573
+tp1574
+Rp1575
+S'Mrs. Doubtfire (1993)'
+p1576
+sg1
+(g5
+S'\x89\x01\x00\x00\x00\x00\x00\x00'
+p1577
+tp1578
+Rp1579
+S'Radioland Murders (1994)'
+p1580
+sg1
+(g5
+S'\x8a\x01\x00\x00\x00\x00\x00\x00'
+p1581
+tp1582
+Rp1583
+S'Robin Hood: Men in Tights (1993)'
+p1584
+sg1
+(g5
+S'\x8b\x01\x00\x00\x00\x00\x00\x00'
+p1585
+tp1586
+Rp1587
+S'Serial Mom (1994)'
+p1588
+sg1
+(g5
+S'\x8c\x01\x00\x00\x00\x00\x00\x00'
+p1589
+tp1590
+Rp1591
+S'Striking Distance (1993)'
+p1592
+sg1
+(g5
+S'\x8d\x01\x00\x00\x00\x00\x00\x00'
+p1593
+tp1594
+Rp1595
+S'Super Mario Bros. (1993)'
+p1596
+sg1
+(g5
+S'\x8e\x01\x00\x00\x00\x00\x00\x00'
+p1597
+tp1598
+Rp1599
+S'Three Musketeers, The (1993)'
+p1600
+sg1
+(g5
+S'\x8f\x01\x00\x00\x00\x00\x00\x00'
+p1601
+tp1602
+Rp1603
+S'Little Rascals, The (1994)'
+p1604
+sg1
+(g5
+S'\x90\x01\x00\x00\x00\x00\x00\x00'
+p1605
+tp1606
+Rp1607
+S'Brady Bunch Movie, The (1995)'
+p1608
+sg1
+(g5
+S'\x91\x01\x00\x00\x00\x00\x00\x00'
+p1609
+tp1610
+Rp1611
+S'Ghost (1990)'
+p1612
+sg1
+(g5
+S'\x92\x01\x00\x00\x00\x00\x00\x00'
+p1613
+tp1614
+Rp1615
+S'Batman (1989)'
+p1616
+sg1
+(g5
+S'\x93\x01\x00\x00\x00\x00\x00\x00'
+p1617
+tp1618
+Rp1619
+S'Pinocchio (1940)'
+p1620
+sg1
+(g5
+S'\x94\x01\x00\x00\x00\x00\x00\x00'
+p1621
+tp1622
+Rp1623
+S'Mission: Impossible (1996)'
+p1624
+sg1
+(g5
+S'\x95\x01\x00\x00\x00\x00\x00\x00'
+p1625
+tp1626
+Rp1627
+S'Thinner (1996)'
+p1628
+sg1
+(g5
+S'\x96\x01\x00\x00\x00\x00\x00\x00'
+p1629
+tp1630
+Rp1631
+S'Spy Hard (1996)'
+p1632
+sg1
+(g5
+S'\x97\x01\x00\x00\x00\x00\x00\x00'
+p1633
+tp1634
+Rp1635
+S'Close Shave, A (1995)'
+p1636
+sg1
+(g5
+S'\x98\x01\x00\x00\x00\x00\x00\x00'
+p1637
+tp1638
+Rp1639
+S'Jack (1996)'
+p1640
+sg1
+(g5
+S'\x99\x01\x00\x00\x00\x00\x00\x00'
+p1641
+tp1642
+Rp1643
+S'Kingpin (1996)'
+p1644
+sg1
+(g5
+S'\x9a\x01\x00\x00\x00\x00\x00\x00'
+p1645
+tp1646
+Rp1647
+S'Nutty Professor, The (1996)'
+p1648
+sg1
+(g5
+S'\x9b\x01\x00\x00\x00\x00\x00\x00'
+p1649
+tp1650
+Rp1651
+S'Very Brady Sequel, A (1996)'
+p1652
+sg1
+(g5
+S'\x9c\x01\x00\x00\x00\x00\x00\x00'
+p1653
+tp1654
+Rp1655
+S'Tales from the Crypt Presents: Bordello of Blood (1996)'
+p1656
+sg1
+(g5
+S'\x9d\x01\x00\x00\x00\x00\x00\x00'
+p1657
+tp1658
+Rp1659
+S'My Favorite Year (1982)'
+p1660
+sg1
+(g5
+S'\x9e\x01\x00\x00\x00\x00\x00\x00'
+p1661
+tp1662
+Rp1663
+S'Apple Dumpling Gang, The (1975)'
+p1664
+sg1
+(g5
+S'\x9f\x01\x00\x00\x00\x00\x00\x00'
+p1665
+tp1666
+Rp1667
+S'Old Yeller (1957)'
+p1668
+sg1
+(g5
+S'\xa0\x01\x00\x00\x00\x00\x00\x00'
+p1669
+tp1670
+Rp1671
+S'Parent Trap, The (1961)'
+p1672
+sg1
+(g5
+S'\xa1\x01\x00\x00\x00\x00\x00\x00'
+p1673
+tp1674
+Rp1675
+S'Cinderella (1950)'
+p1676
+sg1
+(g5
+S'\xa2\x01\x00\x00\x00\x00\x00\x00'
+p1677
+tp1678
+Rp1679
+S'Mary Poppins (1964)'
+p1680
+sg1
+(g5
+S'\xa3\x01\x00\x00\x00\x00\x00\x00'
+p1681
+tp1682
+Rp1683
+S'Alice in Wonderland (1951)'
+p1684
+sg1
+(g5
+S'\xa4\x01\x00\x00\x00\x00\x00\x00'
+p1685
+tp1686
+Rp1687
+S"William Shakespeare's Romeo and Juliet (1996)"
+p1688
+sg1
+(g5
+S'\xa5\x01\x00\x00\x00\x00\x00\x00'
+p1689
+tp1690
+Rp1691
+S'Aladdin and the King of Thieves (1996)'
+p1692
+sg1
+(g5
+S'\xa6\x01\x00\x00\x00\x00\x00\x00'
+p1693
+tp1694
+Rp1695
+S'E.T. the Extra-Terrestrial (1982)'
+p1696
+sg1
+(g5
+S'\xa7\x01\x00\x00\x00\x00\x00\x00'
+p1697
+tp1698
+Rp1699
+S'Children of the Corn: The Gathering (1996)'
+p1700
+sg1
+(g5
+S'\xa8\x01\x00\x00\x00\x00\x00\x00'
+p1701
+tp1702
+Rp1703
+S'Bob Roberts (1992)'
+p1704
+sg1
+(g5
+S'\xa9\x01\x00\x00\x00\x00\x00\x00'
+p1705
+tp1706
+Rp1707
+S'Transformers: The Movie, The (1986)'
+p1708
+sg1
+(g5
+S'\xaa\x01\x00\x00\x00\x00\x00\x00'
+p1709
+tp1710
+Rp1711
+S'To Kill a Mockingbird (1962)'
+p1712
+sg1
+(g5
+S'\xab\x01\x00\x00\x00\x00\x00\x00'
+p1713
+tp1714
+Rp1715
+S'Harold and Maude (1971)'
+p1716
+sg1
+(g5
+S'\xac\x01\x00\x00\x00\x00\x00\x00'
+p1717
+tp1718
+Rp1719
+S'Day the Earth Stood Still, The (1951)'
+p1720
+sg1
+(g5
+S'\xad\x01\x00\x00\x00\x00\x00\x00'
+p1721
+tp1722
+Rp1723
+S'Duck Soup (1933)'
+p1724
+sg1
+(g5
+S'\xae\x01\x00\x00\x00\x00\x00\x00'
+p1725
+tp1726
+Rp1727
+S'Highlander (1986)'
+p1728
+sg1
+(g5
+S'\xaf\x01\x00\x00\x00\x00\x00\x00'
+p1729
+tp1730
+Rp1731
+S'Fantasia (1940)'
+p1732
+sg1
+(g5
+S'\xb0\x01\x00\x00\x00\x00\x00\x00'
+p1733
+tp1734
+Rp1735
+S'Heathers (1989)'
+p1736
+sg1
+(g5
+S'\xb1\x01\x00\x00\x00\x00\x00\x00'
+p1737
+tp1738
+Rp1739
+S'Forbidden Planet (1956)'
+p1740
+sg1
+(g5
+S'\xb2\x01\x00\x00\x00\x00\x00\x00'
+p1741
+tp1742
+Rp1743
+S'Butch Cassidy and the Sundance Kid (1969)'
+p1744
+sg1
+(g5
+S'\xb3\x01\x00\x00\x00\x00\x00\x00'
+p1745
+tp1746
+Rp1747
+S'American Werewolf in London, An (1981)'
+p1748
+sg1
+(g5
+S'\xb4\x01\x00\x00\x00\x00\x00\x00'
+p1749
+tp1750
+Rp1751
+S"Amityville 1992: It's About Time (1992)"
+p1752
+sg1
+(g5
+S'\xb5\x01\x00\x00\x00\x00\x00\x00'
+p1753
+tp1754
+Rp1755
+S'Amityville 3-D (1983)'
+p1756
+sg1
+(g5
+S'\xb6\x01\x00\x00\x00\x00\x00\x00'
+p1757
+tp1758
+Rp1759
+S'Amityville: A New Generation (1993)'
+p1760
+sg1
+(g5
+S'\xb7\x01\x00\x00\x00\x00\x00\x00'
+p1761
+tp1762
+Rp1763
+S'Amityville II: The Possession (1982)'
+p1764
+sg1
+(g5
+S'\xb8\x01\x00\x00\x00\x00\x00\x00'
+p1765
+tp1766
+Rp1767
+S'Amityville Horror, The (1979)'
+p1768
+sg1
+(g5
+S'\xb9\x01\x00\x00\x00\x00\x00\x00'
+p1769
+tp1770
+Rp1771
+S'Amityville Curse, The (1990)'
+p1772
+sg1
+(g5
+S'\xba\x01\x00\x00\x00\x00\x00\x00'
+p1773
+tp1774
+Rp1775
+S'Birds, The (1963)'
+p1776
+sg1
+(g5
+S'\xbb\x01\x00\x00\x00\x00\x00\x00'
+p1777
+tp1778
+Rp1779
+S'Blob, The (1958)'
+p1780
+sg1
+(g5
+S'\xbc\x01\x00\x00\x00\x00\x00\x00'
+p1781
+tp1782
+Rp1783
+S'Body Snatcher, The (1945)'
+p1784
+sg1
+(g5
+S'\xbd\x01\x00\x00\x00\x00\x00\x00'
+p1785
+tp1786
+Rp1787
+S'Burnt Offerings (1976)'
+p1788
+sg1
+(g5
+S'\xbe\x01\x00\x00\x00\x00\x00\x00'
+p1789
+tp1790
+Rp1791
+S'Carrie (1976)'
+p1792
+sg1
+(g5
+S'\xbf\x01\x00\x00\x00\x00\x00\x00'
+p1793
+tp1794
+Rp1795
+S'Omen, The (1976)'
+p1796
+sg1
+(g5
+S'\xc0\x01\x00\x00\x00\x00\x00\x00'
+p1797
+tp1798
+Rp1799
+S'Star Trek: The Motion Picture (1979)'
+p1800
+sg1
+(g5
+S'\xc1\x01\x00\x00\x00\x00\x00\x00'
+p1801
+tp1802
+Rp1803
+S'Star Trek V: The Final Frontier (1989)'
+p1804
+sg1
+(g5
+S'\xc2\x01\x00\x00\x00\x00\x00\x00'
+p1805
+tp1806
+Rp1807
+S'Grease (1978)'
+p1808
+sg1
+(g5
+S'\xc3\x01\x00\x00\x00\x00\x00\x00'
+p1809
+tp1810
+Rp1811
+S'Jaws 2 (1978)'
+p1812
+sg1
+(g5
+S'\xc4\x01\x00\x00\x00\x00\x00\x00'
+p1813
+tp1814
+Rp1815
+S'Jaws 3-D (1983)'
+p1816
+sg1
+(g5
+S'\xc5\x01\x00\x00\x00\x00\x00\x00'
+p1817
+tp1818
+Rp1819
+S'Bastard Out of Carolina (1996)'
+p1820
+sg1
+(g5
+S'\xc6\x01\x00\x00\x00\x00\x00\x00'
+p1821
+tp1822
+Rp1823
+S"Jackie Chan's First Strike (1996)"
+p1824
+sg1
+(g5
+S'\xc7\x01\x00\x00\x00\x00\x00\x00'
+p1825
+tp1826
+Rp1827
+S'Beverly Hills Ninja (1997)'
+p1828
+sg1
+(g5
+S'\xc8\x01\x00\x00\x00\x00\x00\x00'
+p1829
+tp1830
+Rp1831
+S'Free Willy 3: The Rescue (1997)'
+p1832
+sg1
+(g5
+S'\xc9\x01\x00\x00\x00\x00\x00\x00'
+p1833
+tp1834
+Rp1835
+S'Nixon (1995)'
+p1836
+sg1
+(g5
+S'\xca\x01\x00\x00\x00\x00\x00\x00'
+p1837
+tp1838
+Rp1839
+S'Cry, the Beloved Country (1995)'
+p1840
+sg1
+(g5
+S'\xcb\x01\x00\x00\x00\x00\x00\x00'
+p1841
+tp1842
+Rp1843
+S'Crossing Guard, The (1995)'
+p1844
+sg1
+(g5
+S'\xcc\x01\x00\x00\x00\x00\x00\x00'
+p1845
+tp1846
+Rp1847
+S'Smoke (1995)'
+p1848
+sg1
+(g5
+S'\xcd\x01\x00\x00\x00\x00\x00\x00'
+p1849
+tp1850
+Rp1851
+S'Like Water For Chocolate (Como agua para chocolate) (1992)'
+p1852
+sg1
+(g5
+S'\xce\x01\x00\x00\x00\x00\x00\x00'
+p1853
+tp1854
+Rp1855
+S'Secret of Roan Inish, The (1994)'
+p1856
+sg1
+(g5
+S'\xcf\x01\x00\x00\x00\x00\x00\x00'
+p1857
+tp1858
+Rp1859
+S'Vanya on 42nd Street (1994)'
+p1860
+sg1
+(g5
+S'\xd0\x01\x00\x00\x00\x00\x00\x00'
+p1861
+tp1862
+Rp1863
+S'Jungle Book, The (1994)'
+p1864
+sg1
+(g5
+S'\xd1\x01\x00\x00\x00\x00\x00\x00'
+p1865
+tp1866
+Rp1867
+S'Red Rock West (1992)'
+p1868
+sg1
+(g5
+S'\xd2\x01\x00\x00\x00\x00\x00\x00'
+p1869
+tp1870
+Rp1871
+S'Bronx Tale, A (1993)'
+p1872
+sg1
+(g5
+S'\xd3\x01\x00\x00\x00\x00\x00\x00'
+p1873
+tp1874
+Rp1875
+S'Rudy (1993)'
+p1876
+sg1
+(g5
+S'\xd4\x01\x00\x00\x00\x00\x00\x00'
+p1877
+tp1878
+Rp1879
+S'Short Cuts (1993)'
+p1880
+sg1
+(g5
+S'\xd5\x01\x00\x00\x00\x00\x00\x00'
+p1881
+tp1882
+Rp1883
+S'Tombstone (1993)'
+p1884
+sg1
+(g5
+S'\xd6\x01\x00\x00\x00\x00\x00\x00'
+p1885
+tp1886
+Rp1887
+S'Courage Under Fire (1996)'
+p1888
+sg1
+(g5
+S'\xd7\x01\x00\x00\x00\x00\x00\x00'
+p1889
+tp1890
+Rp1891
+S'Dragonheart (1996)'
+p1892
+sg1
+(g5
+S'\xd8\x01\x00\x00\x00\x00\x00\x00'
+p1893
+tp1894
+Rp1895
+S'James and the Giant Peach (1996)'
+p1896
+sg1
+(g5
+S'\xd9\x01\x00\x00\x00\x00\x00\x00'
+p1897
+tp1898
+Rp1899
+S'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)'
+p1900
+sg1
+(g5
+S'\xda\x01\x00\x00\x00\x00\x00\x00'
+p1901
+tp1902
+Rp1903
+S'Trainspotting (1996)'
+p1904
+sg1
+(g5
+S'\xdb\x01\x00\x00\x00\x00\x00\x00'
+p1905
+tp1906
+Rp1907
+S'First Wives Club, The (1996)'
+p1908
+sg1
+(g5
+S'\xdc\x01\x00\x00\x00\x00\x00\x00'
+p1909
+tp1910
+Rp1911
+S'Matilda (1996)'
+p1912
+sg1
+(g5
+S'\xdd\x01\x00\x00\x00\x00\x00\x00'
+p1913
+tp1914
+Rp1915
+S'Philadelphia Story, The (1940)'
+p1916
+sg1
+(g5
+S'\xde\x01\x00\x00\x00\x00\x00\x00'
+p1917
+tp1918
+Rp1919
+S'Vertigo (1958)'
+p1920
+sg1
+(g5
+S'\xdf\x01\x00\x00\x00\x00\x00\x00'
+p1921
+tp1922
+Rp1923
+S'North by Northwest (1959)'
+p1924
+sg1
+(g5
+S'\xe0\x01\x00\x00\x00\x00\x00\x00'
+p1925
+tp1926
+Rp1927
+S'Apartment, The (1960)'
+p1928
+sg1
+(g5
+S'\xe1\x01\x00\x00\x00\x00\x00\x00'
+p1929
+tp1930
+Rp1931
+S'Some Like It Hot (1959)'
+p1932
+sg1
+(g5
+S'\xe2\x01\x00\x00\x00\x00\x00\x00'
+p1933
+tp1934
+Rp1935
+S'Casablanca (1942)'
+p1936
+sg1
+(g5
+S'\xe3\x01\x00\x00\x00\x00\x00\x00'
+p1937
+tp1938
+Rp1939
+S'Maltese Falcon, The (1941)'
+p1940
+sg1
+(g5
+S'\xe4\x01\x00\x00\x00\x00\x00\x00'
+p1941
+tp1942
+Rp1943
+S'My Fair Lady (1964)'
+p1944
+sg1
+(g5
+S'\xe5\x01\x00\x00\x00\x00\x00\x00'
+p1945
+tp1946
+Rp1947
+S'Sabrina (1954)'
+p1948
+sg1
+(g5
+S'\xe6\x01\x00\x00\x00\x00\x00\x00'
+p1949
+tp1950
+Rp1951
+S'Roman Holiday (1953)'
+p1952
+sg1
+(g5
+S'\xe7\x01\x00\x00\x00\x00\x00\x00'
+p1953
+tp1954
+Rp1955
+S'Sunset Blvd. (1950)'
+p1956
+sg1
+(g5
+S'\xe8\x01\x00\x00\x00\x00\x00\x00'
+p1957
+tp1958
+Rp1959
+S'Notorious (1946)'
+p1960
+sg1
+(g5
+S'\xe9\x01\x00\x00\x00\x00\x00\x00'
+p1961
+tp1962
+Rp1963
+S'To Catch a Thief (1955)'
+p1964
+sg1
+(g5
+S'\xea\x01\x00\x00\x00\x00\x00\x00'
+p1965
+tp1966
+Rp1967
+S'Adventures of Robin Hood, The (1938)'
+p1968
+sg1
+(g5
+S'\xeb\x01\x00\x00\x00\x00\x00\x00'
+p1969
+tp1970
+Rp1971
+S'East of Eden (1955)'
+p1972
+sg1
+(g5
+S'\xec\x01\x00\x00\x00\x00\x00\x00'
+p1973
+tp1974
+Rp1975
+S'Thin Man, The (1934)'
+p1976
+sg1
+(g5
+S'\xed\x01\x00\x00\x00\x00\x00\x00'
+p1977
+tp1978
+Rp1979
+S'His Girl Friday (1940)'
+p1980
+sg1
+(g5
+S'\xee\x01\x00\x00\x00\x00\x00\x00'
+p1981
+tp1982
+Rp1983
+S'Around the World in 80 Days (1956)'
+p1984
+sg1
+(g5
+S'\xef\x01\x00\x00\x00\x00\x00\x00'
+p1985
+tp1986
+Rp1987
+S"It's a Wonderful Life (1946)"
+p1988
+sg1
+(g5
+S'\xf0\x01\x00\x00\x00\x00\x00\x00'
+p1989
+tp1990
+Rp1991
+S'Bringing Up Baby (1938)'
+p1992
+sg1
+(g5
+S'\xf1\x01\x00\x00\x00\x00\x00\x00'
+p1993
+tp1994
+Rp1995
+S'African Queen, The (1951)'
+p1996
+sg1
+(g5
+S'\xf2\x01\x00\x00\x00\x00\x00\x00'
+p1997
+tp1998
+Rp1999
+S'Cat on a Hot Tin Roof (1958)'
+p2000
+sg1
+(g5
+S'\xf3\x01\x00\x00\x00\x00\x00\x00'
+p2001
+tp2002
+Rp2003
+g1221
+sg1
+(g5
+S'\xf4\x01\x00\x00\x00\x00\x00\x00'
+p2004
+tp2005
+Rp2006
+S'Dumbo (1941)'
+p2007
+sg1
+(g5
+S'\xf5\x01\x00\x00\x00\x00\x00\x00'
+p2008
+tp2009
+Rp2010
+S'Bananas (1971)'
+p2011
+sg1
+(g5
+S'\xf6\x01\x00\x00\x00\x00\x00\x00'
+p2012
+tp2013
+Rp2014
+S'Candidate, The (1972)'
+p2015
+sg1
+(g5
+S'\xf7\x01\x00\x00\x00\x00\x00\x00'
+p2016
+tp2017
+Rp2018
+S'Bonnie and Clyde (1967)'
+p2019
+sg1
+(g5
+S'\xf8\x01\x00\x00\x00\x00\x00\x00'
+p2020
+tp2021
+Rp2022
+S'Dial M for Murder (1954)'
+p2023
+sg1
+(g5
+S'\xf9\x01\x00\x00\x00\x00\x00\x00'
+p2024
+tp2025
+Rp2026
+S'Rebel Without a Cause (1955)'
+p2027
+sg1
+(g5
+S'\xfa\x01\x00\x00\x00\x00\x00\x00'
+p2028
+tp2029
+Rp2030
+S'Streetcar Named Desire, A (1951)'
+p2031
+sg1
+(g5
+S'\xfb\x01\x00\x00\x00\x00\x00\x00'
+p2032
+tp2033
+Rp2034
+S'People vs. Larry Flynt, The (1996)'
+p2035
+sg1
+(g5
+S'\xfc\x01\x00\x00\x00\x00\x00\x00'
+p2036
+tp2037
+Rp2038
+S'My Left Foot (1989)'
+p2039
+sg1
+(g5
+S'\xfd\x01\x00\x00\x00\x00\x00\x00'
+p2040
+tp2041
+Rp2042
+S'Magnificent Seven, The (1954)'
+p2043
+sg1
+(g5
+S'\xfe\x01\x00\x00\x00\x00\x00\x00'
+p2044
+tp2045
+Rp2046
+S'Lawrence of Arabia (1962)'
+p2047
+sg1
+(g5
+S'\xff\x01\x00\x00\x00\x00\x00\x00'
+p2048
+tp2049
+Rp2050
+S'Wings of Desire (1987)'
+p2051
+sg1
+(g5
+S'\x00\x02\x00\x00\x00\x00\x00\x00'
+p2052
+tp2053
+Rp2054
+S'Third Man, The (1949)'
+p2055
+sg1
+(g5
+S'\x01\x02\x00\x00\x00\x00\x00\x00'
+p2056
+tp2057
+Rp2058
+S'Annie Hall (1977)'
+p2059
+sg1
+(g5
+S'\x02\x02\x00\x00\x00\x00\x00\x00'
+p2060
+tp2061
+Rp2062
+S'Boot, Das (1981)'
+p2063
+sg1
+(g5
+S'\x03\x02\x00\x00\x00\x00\x00\x00'
+p2064
+tp2065
+Rp2066
+S'Local Hero (1983)'
+p2067
+sg1
+(g5
+S'\x04\x02\x00\x00\x00\x00\x00\x00'
+p2068
+tp2069
+Rp2070
+S'Manhattan (1979)'
+p2071
+sg1
+(g5
+S'\x05\x02\x00\x00\x00\x00\x00\x00'
+p2072
+tp2073
+Rp2074
+S"Miller's Crossing (1990)"
+p2075
+sg1
+(g5
+S'\x06\x02\x00\x00\x00\x00\x00\x00'
+p2076
+tp2077
+Rp2078
+S'Treasure of the Sierra Madre, The (1948)'
+p2079
+sg1
+(g5
+S'\x07\x02\x00\x00\x00\x00\x00\x00'
+p2080
+tp2081
+Rp2082
+S'Great Escape, The (1963)'
+p2083
+sg1
+(g5
+S'\x08\x02\x00\x00\x00\x00\x00\x00'
+p2084
+tp2085
+Rp2086
+S'Deer Hunter, The (1978)'
+p2087
+sg1
+(g5
+S'\t\x02\x00\x00\x00\x00\x00\x00'
+p2088
+tp2089
+Rp2090
+S'Down by Law (1986)'
+p2091
+sg1
+(g5
+S'\n\x02\x00\x00\x00\x00\x00\x00'
+p2092
+tp2093
+Rp2094
+S'Cool Hand Luke (1967)'
+p2095
+sg1
+(g5
+S'\x0b\x02\x00\x00\x00\x00\x00\x00'
+p2096
+tp2097
+Rp2098
+S'Great Dictator, The (1940)'
+p2099
+sg1
+(g5
+S'\x0c\x02\x00\x00\x00\x00\x00\x00'
+p2100
+tp2101
+Rp2102
+S'Big Sleep, The (1946)'
+p2103
+sg1
+(g5
+S'\r\x02\x00\x00\x00\x00\x00\x00'
+p2104
+tp2105
+Rp2106
+S'Ben-Hur (1959)'
+p2107
+sg1
+(g5
+S'\x0e\x02\x00\x00\x00\x00\x00\x00'
+p2108
+tp2109
+Rp2110
+S'Gandhi (1982)'
+p2111
+sg1
+(g5
+S'\x0f\x02\x00\x00\x00\x00\x00\x00'
+p2112
+tp2113
+Rp2114
+S'Killing Fields, The (1984)'
+p2115
+sg1
+(g5
+S'\x10\x02\x00\x00\x00\x00\x00\x00'
+p2116
+tp2117
+Rp2118
+S'My Life as a Dog (Mitt liv som hund) (1985)'
+p2119
+sg1
+(g5
+S'\x11\x02\x00\x00\x00\x00\x00\x00'
+p2120
+tp2121
+Rp2122
+S'Man Who Would Be King, The (1975)'
+p2123
+sg1
+(g5
+S'\x12\x02\x00\x00\x00\x00\x00\x00'
+p2124
+tp2125
+Rp2126
+S'Shine (1996)'
+p2127
+sg1
+(g5
+S'\x13\x02\x00\x00\x00\x00\x00\x00'
+p2128
+tp2129
+Rp2130
+S'Kama Sutra: A Tale of Love (1996)'
+p2131
+sg1
+(g5
+S'\x14\x02\x00\x00\x00\x00\x00\x00'
+p2132
+tp2133
+Rp2134
+S'Daytrippers, The (1996)'
+p2135
+sg1
+(g5
+S'\x15\x02\x00\x00\x00\x00\x00\x00'
+p2136
+tp2137
+Rp2138
+S'Traveller (1997)'
+p2139
+sg1
+(g5
+S'\x16\x02\x00\x00\x00\x00\x00\x00'
+p2140
+tp2141
+Rp2142
+S'Addicted to Love (1997)'
+p2143
+sg1
+(g5
+S'\x17\x02\x00\x00\x00\x00\x00\x00'
+p2144
+tp2145
+Rp2146
+S'Ponette (1996)'
+p2147
+sg1
+(g5
+S'\x18\x02\x00\x00\x00\x00\x00\x00'
+p2148
+tp2149
+Rp2150
+S'My Own Private Idaho (1991)'
+p2151
+sg1
+(g5
+S'\x19\x02\x00\x00\x00\x00\x00\x00'
+p2152
+tp2153
+Rp2154
+S'Anastasia (1997)'
+p2155
+sg1
+(g5
+S'\x1a\x02\x00\x00\x00\x00\x00\x00'
+p2156
+tp2157
+Rp2158
+S'Mouse Hunt (1997)'
+p2159
+sg1
+(g5
+S'\x1b\x02\x00\x00\x00\x00\x00\x00'
+p2160
+tp2161
+Rp2162
+S'Money Train (1995)'
+p2163
+sg1
+(g5
+S'\x1c\x02\x00\x00\x00\x00\x00\x00'
+p2164
+tp2165
+Rp2166
+S'Mortal Kombat (1995)'
+p2167
+sg1
+(g5
+S'\x1d\x02\x00\x00\x00\x00\x00\x00'
+p2168
+tp2169
+Rp2170
+S'Pocahontas (1995)'
+p2171
+sg1
+(g5
+S'\x1e\x02\x00\x00\x00\x00\x00\x00'
+p2172
+tp2173
+Rp2174
+S'Mis\xe9rables, Les (1995)'
+p2175
+sg1
+(g5
+S'\x1f\x02\x00\x00\x00\x00\x00\x00'
+p2176
+tp2177
+Rp2178
+S"Things to Do in Denver when You're Dead (1995)"
+p2179
+sg1
+(g5
+S' \x02\x00\x00\x00\x00\x00\x00'
+p2180
+tp2181
+Rp2182
+S'Vampire in Brooklyn (1995)'
+p2183
+sg1
+(g5
+S'!\x02\x00\x00\x00\x00\x00\x00'
+p2184
+tp2185
+Rp2186
+S'Broken Arrow (1996)'
+p2187
+sg1
+(g5
+S'"\x02\x00\x00\x00\x00\x00\x00'
+p2188
+tp2189
+Rp2190
+S"Young Poisoner's Handbook, The (1995)"
+p2191
+sg1
+(g5
+S'#\x02\x00\x00\x00\x00\x00\x00'
+p2192
+tp2193
+Rp2194
+S'NeverEnding Story III, The (1994)'
+p2195
+sg1
+(g5
+S'$\x02\x00\x00\x00\x00\x00\x00'
+p2196
+tp2197
+Rp2198
+S'Rob Roy (1995)'
+p2199
+sg1
+(g5
+S'%\x02\x00\x00\x00\x00\x00\x00'
+p2200
+tp2201
+Rp2202
+S'Die Hard: With a Vengeance (1995)'
+p2203
+sg1
+(g5
+S'&\x02\x00\x00\x00\x00\x00\x00'
+p2204
+tp2205
+Rp2206
+S'Lord of Illusions (1995)'
+p2207
+sg1
+(g5
+S"'\x02\x00\x00\x00\x00\x00\x00"
+p2208
+tp2209
+Rp2210
+S'Species (1995)'
+p2211
+sg1
+(g5
+S'(\x02\x00\x00\x00\x00\x00\x00'
+p2212
+tp2213
+Rp2214
+S'Walk in the Clouds, A (1995)'
+p2215
+sg1
+(g5
+S')\x02\x00\x00\x00\x00\x00\x00'
+p2216
+tp2217
+Rp2218
+S'Waterworld (1995)'
+p2219
+sg1
+(g5
+S'*\x02\x00\x00\x00\x00\x00\x00'
+p2220
+tp2221
+Rp2222
+S"White Man's Burden (1995)"
+p2223
+sg1
+(g5
+S'+\x02\x00\x00\x00\x00\x00\x00'
+p2224
+tp2225
+Rp2226
+S'Wild Bill (1995)'
+p2227
+sg1
+(g5
+S',\x02\x00\x00\x00\x00\x00\x00'
+p2228
+tp2229
+Rp2230
+S'Farinelli: il castrato (1994)'
+p2231
+sg1
+(g5
+S'-\x02\x00\x00\x00\x00\x00\x00'
+p2232
+tp2233
+Rp2234
+S'Heavenly Creatures (1994)'
+p2235
+sg1
+(g5
+S'.\x02\x00\x00\x00\x00\x00\x00'
+p2236
+tp2237
+Rp2238
+S'Interview with the Vampire (1994)'
+p2239
+sg1
+(g5
+S'/\x02\x00\x00\x00\x00\x00\x00'
+p2240
+tp2241
+Rp2242
+S"Kid in King Arthur's Court, A (1995)"
+p2243
+sg1
+(g5
+S'0\x02\x00\x00\x00\x00\x00\x00'
+p2244
+tp2245
+Rp2246
+S"Mary Shelley's Frankenstein (1994)"
+p2247
+sg1
+(g5
+S'1\x02\x00\x00\x00\x00\x00\x00'
+p2248
+tp2249
+Rp2250
+S'Quick and the Dead, The (1995)'
+p2251
+sg1
+(g5
+S'2\x02\x00\x00\x00\x00\x00\x00'
+p2252
+tp2253
+Rp2254
+S"Stephen King's The Langoliers (1995)"
+p2255
+sg1
+(g5
+S'3\x02\x00\x00\x00\x00\x00\x00'
+p2256
+tp2257
+Rp2258
+S'Tales from the Hood (1995)'
+p2259
+sg1
+(g5
+S'4\x02\x00\x00\x00\x00\x00\x00'
+p2260
+tp2261
+Rp2262
+S'Village of the Damned (1995)'
+p2263
+sg1
+(g5
+S'5\x02\x00\x00\x00\x00\x00\x00'
+p2264
+tp2265
+Rp2266
+S'Clear and Present Danger (1994)'
+p2267
+sg1
+(g5
+S'6\x02\x00\x00\x00\x00\x00\x00'
+p2268
+tp2269
+Rp2270
+S"Wes Craven's New Nightmare (1994)"
+p2271
+sg1
+(g5
+S'7\x02\x00\x00\x00\x00\x00\x00'
+p2272
+tp2273
+Rp2274
+S'Speed (1994)'
+p2275
+sg1
+(g5
+S'8\x02\x00\x00\x00\x00\x00\x00'
+p2276
+tp2277
+Rp2278
+S'Wolf (1994)'
+p2279
+sg1
+(g5
+S'9\x02\x00\x00\x00\x00\x00\x00'
+p2280
+tp2281
+Rp2282
+S'Wyatt Earp (1994)'
+p2283
+sg1
+(g5
+S':\x02\x00\x00\x00\x00\x00\x00'
+p2284
+tp2285
+Rp2286
+S'Another Stakeout (1993)'
+p2287
+sg1
+(g5
+S';\x02\x00\x00\x00\x00\x00\x00'
+p2288
+tp2289
+Rp2290
+S'Blown Away (1994)'
+p2291
+sg1
+(g5
+S'<\x02\x00\x00\x00\x00\x00\x00'
+p2292
+tp2293
+Rp2294
+S'Body Snatchers (1993)'
+p2295
+sg1
+(g5
+S'=\x02\x00\x00\x00\x00\x00\x00'
+p2296
+tp2297
+Rp2298
+S'Boxing Helena (1993)'
+p2299
+sg1
+(g5
+S'>\x02\x00\x00\x00\x00\x00\x00'
+p2300
+tp2301
+Rp2302
+S"City Slickers II: The Legend of Curly's Gold (1994)"
+p2303
+sg1
+(g5
+S'?\x02\x00\x00\x00\x00\x00\x00'
+p2304
+tp2305
+Rp2306
+S'Cliffhanger (1993)'
+p2307
+sg1
+(g5
+S'@\x02\x00\x00\x00\x00\x00\x00'
+p2308
+tp2309
+Rp2310
+S'Coneheads (1993)'
+p2311
+sg1
+(g5
+S'A\x02\x00\x00\x00\x00\x00\x00'
+p2312
+tp2313
+Rp2314
+S'Demolition Man (1993)'
+p2315
+sg1
+(g5
+S'B\x02\x00\x00\x00\x00\x00\x00'
+p2316
+tp2317
+Rp2318
+S'Fatal Instinct (1993)'
+p2319
+sg1
+(g5
+S'C\x02\x00\x00\x00\x00\x00\x00'
+p2320
+tp2321
+Rp2322
+S'Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)'
+p2323
+sg1
+(g5
+S'D\x02\x00\x00\x00\x00\x00\x00'
+p2324
+tp2325
+Rp2326
+S'Kalifornia (1993)'
+p2327
+sg1
+(g5
+S'E\x02\x00\x00\x00\x00\x00\x00'
+p2328
+tp2329
+Rp2330
+S'Piano, The (1993)'
+p2331
+sg1
+(g5
+S'F\x02\x00\x00\x00\x00\x00\x00'
+p2332
+tp2333
+Rp2334
+S'Romeo Is Bleeding (1993)'
+p2335
+sg1
+(g5
+S'G\x02\x00\x00\x00\x00\x00\x00'
+p2336
+tp2337
+Rp2338
+S'Secret Garden, The (1993)'
+p2339
+sg1
+(g5
+S'H\x02\x00\x00\x00\x00\x00\x00'
+p2340
+tp2341
+Rp2342
+S'Son in Law (1993)'
+p2343
+sg1
+(g5
+S'I\x02\x00\x00\x00\x00\x00\x00'
+p2344
+tp2345
+Rp2346
+S'Terminal Velocity (1994)'
+p2347
+sg1
+(g5
+S'J\x02\x00\x00\x00\x00\x00\x00'
+p2348
+tp2349
+Rp2350
+S'Hour of the Pig, The (1993)'
+p2351
+sg1
+(g5
+S'K\x02\x00\x00\x00\x00\x00\x00'
+p2352
+tp2353
+Rp2354
+S'Beauty and the Beast (1991)'
+p2355
+sg1
+(g5
+S'L\x02\x00\x00\x00\x00\x00\x00'
+p2356
+tp2357
+Rp2358
+S'Wild Bunch, The (1969)'
+p2359
+sg1
+(g5
+S'M\x02\x00\x00\x00\x00\x00\x00'
+p2360
+tp2361
+Rp2362
+S'Hellraiser: Bloodline (1996)'
+p2363
+sg1
+(g5
+S'N\x02\x00\x00\x00\x00\x00\x00'
+p2364
+tp2365
+Rp2366
+S'Primal Fear (1996)'
+p2367
+sg1
+(g5
+S'O\x02\x00\x00\x00\x00\x00\x00'
+p2368
+tp2369
+Rp2370
+S'True Crime (1995)'
+p2371
+sg1
+(g5
+S'P\x02\x00\x00\x00\x00\x00\x00'
+p2372
+tp2373
+Rp2374
+S'Stalingrad (1993)'
+p2375
+sg1
+(g5
+S'Q\x02\x00\x00\x00\x00\x00\x00'
+p2376
+tp2377
+Rp2378
+S'Heavy (1995)'
+p2379
+sg1
+(g5
+S'R\x02\x00\x00\x00\x00\x00\x00'
+p2380
+tp2381
+Rp2382
+S'Fan, The (1996)'
+p2383
+sg1
+(g5
+S'S\x02\x00\x00\x00\x00\x00\x00'
+p2384
+tp2385
+Rp2386
+S'Hunchback of Notre Dame, The (1996)'
+p2387
+sg1
+(g5
+S'T\x02\x00\x00\x00\x00\x00\x00'
+p2388
+tp2389
+Rp2390
+S'Eraser (1996)'
+p2391
+sg1
+(g5
+S'U\x02\x00\x00\x00\x00\x00\x00'
+p2392
+tp2393
+Rp2394
+S'Big Squeeze, The (1996)'
+p2395
+sg1
+(g5
+S'V\x02\x00\x00\x00\x00\x00\x00'
+p2396
+tp2397
+Rp2398
+S'Police Story 4: Project S (Chao ji ji hua) (1993)'
+p2399
+sg1
+(g5
+S'W\x02\x00\x00\x00\x00\x00\x00'
+p2400
+tp2401
+Rp2402
+S"Daniel Defoe's Robinson Crusoe (1996)"
+p2403
+sg1
+(g5
+S'X\x02\x00\x00\x00\x00\x00\x00'
+p2404
+tp2405
+Rp2406
+S'For Whom the Bell Tolls (1943)'
+p2407
+sg1
+(g5
+S'Y\x02\x00\x00\x00\x00\x00\x00'
+p2408
+tp2409
+Rp2410
+S'American in Paris, An (1951)'
+p2411
+sg1
+(g5
+S'Z\x02\x00\x00\x00\x00\x00\x00'
+p2412
+tp2413
+Rp2414
+S'Rear Window (1954)'
+p2415
+sg1
+(g5
+S'[\x02\x00\x00\x00\x00\x00\x00'
+p2416
+tp2417
+Rp2418
+S'It Happened One Night (1934)'
+p2419
+sg1
+(g5
+S'\\\x02\x00\x00\x00\x00\x00\x00'
+p2420
+tp2421
+Rp2422
+S'Meet Me in St. Louis (1944)'
+p2423
+sg1
+(g5
+S']\x02\x00\x00\x00\x00\x00\x00'
+p2424
+tp2425
+Rp2426
+S'All About Eve (1950)'
+p2427
+sg1
+(g5
+S'^\x02\x00\x00\x00\x00\x00\x00'
+p2428
+tp2429
+Rp2430
+S'Rebecca (1940)'
+p2431
+sg1
+(g5
+S'_\x02\x00\x00\x00\x00\x00\x00'
+p2432
+tp2433
+Rp2434
+S'Spellbound (1945)'
+p2435
+sg1
+(g5
+S'`\x02\x00\x00\x00\x00\x00\x00'
+p2436
+tp2437
+Rp2438
+S'Father of the Bride (1950)'
+p2439
+sg1
+(g5
+S'a\x02\x00\x00\x00\x00\x00\x00'
+p2440
+tp2441
+Rp2442
+S'Gigi (1958)'
+p2443
+sg1
+(g5
+S'b\x02\x00\x00\x00\x00\x00\x00'
+p2444
+tp2445
+Rp2446
+S'Laura (1944)'
+p2447
+sg1
+(g5
+S'c\x02\x00\x00\x00\x00\x00\x00'
+p2448
+tp2449
+Rp2450
+S'Lost Horizon (1937)'
+p2451
+sg1
+(g5
+S'd\x02\x00\x00\x00\x00\x00\x00'
+p2452
+tp2453
+Rp2454
+S'My Man Godfrey (1936)'
+p2455
+sg1
+(g5
+S'e\x02\x00\x00\x00\x00\x00\x00'
+p2456
+tp2457
+Rp2458
+S'Giant (1956)'
+p2459
+sg1
+(g5
+S'f\x02\x00\x00\x00\x00\x00\x00'
+p2460
+tp2461
+Rp2462
+S'39 Steps, The (1935)'
+p2463
+sg1
+(g5
+S'g\x02\x00\x00\x00\x00\x00\x00'
+p2464
+tp2465
+Rp2466
+S'Night of the Living Dead (1968)'
+p2467
+sg1
+(g5
+S'h\x02\x00\x00\x00\x00\x00\x00'
+p2468
+tp2469
+Rp2470
+S'Blue Angel, The (Blaue Engel, Der) (1930)'
+p2471
+sg1
+(g5
+S'i\x02\x00\x00\x00\x00\x00\x00'
+p2472
+tp2473
+Rp2474
+S'Picnic (1955)'
+p2475
+sg1
+(g5
+S'j\x02\x00\x00\x00\x00\x00\x00'
+p2476
+tp2477
+Rp2478
+S'Extreme Measures (1996)'
+p2479
+sg1
+(g5
+S'k\x02\x00\x00\x00\x00\x00\x00'
+p2480
+tp2481
+Rp2482
+S'Chamber, The (1996)'
+p2483
+sg1
+(g5
+S'l\x02\x00\x00\x00\x00\x00\x00'
+p2484
+tp2485
+Rp2486
+S'Davy Crockett, King of the Wild Frontier (1955)'
+p2487
+sg1
+(g5
+S'm\x02\x00\x00\x00\x00\x00\x00'
+p2488
+tp2489
+Rp2490
+S'Swiss Family Robinson (1960)'
+p2491
+sg1
+(g5
+S'n\x02\x00\x00\x00\x00\x00\x00'
+p2492
+tp2493
+Rp2494
+S'Angels in the Outfield (1994)'
+p2495
+sg1
+(g5
+S'o\x02\x00\x00\x00\x00\x00\x00'
+p2496
+tp2497
+Rp2498
+S'Three Caballeros, The (1945)'
+p2499
+sg1
+(g5
+S'p\x02\x00\x00\x00\x00\x00\x00'
+p2500
+tp2501
+Rp2502
+S'Sword in the Stone, The (1963)'
+p2503
+sg1
+(g5
+S'q\x02\x00\x00\x00\x00\x00\x00'
+p2504
+tp2505
+Rp2506
+S'So Dear to My Heart (1949)'
+p2507
+sg1
+(g5
+S'r\x02\x00\x00\x00\x00\x00\x00'
+p2508
+tp2509
+Rp2510
+S'Robin Hood: Prince of Thieves (1991)'
+p2511
+sg1
+(g5
+S's\x02\x00\x00\x00\x00\x00\x00'
+p2512
+tp2513
+Rp2514
+S'Sleepers (1996)'
+p2515
+sg1
+(g5
+S't\x02\x00\x00\x00\x00\x00\x00'
+p2516
+tp2517
+Rp2518
+S'Victor/Victoria (1982)'
+p2519
+sg1
+(g5
+S'u\x02\x00\x00\x00\x00\x00\x00'
+p2520
+tp2521
+Rp2522
+S'Great Race, The (1965)'
+p2523
+sg1
+(g5
+S'v\x02\x00\x00\x00\x00\x00\x00'
+p2524
+tp2525
+Rp2526
+S'Crying Game, The (1992)'
+p2527
+sg1
+(g5
+S'w\x02\x00\x00\x00\x00\x00\x00'
+p2528
+tp2529
+Rp2530
+S"Sophie's Choice (1982)"
+p2531
+sg1
+(g5
+S'x\x02\x00\x00\x00\x00\x00\x00'
+p2532
+tp2533
+Rp2534
+S'Christmas Carol, A (1938)'
+p2535
+sg1
+(g5
+S'y\x02\x00\x00\x00\x00\x00\x00'
+p2536
+tp2537
+Rp2538
+S"Microcosmos: Le peuple de l'herbe (1996)"
+p2539
+sg1
+(g5
+S'z\x02\x00\x00\x00\x00\x00\x00'
+p2540
+tp2541
+Rp2542
+S'Fog, The (1980)'
+p2543
+sg1
+(g5
+S'{\x02\x00\x00\x00\x00\x00\x00'
+p2544
+tp2545
+Rp2546
+S'Escape from New York (1981)'
+p2547
+sg1
+(g5
+S'|\x02\x00\x00\x00\x00\x00\x00'
+p2548
+tp2549
+Rp2550
+S'Howling, The (1981)'
+p2551
+sg1
+(g5
+S'}\x02\x00\x00\x00\x00\x00\x00'
+p2552
+tp2553
+Rp2554
+S'Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)'
+p2555
+sg1
+(g5
+S'~\x02\x00\x00\x00\x00\x00\x00'
+p2556
+tp2557
+Rp2558
+S'Tin Drum, The (Blechtrommel, Die) (1979)'
+p2559
+sg1
+(g5
+S'\x7f\x02\x00\x00\x00\x00\x00\x00'
+p2560
+tp2561
+Rp2562
+S'Cook the Thief His Wife & Her Lover, The (1989)'
+p2563
+sg1
+(g5
+S'\x80\x02\x00\x00\x00\x00\x00\x00'
+p2564
+tp2565
+Rp2566
+S'Paths of Glory (1957)'
+p2567
+sg1
+(g5
+S'\x81\x02\x00\x00\x00\x00\x00\x00'
+p2568
+tp2569
+Rp2570
+S'Grifters, The (1990)'
+p2571
+sg1
+(g5
+S'\x82\x02\x00\x00\x00\x00\x00\x00'
+p2572
+tp2573
+Rp2574
+S'The Innocent (1994)'
+p2575
+sg1
+(g5
+S'\x83\x02\x00\x00\x00\x00\x00\x00'
+p2576
+tp2577
+Rp2578
+S'Thin Blue Line, The (1988)'
+p2579
+sg1
+(g5
+S'\x84\x02\x00\x00\x00\x00\x00\x00'
+p2580
+tp2581
+Rp2582
+S'Paris Is Burning (1990)'
+p2583
+sg1
+(g5
+S'\x85\x02\x00\x00\x00\x00\x00\x00'
+p2584
+tp2585
+Rp2586
+S'Once Upon a Time in the West (1969)'
+p2587
+sg1
+(g5
+S'\x86\x02\x00\x00\x00\x00\x00\x00'
+p2588
+tp2589
+Rp2590
+S'Ran (1985)'
+p2591
+sg1
+(g5
+S'\x87\x02\x00\x00\x00\x00\x00\x00'
+p2592
+tp2593
+Rp2594
+S'Quiet Man, The (1952)'
+p2595
+sg1
+(g5
+S'\x88\x02\x00\x00\x00\x00\x00\x00'
+p2596
+tp2597
+Rp2598
+S'Once Upon a Time in America (1984)'
+p2599
+sg1
+(g5
+S'\x89\x02\x00\x00\x00\x00\x00\x00'
+p2600
+tp2601
+Rp2602
+S'Seventh Seal, The (Sjunde inseglet, Det) (1957)'
+p2603
+sg1
+(g5
+S'\x8a\x02\x00\x00\x00\x00\x00\x00'
+p2604
+tp2605
+Rp2606
+S'Glory (1989)'
+p2607
+sg1
+(g5
+S'\x8b\x02\x00\x00\x00\x00\x00\x00'
+p2608
+tp2609
+Rp2610
+S'Rosencrantz and Guildenstern Are Dead (1990)'
+p2611
+sg1
+(g5
+S'\x8c\x02\x00\x00\x00\x00\x00\x00'
+p2612
+tp2613
+Rp2614
+S'Touch of Evil (1958)'
+p2615
+sg1
+(g5
+S'\x8d\x02\x00\x00\x00\x00\x00\x00'
+p2616
+tp2617
+Rp2618
+S'Chinatown (1974)'
+p2619
+sg1
+(g5
+S'\x8e\x02\x00\x00\x00\x00\x00\x00'
+p2620
+tp2621
+Rp2622
+S'Stand by Me (1986)'
+p2623
+sg1
+(g5
+S'\x8f\x02\x00\x00\x00\x00\x00\x00'
+p2624
+tp2625
+Rp2626
+S'M (1931)'
+p2627
+sg1
+(g5
+S'\x90\x02\x00\x00\x00\x00\x00\x00'
+p2628
+tp2629
+Rp2630
+S'Manchurian Candidate, The (1962)'
+p2631
+sg1
+(g5
+S'\x91\x02\x00\x00\x00\x00\x00\x00'
+p2632
+tp2633
+Rp2634
+S'Pump Up the Volume (1990)'
+p2635
+sg1
+(g5
+S'\x92\x02\x00\x00\x00\x00\x00\x00'
+p2636
+tp2637
+Rp2638
+S'Arsenic and Old Lace (1944)'
+p2639
+sg1
+(g5
+S'\x93\x02\x00\x00\x00\x00\x00\x00'
+p2640
+tp2641
+Rp2642
+S'Fried Green Tomatoes (1991)'
+p2643
+sg1
+(g5
+S'\x94\x02\x00\x00\x00\x00\x00\x00'
+p2644
+tp2645
+Rp2646
+S'High Noon (1952)'
+p2647
+sg1
+(g5
+S'\x95\x02\x00\x00\x00\x00\x00\x00'
+p2648
+tp2649
+Rp2650
+S'Somewhere in Time (1980)'
+p2651
+sg1
+(g5
+S'\x96\x02\x00\x00\x00\x00\x00\x00'
+p2652
+tp2653
+Rp2654
+S'Being There (1979)'
+p2655
+sg1
+(g5
+S'\x97\x02\x00\x00\x00\x00\x00\x00'
+p2656
+tp2657
+Rp2658
+S'Paris, Texas (1984)'
+p2659
+sg1
+(g5
+S'\x98\x02\x00\x00\x00\x00\x00\x00'
+p2660
+tp2661
+Rp2662
+S'Alien 3 (1992)'
+p2663
+sg1
+(g5
+S'\x99\x02\x00\x00\x00\x00\x00\x00'
+p2664
+tp2665
+Rp2666
+S"Blood For Dracula (Andy Warhol's Dracula) (1974)"
+p2667
+sg1
+(g5
+S'\x9a\x02\x00\x00\x00\x00\x00\x00'
+p2668
+tp2669
+Rp2670
+S'Audrey Rose (1977)'
+p2671
+sg1
+(g5
+S'\x9b\x02\x00\x00\x00\x00\x00\x00'
+p2672
+tp2673
+Rp2674
+S'Blood Beach (1981)'
+p2675
+sg1
+(g5
+S'\x9c\x02\x00\x00\x00\x00\x00\x00'
+p2676
+tp2677
+Rp2678
+S'Body Parts (1991)'
+p2679
+sg1
+(g5
+S'\x9d\x02\x00\x00\x00\x00\x00\x00'
+p2680
+tp2681
+Rp2682
+g2295
+sg1
+(g5
+S'\x9e\x02\x00\x00\x00\x00\x00\x00'
+p2683
+tp2684
+Rp2685
+S'Bride of Frankenstein (1935)'
+p2686
+sg1
+(g5
+S'\x9f\x02\x00\x00\x00\x00\x00\x00'
+p2687
+tp2688
+Rp2689
+S'Candyman (1992)'
+p2690
+sg1
+(g5
+S'\xa0\x02\x00\x00\x00\x00\x00\x00'
+p2691
+tp2692
+Rp2693
+S'Cape Fear (1962)'
+p2694
+sg1
+(g5
+S'\xa1\x02\x00\x00\x00\x00\x00\x00'
+p2695
+tp2696
+Rp2697
+S'Cat People (1982)'
+p2698
+sg1
+(g5
+S'\xa2\x02\x00\x00\x00\x00\x00\x00'
+p2699
+tp2700
+Rp2701
+S'Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)'
+p2702
+sg1
+(g5
+S'\xa3\x02\x00\x00\x00\x00\x00\x00'
+p2703
+tp2704
+Rp2705
+S'Crucible, The (1996)'
+p2706
+sg1
+(g5
+S'\xa4\x02\x00\x00\x00\x00\x00\x00'
+p2707
+tp2708
+Rp2709
+S'Fire on the Mountain (1996)'
+p2710
+sg1
+(g5
+S'\xa5\x02\x00\x00\x00\x00\x00\x00'
+p2711
+tp2712
+Rp2713
+S'Volcano (1997)'
+p2714
+sg1
+(g5
+S'\xa6\x02\x00\x00\x00\x00\x00\x00'
+p2715
+tp2716
+Rp2717
+S'Conan the Barbarian (1981)'
+p2718
+sg1
+(g5
+S'\xa7\x02\x00\x00\x00\x00\x00\x00'
+p2719
+tp2720
+Rp2721
+g1071
+sg1
+(g5
+S'\xa8\x02\x00\x00\x00\x00\x00\x00'
+p2722
+tp2723
+Rp2724
+S'Wishmaster (1997)'
+p2725
+sg1
+(g5
+S'\xa9\x02\x00\x00\x00\x00\x00\x00'
+p2726
+tp2727
+Rp2728
+S'I Know What You Did Last Summer (1997)'
+p2729
+sg1
+(g5
+S'\xaa\x02\x00\x00\x00\x00\x00\x00'
+p2730
+tp2731
+Rp2732
+S'Rocket Man (1997)'
+p2733
+sg1
+(g5
+S'\xab\x02\x00\x00\x00\x00\x00\x00'
+p2734
+tp2735
+Rp2736
+S'In the Line of Fire (1993)'
+p2737
+sg1
+(g5
+S'\xac\x02\x00\x00\x00\x00\x00\x00'
+p2738
+tp2739
+Rp2740
+S'Executive Decision (1996)'
+p2741
+sg1
+(g5
+S'\xad\x02\x00\x00\x00\x00\x00\x00'
+p2742
+tp2743
+Rp2744
+S'Perfect World, A (1993)'
+p2745
+sg1
+(g5
+S'\xae\x02\x00\x00\x00\x00\x00\x00'
+p2746
+tp2747
+Rp2748
+S"McHale's Navy (1997)"
+p2749
+sg1
+(g5
+S'\xaf\x02\x00\x00\x00\x00\x00\x00'
+p2750
+tp2751
+Rp2752
+S'Leave It to Beaver (1997)'
+p2753
+sg1
+(g5
+S'\xb0\x02\x00\x00\x00\x00\x00\x00'
+p2754
+tp2755
+Rp2756
+S'Jackal, The (1997)'
+p2757
+sg1
+(g5
+S'\xb1\x02\x00\x00\x00\x00\x00\x00'
+p2758
+tp2759
+Rp2760
+S'Seven Years in Tibet (1997)'
+p2761
+sg1
+(g5
+S'\xb2\x02\x00\x00\x00\x00\x00\x00'
+p2762
+tp2763
+Rp2764
+S'Dark City (1998)'
+p2765
+sg1
+(g5
+S'\xb3\x02\x00\x00\x00\x00\x00\x00'
+p2766
+tp2767
+Rp2768
+S'American President, The (1995)'
+p2769
+sg1
+(g5
+S'\xb4\x02\x00\x00\x00\x00\x00\x00'
+p2770
+tp2771
+Rp2772
+S'Casino (1995)'
+p2773
+sg1
+(g5
+S'\xb5\x02\x00\x00\x00\x00\x00\x00'
+p2774
+tp2775
+Rp2776
+S'Persuasion (1995)'
+p2777
+sg1
+(g5
+S'\xb6\x02\x00\x00\x00\x00\x00\x00'
+p2778
+tp2779
+Rp2780
+S'Kicking and Screaming (1995)'
+p2781
+sg1
+(g5
+S'\xb7\x02\x00\x00\x00\x00\x00\x00'
+p2782
+tp2783
+Rp2784
+S'City Hall (1996)'
+p2785
+sg1
+(g5
+S'\xb8\x02\x00\x00\x00\x00\x00\x00'
+p2786
+tp2787
+Rp2788
+S'Basketball Diaries, The (1995)'
+p2789
+sg1
+(g5
+S'\xb9\x02\x00\x00\x00\x00\x00\x00'
+p2790
+tp2791
+Rp2792
+S'Browning Version, The (1994)'
+p2793
+sg1
+(g5
+S'\xba\x02\x00\x00\x00\x00\x00\x00'
+p2794
+tp2795
+Rp2796
+S'Little Women (1994)'
+p2797
+sg1
+(g5
+S'\xbb\x02\x00\x00\x00\x00\x00\x00'
+p2798
+tp2799
+Rp2800
+S'Miami Rhapsody (1995)'
+p2801
+sg1
+(g5
+S'\xbc\x02\x00\x00\x00\x00\x00\x00'
+p2802
+tp2803
+Rp2804
+S'Wonderful, Horrible Life of Leni Riefenstahl, The (1993)'
+p2805
+sg1
+(g5
+S'\xbd\x02\x00\x00\x00\x00\x00\x00'
+p2806
+tp2807
+Rp2808
+S'Barcelona (1994)'
+p2809
+sg1
+(g5
+S'\xbe\x02\x00\x00\x00\x00\x00\x00'
+p2810
+tp2811
+Rp2812
+S"Widows' Peak (1994)"
+p2813
+sg1
+(g5
+S'\xbf\x02\x00\x00\x00\x00\x00\x00'
+p2814
+tp2815
+Rp2816
+S'House of the Spirits, The (1993)'
+p2817
+sg1
+(g5
+S'\xc0\x02\x00\x00\x00\x00\x00\x00'
+p2818
+tp2819
+Rp2820
+S"Singin' in the Rain (1952)"
+p2821
+sg1
+(g5
+S'\xc1\x02\x00\x00\x00\x00\x00\x00'
+p2822
+tp2823
+Rp2824
+S'Bad Moon (1996)'
+p2825
+sg1
+(g5
+S'\xc2\x02\x00\x00\x00\x00\x00\x00'
+p2826
+tp2827
+Rp2828
+S'Enchanted April (1991)'
+p2829
+sg1
+(g5
+S'\xc3\x02\x00\x00\x00\x00\x00\x00'
+p2830
+tp2831
+Rp2832
+S'Sex, Lies, and Videotape (1989)'
+p2833
+sg1
+(g5
+S'\xc4\x02\x00\x00\x00\x00\x00\x00'
+p2834
+tp2835
+Rp2836
+S'Strictly Ballroom (1992)'
+p2837
+sg1
+(g5
+S'\xc5\x02\x00\x00\x00\x00\x00\x00'
+p2838
+tp2839
+Rp2840
+S'Better Off Dead... (1985)'
+p2841
+sg1
+(g5
+S'\xc6\x02\x00\x00\x00\x00\x00\x00'
+p2842
+tp2843
+Rp2844
+S'Substance of Fire, The (1996)'
+p2845
+sg1
+(g5
+S'\xc7\x02\x00\x00\x00\x00\x00\x00'
+p2846
+tp2847
+Rp2848
+S'Tin Men (1987)'
+p2849
+sg1
+(g5
+S'\xc8\x02\x00\x00\x00\x00\x00\x00'
+p2850
+tp2851
+Rp2852
+S'Othello (1995)'
+p2853
+sg1
+(g5
+S'\xc9\x02\x00\x00\x00\x00\x00\x00'
+p2854
+tp2855
+Rp2856
+S'Carrington (1995)'
+p2857
+sg1
+(g5
+S'\xca\x02\x00\x00\x00\x00\x00\x00'
+p2858
+tp2859
+Rp2860
+S'To Die For (1995)'
+p2861
+sg1
+(g5
+S'\xcb\x02\x00\x00\x00\x00\x00\x00'
+p2862
+tp2863
+Rp2864
+S'Home for the Holidays (1995)'
+p2865
+sg1
+(g5
+S'\xcc\x02\x00\x00\x00\x00\x00\x00'
+p2866
+tp2867
+Rp2868
+S'Juror, The (1996)'
+p2869
+sg1
+(g5
+S'\xcd\x02\x00\x00\x00\x00\x00\x00'
+p2870
+tp2871
+Rp2872
+S'In the Bleak Midwinter (1995)'
+p2873
+sg1
+(g5
+S'\xce\x02\x00\x00\x00\x00\x00\x00'
+p2874
+tp2875
+Rp2876
+S'Canadian Bacon (1994)'
+p2877
+sg1
+(g5
+S'\xcf\x02\x00\x00\x00\x00\x00\x00'
+p2878
+tp2879
+Rp2880
+S'First Knight (1995)'
+p2881
+sg1
+(g5
+S'\xd0\x02\x00\x00\x00\x00\x00\x00'
+p2882
+tp2883
+Rp2884
+S'Mallrats (1995)'
+p2885
+sg1
+(g5
+S'\xd1\x02\x00\x00\x00\x00\x00\x00'
+p2886
+tp2887
+Rp2888
+S'Nine Months (1995)'
+p2889
+sg1
+(g5
+S'\xd2\x02\x00\x00\x00\x00\x00\x00'
+p2890
+tp2891
+Rp2892
+S'Boys on the Side (1995)'
+p2893
+sg1
+(g5
+S'\xd3\x02\x00\x00\x00\x00\x00\x00'
+p2894
+tp2895
+Rp2896
+S'Circle of Friends (1995)'
+p2897
+sg1
+(g5
+S'\xd4\x02\x00\x00\x00\x00\x00\x00'
+p2898
+tp2899
+Rp2900
+S'Exit to Eden (1994)'
+p2901
+sg1
+(g5
+S'\xd5\x02\x00\x00\x00\x00\x00\x00'
+p2902
+tp2903
+Rp2904
+S'Fluke (1995)'
+p2905
+sg1
+(g5
+S'\xd6\x02\x00\x00\x00\x00\x00\x00'
+p2906
+tp2907
+Rp2908
+S'Immortal Beloved (1994)'
+p2909
+sg1
+(g5
+S'\xd7\x02\x00\x00\x00\x00\x00\x00'
+p2910
+tp2911
+Rp2912
+S'Junior (1994)'
+p2913
+sg1
+(g5
+S'\xd8\x02\x00\x00\x00\x00\x00\x00'
+p2914
+tp2915
+Rp2916
+S'Nell (1994)'
+p2917
+sg1
+(g5
+S'\xd9\x02\x00\x00\x00\x00\x00\x00'
+p2918
+tp2919
+Rp2920
+S'Queen Margot (Reine Margot, La) (1994)'
+p2921
+sg1
+(g5
+S'\xda\x02\x00\x00\x00\x00\x00\x00'
+p2922
+tp2923
+Rp2924
+S'Corrina, Corrina (1994)'
+p2925
+sg1
+(g5
+S'\xdb\x02\x00\x00\x00\x00\x00\x00'
+p2926
+tp2927
+Rp2928
+S'Dave (1993)'
+p2929
+sg1
+(g5
+S'\xdc\x02\x00\x00\x00\x00\x00\x00'
+p2930
+tp2931
+Rp2932
+S'Go Fish (1994)'
+p2933
+sg1
+(g5
+S'\xdd\x02\x00\x00\x00\x00\x00\x00'
+p2934
+tp2935
+Rp2936
+S'Made in America (1993)'
+p2937
+sg1
+(g5
+S'\xde\x02\x00\x00\x00\x00\x00\x00'
+p2938
+tp2939
+Rp2940
+S'Philadelphia (1993)'
+p2941
+sg1
+(g5
+S'\xdf\x02\x00\x00\x00\x00\x00\x00'
+p2942
+tp2943
+Rp2944
+S'Shadowlands (1993)'
+p2945
+sg1
+(g5
+S'\xe0\x02\x00\x00\x00\x00\x00\x00'
+p2946
+tp2947
+Rp2948
+S'Sirens (1994)'
+p2949
+sg1
+(g5
+S'\xe1\x02\x00\x00\x00\x00\x00\x00'
+p2950
+tp2951
+Rp2952
+S'Threesome (1994)'
+p2953
+sg1
+(g5
+S'\xe2\x02\x00\x00\x00\x00\x00\x00'
+p2954
+tp2955
+Rp2956
+S'Pretty Woman (1990)'
+p2957
+sg1
+(g5
+S'\xe3\x02\x00\x00\x00\x00\x00\x00'
+p2958
+tp2959
+Rp2960
+S'Jane Eyre (1996)'
+p2961
+sg1
+(g5
+S'\xe4\x02\x00\x00\x00\x00\x00\x00'
+p2962
+tp2963
+Rp2964
+S'Last Supper, The (1995)'
+p2965
+sg1
+(g5
+S'\xe5\x02\x00\x00\x00\x00\x00\x00'
+p2966
+tp2967
+Rp2968
+S'Ransom (1996)'
+p2969
+sg1
+(g5
+S'\xe6\x02\x00\x00\x00\x00\x00\x00'
+p2970
+tp2971
+Rp2972
+S'Crow: City of Angels, The (1996)'
+p2973
+sg1
+(g5
+S'\xe7\x02\x00\x00\x00\x00\x00\x00'
+p2974
+tp2975
+Rp2976
+S'Michael Collins (1996)'
+p2977
+sg1
+(g5
+S'\xe8\x02\x00\x00\x00\x00\x00\x00'
+p2978
+tp2979
+Rp2980
+S'Ruling Class, The (1972)'
+p2981
+sg1
+(g5
+S'\xe9\x02\x00\x00\x00\x00\x00\x00'
+p2982
+tp2983
+Rp2984
+S'Real Genius (1985)'
+p2985
+sg1
+(g5
+S'\xea\x02\x00\x00\x00\x00\x00\x00'
+p2986
+tp2987
+Rp2988
+S'Benny & Joon (1993)'
+p2989
+sg1
+(g5
+S'\xeb\x02\x00\x00\x00\x00\x00\x00'
+p2990
+tp2991
+Rp2992
+S'Saint, The (1997)'
+p2993
+sg1
+(g5
+S'\xec\x02\x00\x00\x00\x00\x00\x00'
+p2994
+tp2995
+Rp2996
+S'MatchMaker, The (1997)'
+p2997
+sg1
+(g5
+S'\xed\x02\x00\x00\x00\x00\x00\x00'
+p2998
+tp2999
+Rp3000
+S'Amistad (1997)'
+p3001
+sg1
+(g5
+S'\xee\x02\x00\x00\x00\x00\x00\x00'
+p3002
+tp3003
+Rp3004
+S'Tomorrow Never Dies (1997)'
+p3005
+sg1
+(g5
+S'\xef\x02\x00\x00\x00\x00\x00\x00'
+p3006
+tp3007
+Rp3008
+S'Replacement Killers, The (1998)'
+p3009
+sg1
+(g5
+S'\xf0\x02\x00\x00\x00\x00\x00\x00'
+p3010
+tp3011
+Rp3012
+S'Burnt By the Sun (1994)'
+p3013
+sg1
+(g5
+S'\xf1\x02\x00\x00\x00\x00\x00\x00'
+p3014
+tp3015
+Rp3016
+S'Red Corner (1997)'
+p3017
+sg1
+(g5
+S'\xf2\x02\x00\x00\x00\x00\x00\x00'
+p3018
+tp3019
+Rp3020
+S'Jumanji (1995)'
+p3021
+sg1
+(g5
+S'\xf3\x02\x00\x00\x00\x00\x00\x00'
+p3022
+tp3023
+Rp3024
+S'Father of the Bride Part II (1995)'
+p3025
+sg1
+(g5
+S'\xf4\x02\x00\x00\x00\x00\x00\x00'
+p3026
+tp3027
+Rp3028
+S'Across the Sea of Time (1995)'
+p3029
+sg1
+(g5
+S'\xf5\x02\x00\x00\x00\x00\x00\x00'
+p3030
+tp3031
+Rp3032
+S'Lawnmower Man 2: Beyond Cyberspace (1996)'
+p3033
+sg1
+(g5
+S'\xf6\x02\x00\x00\x00\x00\x00\x00'
+p3034
+tp3035
+Rp3036
+S'Fair Game (1995)'
+p3037
+sg1
+(g5
+S'\xf7\x02\x00\x00\x00\x00\x00\x00'
+p3038
+tp3039
+Rp3040
+S'Screamers (1995)'
+p3041
+sg1
+(g5
+S'\xf8\x02\x00\x00\x00\x00\x00\x00'
+p3042
+tp3043
+Rp3044
+S'Nick of Time (1995)'
+p3045
+sg1
+(g5
+S'\xf9\x02\x00\x00\x00\x00\x00\x00'
+p3046
+tp3047
+Rp3048
+S'Beautiful Girls (1996)'
+p3049
+sg1
+(g5
+S'\xfa\x02\x00\x00\x00\x00\x00\x00'
+p3050
+tp3051
+Rp3052
+S'Happy Gilmore (1996)'
+p3053
+sg1
+(g5
+S'\xfb\x02\x00\x00\x00\x00\x00\x00'
+p3054
+tp3055
+Rp3056
+S'If Lucy Fell (1996)'
+p3057
+sg1
+(g5
+S'\xfc\x02\x00\x00\x00\x00\x00\x00'
+p3058
+tp3059
+Rp3060
+S'Boomerang (1992)'
+p3061
+sg1
+(g5
+S'\xfd\x02\x00\x00\x00\x00\x00\x00'
+p3062
+tp3063
+Rp3064
+S'Man of the Year (1995)'
+p3065
+sg1
+(g5
+S'\xfe\x02\x00\x00\x00\x00\x00\x00'
+p3066
+tp3067
+Rp3068
+S'Addiction, The (1995)'
+p3069
+sg1
+(g5
+S'\xff\x02\x00\x00\x00\x00\x00\x00'
+p3070
+tp3071
+Rp3072
+S'Casper (1995)'
+p3073
+sg1
+(g5
+S'\x00\x03\x00\x00\x00\x00\x00\x00'
+p3074
+tp3075
+Rp3076
+S'Congo (1995)'
+p3077
+sg1
+(g5
+S'\x01\x03\x00\x00\x00\x00\x00\x00'
+p3078
+tp3079
+Rp3080
+S'Devil in a Blue Dress (1995)'
+p3081
+sg1
+(g5
+S'\x02\x03\x00\x00\x00\x00\x00\x00'
+p3082
+tp3083
+Rp3084
+S'Johnny Mnemonic (1995)'
+p3085
+sg1
+(g5
+S'\x03\x03\x00\x00\x00\x00\x00\x00'
+p3086
+tp3087
+Rp3088
+S'Kids (1995)'
+p3089
+sg1
+(g5
+S'\x04\x03\x00\x00\x00\x00\x00\x00'
+p3090
+tp3091
+Rp3092
+S'Mute Witness (1994)'
+p3093
+sg1
+(g5
+S'\x05\x03\x00\x00\x00\x00\x00\x00'
+p3094
+tp3095
+Rp3096
+S'Prophecy, The (1995)'
+p3097
+sg1
+(g5
+S'\x06\x03\x00\x00\x00\x00\x00\x00'
+p3098
+tp3099
+Rp3100
+S'Something to Talk About (1995)'
+p3101
+sg1
+(g5
+S'\x07\x03\x00\x00\x00\x00\x00\x00'
+p3102
+tp3103
+Rp3104
+S'Three Wishes (1995)'
+p3105
+sg1
+(g5
+S'\x08\x03\x00\x00\x00\x00\x00\x00'
+p3106
+tp3107
+Rp3108
+S'Castle Freak (1995)'
+p3109
+sg1
+(g5
+S'\t\x03\x00\x00\x00\x00\x00\x00'
+p3110
+tp3111
+Rp3112
+S'Don Juan DeMarco (1995)'
+p3113
+sg1
+(g5
+S'\n\x03\x00\x00\x00\x00\x00\x00'
+p3114
+tp3115
+Rp3116
+S'Drop Zone (1994)'
+p3117
+sg1
+(g5
+S'\x0b\x03\x00\x00\x00\x00\x00\x00'
+p3118
+tp3119
+Rp3120
+S'Dumb & Dumber (1994)'
+p3121
+sg1
+(g5
+S'\x0c\x03\x00\x00\x00\x00\x00\x00'
+p3122
+tp3123
+Rp3124
+S'French Kiss (1995)'
+p3125
+sg1
+(g5
+S'\r\x03\x00\x00\x00\x00\x00\x00'
+p3126
+tp3127
+Rp3128
+S'Little Odessa (1994)'
+p3129
+sg1
+(g5
+S'\x0e\x03\x00\x00\x00\x00\x00\x00'
+p3130
+tp3131
+Rp3132
+S'Milk Money (1994)'
+p3133
+sg1
+(g5
+S'\x0f\x03\x00\x00\x00\x00\x00\x00'
+p3134
+tp3135
+Rp3136
+S'Beyond Bedlam (1993)'
+p3137
+sg1
+(g5
+S'\x10\x03\x00\x00\x00\x00\x00\x00'
+p3138
+tp3139
+Rp3140
+S'Only You (1994)'
+p3141
+sg1
+(g5
+S'\x11\x03\x00\x00\x00\x00\x00\x00'
+p3142
+tp3143
+Rp3144
+S'Perez Family, The (1995)'
+p3145
+sg1
+(g5
+S'\x12\x03\x00\x00\x00\x00\x00\x00'
+p3146
+tp3147
+Rp3148
+S'Roommates (1995)'
+p3149
+sg1
+(g5
+S'\x13\x03\x00\x00\x00\x00\x00\x00'
+p3150
+tp3151
+Rp3152
+S'Relative Fear (1994)'
+p3153
+sg1
+(g5
+S'\x14\x03\x00\x00\x00\x00\x00\x00'
+p3154
+tp3155
+Rp3156
+S'Swimming with Sharks (1995)'
+p3157
+sg1
+(g5
+S'\x15\x03\x00\x00\x00\x00\x00\x00'
+p3158
+tp3159
+Rp3160
+S'Tommy Boy (1995)'
+p3161
+sg1
+(g5
+S'\x16\x03\x00\x00\x00\x00\x00\x00'
+p3162
+tp3163
+Rp3164
+S'Baby-Sitters Club, The (1995)'
+p3165
+sg1
+(g5
+S'\x17\x03\x00\x00\x00\x00\x00\x00'
+p3166
+tp3167
+Rp3168
+S'Bullets Over Broadway (1994)'
+p3169
+sg1
+(g5
+S'\x18\x03\x00\x00\x00\x00\x00\x00'
+p3170
+tp3171
+Rp3172
+S'Crooklyn (1994)'
+p3173
+sg1
+(g5
+S'\x19\x03\x00\x00\x00\x00\x00\x00'
+p3174
+tp3175
+Rp3176
+S'It Could Happen to You (1994)'
+p3177
+sg1
+(g5
+S'\x1a\x03\x00\x00\x00\x00\x00\x00'
+p3178
+tp3179
+Rp3180
+S'Richie Rich (1994)'
+p3181
+sg1
+(g5
+S'\x1b\x03\x00\x00\x00\x00\x00\x00'
+p3182
+tp3183
+Rp3184
+S'Speechless (1994)'
+p3185
+sg1
+(g5
+S'\x1c\x03\x00\x00\x00\x00\x00\x00'
+p3186
+tp3187
+Rp3188
+S'Timecop (1994)'
+p3189
+sg1
+(g5
+S'\x1d\x03\x00\x00\x00\x00\x00\x00'
+p3190
+tp3191
+Rp3192
+S'Bad Company (1995)'
+p3193
+sg1
+(g5
+S'\x1e\x03\x00\x00\x00\x00\x00\x00'
+p3194
+tp3195
+Rp3196
+S'Boys Life (1995)'
+p3197
+sg1
+(g5
+S'\x1f\x03\x00\x00\x00\x00\x00\x00'
+p3198
+tp3199
+Rp3200
+S'In the Mouth of Madness (1995)'
+p3201
+sg1
+(g5
+S' \x03\x00\x00\x00\x00\x00\x00'
+p3202
+tp3203
+Rp3204
+S'Air Up There, The (1994)'
+p3205
+sg1
+(g5
+S'!\x03\x00\x00\x00\x00\x00\x00'
+p3206
+tp3207
+Rp3208
+S'Hard Target (1993)'
+p3209
+sg1
+(g5
+S'"\x03\x00\x00\x00\x00\x00\x00'
+p3210
+tp3211
+Rp3212
+S'Heaven & Earth (1993)'
+p3213
+sg1
+(g5
+S'#\x03\x00\x00\x00\x00\x00\x00'
+p3214
+tp3215
+Rp3216
+S'Jimmy Hollywood (1994)'
+p3217
+sg1
+(g5
+S'$\x03\x00\x00\x00\x00\x00\x00'
+p3218
+tp3219
+Rp3220
+S'Manhattan Murder Mystery (1993)'
+p3221
+sg1
+(g5
+S'%\x03\x00\x00\x00\x00\x00\x00'
+p3222
+tp3223
+Rp3224
+S'Menace II Society (1993)'
+p3225
+sg1
+(g5
+S'&\x03\x00\x00\x00\x00\x00\x00'
+p3226
+tp3227
+Rp3228
+S'Poetic Justice (1993)'
+p3229
+sg1
+(g5
+S"'\x03\x00\x00\x00\x00\x00\x00"
+p3230
+tp3231
+Rp3232
+S'Program, The (1993)'
+p3233
+sg1
+(g5
+S'(\x03\x00\x00\x00\x00\x00\x00'
+p3234
+tp3235
+Rp3236
+S'Rising Sun (1993)'
+p3237
+sg1
+(g5
+S')\x03\x00\x00\x00\x00\x00\x00'
+p3238
+tp3239
+Rp3240
+S'Shadow, The (1994)'
+p3241
+sg1
+(g5
+S'*\x03\x00\x00\x00\x00\x00\x00'
+p3242
+tp3243
+Rp3244
+S'Thirty-Two Short Films About Glenn Gould (1993)'
+p3245
+sg1
+(g5
+S'+\x03\x00\x00\x00\x00\x00\x00'
+p3246
+tp3247
+Rp3248
+S'Andre (1994)'
+p3249
+sg1
+(g5
+S',\x03\x00\x00\x00\x00\x00\x00'
+p3250
+tp3251
+Rp3252
+S'Celluloid Closet, The (1995)'
+p3253
+sg1
+(g5
+S'-\x03\x00\x00\x00\x00\x00\x00'
+p3254
+tp3255
+Rp3256
+S'Great Day in Harlem, A (1994)'
+p3257
+sg1
+(g5
+S'.\x03\x00\x00\x00\x00\x00\x00'
+p3258
+tp3259
+Rp3260
+S'One Fine Day (1996)'
+p3261
+sg1
+(g5
+S'/\x03\x00\x00\x00\x00\x00\x00'
+p3262
+tp3263
+Rp3264
+S'Candyman: Farewell to the Flesh (1995)'
+p3265
+sg1
+(g5
+S'0\x03\x00\x00\x00\x00\x00\x00'
+p3266
+tp3267
+Rp3268
+S'Frisk (1995)'
+p3269
+sg1
+(g5
+S'1\x03\x00\x00\x00\x00\x00\x00'
+p3270
+tp3271
+Rp3272
+S'Girl 6 (1996)'
+p3273
+sg1
+(g5
+S'2\x03\x00\x00\x00\x00\x00\x00'
+p3274
+tp3275
+Rp3276
+S'Eddie (1996)'
+p3277
+sg1
+(g5
+S'3\x03\x00\x00\x00\x00\x00\x00'
+p3278
+tp3279
+Rp3280
+S'Space Jam (1996)'
+p3281
+sg1
+(g5
+S'4\x03\x00\x00\x00\x00\x00\x00'
+p3282
+tp3283
+Rp3284
+S'Mrs. Winterbourne (1996)'
+p3285
+sg1
+(g5
+S'5\x03\x00\x00\x00\x00\x00\x00'
+p3286
+tp3287
+Rp3288
+S'Faces (1968)'
+p3289
+sg1
+(g5
+S'6\x03\x00\x00\x00\x00\x00\x00'
+p3290
+tp3291
+Rp3292
+S'Mulholland Falls (1996)'
+p3293
+sg1
+(g5
+S'7\x03\x00\x00\x00\x00\x00\x00'
+p3294
+tp3295
+Rp3296
+S'Great White Hype, The (1996)'
+p3297
+sg1
+(g5
+S'8\x03\x00\x00\x00\x00\x00\x00'
+p3298
+tp3299
+Rp3300
+S'Arrival, The (1996)'
+p3301
+sg1
+(g5
+S'9\x03\x00\x00\x00\x00\x00\x00'
+p3302
+tp3303
+Rp3304
+S'Phantom, The (1996)'
+p3305
+sg1
+(g5
+S':\x03\x00\x00\x00\x00\x00\x00'
+p3306
+tp3307
+Rp3308
+S'Daylight (1996)'
+p3309
+sg1
+(g5
+S';\x03\x00\x00\x00\x00\x00\x00'
+p3310
+tp3311
+Rp3312
+S'Alaska (1996)'
+p3313
+sg1
+(g5
+S'<\x03\x00\x00\x00\x00\x00\x00'
+p3314
+tp3315
+Rp3316
+S'Fled (1996)'
+p3317
+sg1
+(g5
+S'=\x03\x00\x00\x00\x00\x00\x00'
+p3318
+tp3319
+Rp3320
+S'Power 98 (1995)'
+p3321
+sg1
+(g5
+S'>\x03\x00\x00\x00\x00\x00\x00'
+p3322
+tp3323
+Rp3324
+S'Escape from L.A. (1996)'
+p3325
+sg1
+(g5
+S'?\x03\x00\x00\x00\x00\x00\x00'
+p3326
+tp3327
+Rp3328
+S'Bogus (1996)'
+p3329
+sg1
+(g5
+S'@\x03\x00\x00\x00\x00\x00\x00'
+p3330
+tp3331
+Rp3332
+S'Bulletproof (1996)'
+p3333
+sg1
+(g5
+S'A\x03\x00\x00\x00\x00\x00\x00'
+p3334
+tp3335
+Rp3336
+S'Halloween: The Curse of Michael Myers (1995)'
+p3337
+sg1
+(g5
+S'B\x03\x00\x00\x00\x00\x00\x00'
+p3338
+tp3339
+Rp3340
+S'Gay Divorcee, The (1934)'
+p3341
+sg1
+(g5
+S'C\x03\x00\x00\x00\x00\x00\x00'
+p3342
+tp3343
+Rp3344
+S'Ninotchka (1939)'
+p3345
+sg1
+(g5
+S'D\x03\x00\x00\x00\x00\x00\x00'
+p3346
+tp3347
+Rp3348
+S'Meet John Doe (1941)'
+p3349
+sg1
+(g5
+S'E\x03\x00\x00\x00\x00\x00\x00'
+p3350
+tp3351
+Rp3352
+S'In the Line of Duty 2 (1987)'
+p3353
+sg1
+(g5
+S'F\x03\x00\x00\x00\x00\x00\x00'
+p3354
+tp3355
+Rp3356
+S'Loch Ness (1995)'
+p3357
+sg1
+(g5
+S'G\x03\x00\x00\x00\x00\x00\x00'
+p3358
+tp3359
+Rp3360
+S'Last Man Standing (1996)'
+p3361
+sg1
+(g5
+S'H\x03\x00\x00\x00\x00\x00\x00'
+p3362
+tp3363
+Rp3364
+S'Glimmer Man, The (1996)'
+p3365
+sg1
+(g5
+S'I\x03\x00\x00\x00\x00\x00\x00'
+p3366
+tp3367
+Rp3368
+S'Pollyanna (1960)'
+p3369
+sg1
+(g5
+S'J\x03\x00\x00\x00\x00\x00\x00'
+p3370
+tp3371
+Rp3372
+S'Shaggy Dog, The (1959)'
+p3373
+sg1
+(g5
+S'K\x03\x00\x00\x00\x00\x00\x00'
+p3374
+tp3375
+Rp3376
+S'Freeway (1996)'
+p3377
+sg1
+(g5
+S'L\x03\x00\x00\x00\x00\x00\x00'
+p3378
+tp3379
+Rp3380
+S'That Thing You Do! (1996)'
+p3381
+sg1
+(g5
+S'M\x03\x00\x00\x00\x00\x00\x00'
+p3382
+tp3383
+Rp3384
+S'To Gillian on Her 37th Birthday (1996)'
+p3385
+sg1
+(g5
+S'N\x03\x00\x00\x00\x00\x00\x00'
+p3386
+tp3387
+Rp3388
+S'Looking for Richard (1996)'
+p3389
+sg1
+(g5
+S'O\x03\x00\x00\x00\x00\x00\x00'
+p3390
+tp3391
+Rp3392
+S'Murder, My Sweet (1944)'
+p3393
+sg1
+(g5
+S'P\x03\x00\x00\x00\x00\x00\x00'
+p3394
+tp3395
+Rp3396
+S'Days of Thunder (1990)'
+p3397
+sg1
+(g5
+S'Q\x03\x00\x00\x00\x00\x00\x00'
+p3398
+tp3399
+Rp3400
+S'Perfect Candidate, A (1996)'
+p3401
+sg1
+(g5
+S'R\x03\x00\x00\x00\x00\x00\x00'
+p3402
+tp3403
+Rp3404
+S'Two or Three Things I Know About Her (1966)'
+p3405
+sg1
+(g5
+S'S\x03\x00\x00\x00\x00\x00\x00'
+p3406
+tp3407
+Rp3408
+S'Bloody Child, The (1996)'
+p3409
+sg1
+(g5
+S'T\x03\x00\x00\x00\x00\x00\x00'
+p3410
+tp3411
+Rp3412
+S'Braindead (1992)'
+p3413
+sg1
+(g5
+S'U\x03\x00\x00\x00\x00\x00\x00'
+p3414
+tp3415
+Rp3416
+S'Bad Taste (1987)'
+p3417
+sg1
+(g5
+S'V\x03\x00\x00\x00\x00\x00\x00'
+p3418
+tp3419
+Rp3420
+S'Diva (1981)'
+p3421
+sg1
+(g5
+S'W\x03\x00\x00\x00\x00\x00\x00'
+p3422
+tp3423
+Rp3424
+S'Night on Earth (1991)'
+p3425
+sg1
+(g5
+S'X\x03\x00\x00\x00\x00\x00\x00'
+p3426
+tp3427
+Rp3428
+S'Paris Was a Woman (1995)'
+p3429
+sg1
+(g5
+S'Y\x03\x00\x00\x00\x00\x00\x00'
+p3430
+tp3431
+Rp3432
+S'Amityville: Dollhouse (1996)'
+p3433
+sg1
+(g5
+S'Z\x03\x00\x00\x00\x00\x00\x00'
+p3434
+tp3435
+Rp3436
+S"April Fool's Day (1986)"
+p3437
+sg1
+(g5
+S'[\x03\x00\x00\x00\x00\x00\x00'
+p3438
+tp3439
+Rp3440
+S'Believers, The (1987)'
+p3441
+sg1
+(g5
+S'\\\x03\x00\x00\x00\x00\x00\x00'
+p3442
+tp3443
+Rp3444
+S'Nosferatu a Venezia (1986)'
+p3445
+sg1
+(g5
+S']\x03\x00\x00\x00\x00\x00\x00'
+p3446
+tp3447
+Rp3448
+S'Jingle All the Way (1996)'
+p3449
+sg1
+(g5
+S'^\x03\x00\x00\x00\x00\x00\x00'
+p3450
+tp3451
+Rp3452
+S'Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)'
+p3453
+sg1
+(g5
+S'_\x03\x00\x00\x00\x00\x00\x00'
+p3454
+tp3455
+Rp3456
+S'My Fellow Americans (1996)'
+p3457
+sg1
+(g5
+S'`\x03\x00\x00\x00\x00\x00\x00'
+p3458
+tp3459
+Rp3460
+g1225
+sg1
+(g5
+S'a\x03\x00\x00\x00\x00\x00\x00'
+p3461
+tp3462
+Rp3463
+S'Michael (1996)'
+p3464
+sg1
+(g5
+S'b\x03\x00\x00\x00\x00\x00\x00'
+p3465
+tp3466
+Rp3467
+S'Whole Wide World, The (1996)'
+p3468
+sg1
+(g5
+S'c\x03\x00\x00\x00\x00\x00\x00'
+p3469
+tp3470
+Rp3471
+S'Hearts and Minds (1996)'
+p3472
+sg1
+(g5
+S'd\x03\x00\x00\x00\x00\x00\x00'
+p3473
+tp3474
+Rp3475
+S'Fools Rush In (1997)'
+p3476
+sg1
+(g5
+S'e\x03\x00\x00\x00\x00\x00\x00'
+p3477
+tp3478
+Rp3479
+S'Touch (1997)'
+p3480
+sg1
+(g5
+S'f\x03\x00\x00\x00\x00\x00\x00'
+p3481
+tp3482
+Rp3483
+S'Vegas Vacation (1997)'
+p3484
+sg1
+(g5
+S'g\x03\x00\x00\x00\x00\x00\x00'
+p3485
+tp3486
+Rp3487
+S'Love Jones (1997)'
+p3488
+sg1
+(g5
+S'h\x03\x00\x00\x00\x00\x00\x00'
+p3489
+tp3490
+Rp3491
+S'Picture Perfect (1997)'
+p3492
+sg1
+(g5
+S'i\x03\x00\x00\x00\x00\x00\x00'
+p3493
+tp3494
+Rp3495
+S'Career Girls (1997)'
+p3496
+sg1
+(g5
+S'j\x03\x00\x00\x00\x00\x00\x00'
+p3497
+tp3498
+Rp3499
+S"She's So Lovely (1997)"
+p3500
+sg1
+(g5
+S'k\x03\x00\x00\x00\x00\x00\x00'
+p3501
+tp3502
+Rp3503
+S'Money Talks (1997)'
+p3504
+sg1
+(g5
+S'l\x03\x00\x00\x00\x00\x00\x00'
+p3505
+tp3506
+Rp3507
+S'Excess Baggage (1997)'
+p3508
+sg1
+(g5
+S'm\x03\x00\x00\x00\x00\x00\x00'
+p3509
+tp3510
+Rp3511
+S'That Darn Cat! (1997)'
+p3512
+sg1
+(g5
+S'n\x03\x00\x00\x00\x00\x00\x00'
+p3513
+tp3514
+Rp3515
+S'Peacemaker, The (1997)'
+p3516
+sg1
+(g5
+S'o\x03\x00\x00\x00\x00\x00\x00'
+p3517
+tp3518
+Rp3519
+S'Soul Food (1997)'
+p3520
+sg1
+(g5
+S'p\x03\x00\x00\x00\x00\x00\x00'
+p3521
+tp3522
+Rp3523
+g3504
+sg1
+(g5
+S'q\x03\x00\x00\x00\x00\x00\x00'
+p3524
+tp3525
+Rp3526
+S'Washington Square (1997)'
+p3527
+sg1
+(g5
+S'r\x03\x00\x00\x00\x00\x00\x00'
+p3528
+tp3529
+Rp3530
+S'Telling Lies in America (1997)'
+p3531
+sg1
+(g5
+S's\x03\x00\x00\x00\x00\x00\x00'
+p3532
+tp3533
+Rp3534
+S'Year of the Horse (1997)'
+p3535
+sg1
+(g5
+S't\x03\x00\x00\x00\x00\x00\x00'
+p3536
+tp3537
+Rp3538
+S'Phantoms (1998)'
+p3539
+sg1
+(g5
+S'u\x03\x00\x00\x00\x00\x00\x00'
+p3540
+tp3541
+Rp3542
+S'Life Less Ordinary, A (1997)'
+p3543
+sg1
+(g5
+S'v\x03\x00\x00\x00\x00\x00\x00'
+p3544
+tp3545
+Rp3546
+S"Eve's Bayou (1997)"
+p3547
+sg1
+(g5
+S'w\x03\x00\x00\x00\x00\x00\x00'
+p3548
+tp3549
+Rp3550
+S'One Night Stand (1997)'
+p3551
+sg1
+(g5
+S'x\x03\x00\x00\x00\x00\x00\x00'
+p3552
+tp3553
+Rp3554
+S'Tango Lesson, The (1997)'
+p3555
+sg1
+(g5
+S'y\x03\x00\x00\x00\x00\x00\x00'
+p3556
+tp3557
+Rp3558
+S'Mortal Kombat: Annihilation (1997)'
+p3559
+sg1
+(g5
+S'z\x03\x00\x00\x00\x00\x00\x00'
+p3560
+tp3561
+Rp3562
+S'Bent (1997)'
+p3563
+sg1
+(g5
+S'{\x03\x00\x00\x00\x00\x00\x00'
+p3564
+tp3565
+Rp3566
+S'Flubber (1997)'
+p3567
+sg1
+(g5
+S'|\x03\x00\x00\x00\x00\x00\x00'
+p3568
+tp3569
+Rp3570
+S'For Richer or Poorer (1997)'
+p3571
+sg1
+(g5
+S'}\x03\x00\x00\x00\x00\x00\x00'
+p3572
+tp3573
+Rp3574
+S'Home Alone 3 (1997)'
+p3575
+sg1
+(g5
+S'~\x03\x00\x00\x00\x00\x00\x00'
+p3576
+tp3577
+Rp3578
+S'Scream 2 (1997)'
+p3579
+sg1
+(g5
+S'\x7f\x03\x00\x00\x00\x00\x00\x00'
+p3580
+tp3581
+Rp3582
+S'Sweet Hereafter, The (1997)'
+p3583
+sg1
+(g5
+S'\x80\x03\x00\x00\x00\x00\x00\x00'
+p3584
+tp3585
+Rp3586
+S'Time Tracers (1995)'
+p3587
+sg1
+(g5
+S'\x81\x03\x00\x00\x00\x00\x00\x00'
+p3588
+tp3589
+Rp3590
+S'Postman, The (1997)'
+p3591
+sg1
+(g5
+S'\x82\x03\x00\x00\x00\x00\x00\x00'
+p3592
+tp3593
+Rp3594
+S'Winter Guest, The (1997)'
+p3595
+sg1
+(g5
+S'\x83\x03\x00\x00\x00\x00\x00\x00'
+p3596
+tp3597
+Rp3598
+S'Kundun (1997)'
+p3599
+sg1
+(g5
+S'\x84\x03\x00\x00\x00\x00\x00\x00'
+p3600
+tp3601
+Rp3602
+S'Mr. Magoo (1997)'
+p3603
+sg1
+(g5
+S'\x85\x03\x00\x00\x00\x00\x00\x00'
+p3604
+tp3605
+Rp3606
+S'Big Lebowski, The (1998)'
+p3607
+sg1
+(g5
+S'\x86\x03\x00\x00\x00\x00\x00\x00'
+p3608
+tp3609
+Rp3610
+S'Afterglow (1997)'
+p3611
+sg1
+(g5
+S'\x87\x03\x00\x00\x00\x00\x00\x00'
+p3612
+tp3613
+Rp3614
+S'Ma vie en rose (My Life in Pink) (1997)'
+p3615
+sg1
+(g5
+S'\x88\x03\x00\x00\x00\x00\x00\x00'
+p3616
+tp3617
+Rp3618
+S'Great Expectations (1998)'
+p3619
+sg1
+(g5
+S'\x89\x03\x00\x00\x00\x00\x00\x00'
+p3620
+tp3621
+Rp3622
+S'Oscar & Lucinda (1997)'
+p3623
+sg1
+(g5
+S'\x8a\x03\x00\x00\x00\x00\x00\x00'
+p3624
+tp3625
+Rp3626
+S'Vermin (1998)'
+p3627
+sg1
+(g5
+S'\x8b\x03\x00\x00\x00\x00\x00\x00'
+p3628
+tp3629
+Rp3630
+S'Half Baked (1998)'
+p3631
+sg1
+(g5
+S'\x8c\x03\x00\x00\x00\x00\x00\x00'
+p3632
+tp3633
+Rp3634
+S'Dangerous Beauty (1998)'
+p3635
+sg1
+(g5
+S'\x8d\x03\x00\x00\x00\x00\x00\x00'
+p3636
+tp3637
+Rp3638
+S'Nil By Mouth (1997)'
+p3639
+sg1
+(g5
+S'\x8e\x03\x00\x00\x00\x00\x00\x00'
+p3640
+tp3641
+Rp3642
+S'Twilight (1998)'
+p3643
+sg1
+(g5
+S'\x8f\x03\x00\x00\x00\x00\x00\x00'
+p3644
+tp3645
+Rp3646
+S'U.S. Marshalls (1998)'
+p3647
+sg1
+(g5
+S'\x90\x03\x00\x00\x00\x00\x00\x00'
+p3648
+tp3649
+Rp3650
+S'Love and Death on Long Island (1997)'
+p3651
+sg1
+(g5
+S'\x91\x03\x00\x00\x00\x00\x00\x00'
+p3652
+tp3653
+Rp3654
+S'Wild Things (1998)'
+p3655
+sg1
+(g5
+S'\x92\x03\x00\x00\x00\x00\x00\x00'
+p3656
+tp3657
+Rp3658
+S'Primary Colors (1998)'
+p3659
+sg1
+(g5
+S'\x93\x03\x00\x00\x00\x00\x00\x00'
+p3660
+tp3661
+Rp3662
+S'Lost in Space (1998)'
+p3663
+sg1
+(g5
+S'\x94\x03\x00\x00\x00\x00\x00\x00'
+p3664
+tp3665
+Rp3666
+S'Mercury Rising (1998)'
+p3667
+sg1
+(g5
+S'\x95\x03\x00\x00\x00\x00\x00\x00'
+p3668
+tp3669
+Rp3670
+S'City of Angels (1998)'
+p3671
+sg1
+(g5
+S'\x96\x03\x00\x00\x00\x00\x00\x00'
+p3672
+tp3673
+Rp3674
+S'City of Lost Children, The (1995)'
+p3675
+sg1
+(g5
+S'\x97\x03\x00\x00\x00\x00\x00\x00'
+p3676
+tp3677
+Rp3678
+S'Two Bits (1995)'
+p3679
+sg1
+(g5
+S'\x98\x03\x00\x00\x00\x00\x00\x00'
+p3680
+tp3681
+Rp3682
+S'Farewell My Concubine (1993)'
+p3683
+sg1
+(g5
+S'\x99\x03\x00\x00\x00\x00\x00\x00'
+p3684
+tp3685
+Rp3686
+S'Dead Man (1995)'
+p3687
+sg1
+(g5
+S'\x9a\x03\x00\x00\x00\x00\x00\x00'
+p3688
+tp3689
+Rp3690
+S'Raise the Red Lantern (1991)'
+p3691
+sg1
+(g5
+S'\x9b\x03\x00\x00\x00\x00\x00\x00'
+p3692
+tp3693
+Rp3694
+S'White Squall (1996)'
+p3695
+sg1
+(g5
+S'\x9c\x03\x00\x00\x00\x00\x00\x00'
+p3696
+tp3697
+Rp3698
+S'Unforgettable (1996)'
+p3699
+sg1
+(g5
+S'\x9d\x03\x00\x00\x00\x00\x00\x00'
+p3700
+tp3701
+Rp3702
+S'Down Periscope (1996)'
+p3703
+sg1
+(g5
+S'\x9e\x03\x00\x00\x00\x00\x00\x00'
+p3704
+tp3705
+Rp3706
+S'Flower of My Secret, The (Flor de mi secreto, La) (1995)'
+p3707
+sg1
+(g5
+S'\x9f\x03\x00\x00\x00\x00\x00\x00'
+p3708
+tp3709
+Rp3710
+S'Craft, The (1996)'
+p3711
+sg1
+(g5
+S'\xa0\x03\x00\x00\x00\x00\x00\x00'
+p3712
+tp3713
+Rp3714
+S'Harriet the Spy (1996)'
+p3715
+sg1
+(g5
+S'\xa1\x03\x00\x00\x00\x00\x00\x00'
+p3716
+tp3717
+Rp3718
+S'Chain Reaction (1996)'
+p3719
+sg1
+(g5
+S'\xa2\x03\x00\x00\x00\x00\x00\x00'
+p3720
+tp3721
+Rp3722
+S'Island of Dr. Moreau, The (1996)'
+p3723
+sg1
+(g5
+S'\xa3\x03\x00\x00\x00\x00\x00\x00'
+p3724
+tp3725
+Rp3726
+S'First Kid (1996)'
+p3727
+sg1
+(g5
+S'\xa4\x03\x00\x00\x00\x00\x00\x00'
+p3728
+tp3729
+Rp3730
+S'Funeral, The (1996)'
+p3731
+sg1
+(g5
+S'\xa5\x03\x00\x00\x00\x00\x00\x00'
+p3732
+tp3733
+Rp3734
+S"Preacher's Wife, The (1996)"
+p3735
+sg1
+(g5
+S'\xa6\x03\x00\x00\x00\x00\x00\x00'
+p3736
+tp3737
+Rp3738
+S'Paradise Road (1997)'
+p3739
+sg1
+(g5
+S'\xa7\x03\x00\x00\x00\x00\x00\x00'
+p3740
+tp3741
+Rp3742
+S'Brassed Off (1996)'
+p3743
+sg1
+(g5
+S'\xa8\x03\x00\x00\x00\x00\x00\x00'
+p3744
+tp3745
+Rp3746
+S'Thousand Acres, A (1997)'
+p3747
+sg1
+(g5
+S'\xa9\x03\x00\x00\x00\x00\x00\x00'
+p3748
+tp3749
+Rp3750
+S'Smile Like Yours, A (1997)'
+p3751
+sg1
+(g5
+S'\xaa\x03\x00\x00\x00\x00\x00\x00'
+p3752
+tp3753
+Rp3754
+S'Murder in the First (1995)'
+p3755
+sg1
+(g5
+S'\xab\x03\x00\x00\x00\x00\x00\x00'
+p3756
+tp3757
+Rp3758
+S'Airheads (1994)'
+p3759
+sg1
+(g5
+S'\xac\x03\x00\x00\x00\x00\x00\x00'
+p3760
+tp3761
+Rp3762
+S'With Honors (1994)'
+p3763
+sg1
+(g5
+S'\xad\x03\x00\x00\x00\x00\x00\x00'
+p3764
+tp3765
+Rp3766
+S"What's Love Got to Do with It (1993)"
+p3767
+sg1
+(g5
+S'\xae\x03\x00\x00\x00\x00\x00\x00'
+p3768
+tp3769
+Rp3770
+S'Killing Zoe (1994)'
+p3771
+sg1
+(g5
+S'\xaf\x03\x00\x00\x00\x00\x00\x00'
+p3772
+tp3773
+Rp3774
+S'Renaissance Man (1994)'
+p3775
+sg1
+(g5
+S'\xb0\x03\x00\x00\x00\x00\x00\x00'
+p3776
+tp3777
+Rp3778
+S'Charade (1963)'
+p3779
+sg1
+(g5
+S'\xb1\x03\x00\x00\x00\x00\x00\x00'
+p3780
+tp3781
+Rp3782
+S'Fox and the Hound, The (1981)'
+p3783
+sg1
+(g5
+S'\xb2\x03\x00\x00\x00\x00\x00\x00'
+p3784
+tp3785
+Rp3786
+S'Big Blue, The (Grand bleu, Le) (1988)'
+p3787
+sg1
+(g5
+S'\xb3\x03\x00\x00\x00\x00\x00\x00'
+p3788
+tp3789
+Rp3790
+S'Booty Call (1997)'
+p3791
+sg1
+(g5
+S'\xb4\x03\x00\x00\x00\x00\x00\x00'
+p3792
+tp3793
+Rp3794
+S'How to Make an American Quilt (1995)'
+p3795
+sg1
+(g5
+S'\xb5\x03\x00\x00\x00\x00\x00\x00'
+p3796
+tp3797
+Rp3798
+S'Georgia (1995)'
+p3799
+sg1
+(g5
+S'\xb6\x03\x00\x00\x00\x00\x00\x00'
+p3800
+tp3801
+Rp3802
+S'Indian in the Cupboard, The (1995)'
+p3803
+sg1
+(g5
+S'\xb7\x03\x00\x00\x00\x00\x00\x00'
+p3804
+tp3805
+Rp3806
+S'Blue in the Face (1995)'
+p3807
+sg1
+(g5
+S'\xb8\x03\x00\x00\x00\x00\x00\x00'
+p3808
+tp3809
+Rp3810
+S'Unstrung Heroes (1995)'
+p3811
+sg1
+(g5
+S'\xb9\x03\x00\x00\x00\x00\x00\x00'
+p3812
+tp3813
+Rp3814
+S'Unzipped (1995)'
+p3815
+sg1
+(g5
+S'\xba\x03\x00\x00\x00\x00\x00\x00'
+p3816
+tp3817
+Rp3818
+S'Before Sunrise (1995)'
+p3819
+sg1
+(g5
+S'\xbb\x03\x00\x00\x00\x00\x00\x00'
+p3820
+tp3821
+Rp3822
+S"Nobody's Fool (1994)"
+p3823
+sg1
+(g5
+S'\xbc\x03\x00\x00\x00\x00\x00\x00'
+p3824
+tp3825
+Rp3826
+S'Pushing Hands (1992)'
+p3827
+sg1
+(g5
+S'\xbd\x03\x00\x00\x00\x00\x00\x00'
+p3828
+tp3829
+Rp3830
+S'To Live (Huozhe) (1994)'
+p3831
+sg1
+(g5
+S'\xbe\x03\x00\x00\x00\x00\x00\x00'
+p3832
+tp3833
+Rp3834
+S'Dazed and Confused (1993)'
+p3835
+sg1
+(g5
+S'\xbf\x03\x00\x00\x00\x00\x00\x00'
+p3836
+tp3837
+Rp3838
+S'Naked (1993)'
+p3839
+sg1
+(g5
+S'\xc0\x03\x00\x00\x00\x00\x00\x00'
+p3840
+tp3841
+Rp3842
+S'Orlando (1993)'
+p3843
+sg1
+(g5
+S'\xc1\x03\x00\x00\x00\x00\x00\x00'
+p3844
+tp3845
+Rp3846
+S'Ruby in Paradise (1993)'
+p3847
+sg1
+(g5
+S'\xc2\x03\x00\x00\x00\x00\x00\x00'
+p3848
+tp3849
+Rp3850
+S'Some Folks Call It a Sling Blade (1993)'
+p3851
+sg1
+(g5
+S'\xc3\x03\x00\x00\x00\x00\x00\x00'
+p3852
+tp3853
+Rp3854
+S'Month by the Lake, A (1995)'
+p3855
+sg1
+(g5
+S'\xc4\x03\x00\x00\x00\x00\x00\x00'
+p3856
+tp3857
+Rp3858
+S'Funny Face (1957)'
+p3859
+sg1
+(g5
+S'\xc5\x03\x00\x00\x00\x00\x00\x00'
+p3860
+tp3861
+Rp3862
+S'Affair to Remember, An (1957)'
+p3863
+sg1
+(g5
+S'\xc6\x03\x00\x00\x00\x00\x00\x00'
+p3864
+tp3865
+Rp3866
+S'Little Lord Fauntleroy (1936)'
+p3867
+sg1
+(g5
+S'\xc7\x03\x00\x00\x00\x00\x00\x00'
+p3868
+tp3869
+Rp3870
+S'Inspector General, The (1949)'
+p3871
+sg1
+(g5
+S'\xc8\x03\x00\x00\x00\x00\x00\x00'
+p3872
+tp3873
+Rp3874
+S'Winnie the Pooh and the Blustery Day (1968)'
+p3875
+sg1
+(g5
+S'\xc9\x03\x00\x00\x00\x00\x00\x00'
+p3876
+tp3877
+Rp3878
+S'Hear My Song (1991)'
+p3879
+sg1
+(g5
+S'\xca\x03\x00\x00\x00\x00\x00\x00'
+p3880
+tp3881
+Rp3882
+S'Mediterraneo (1991)'
+p3883
+sg1
+(g5
+S'\xcb\x03\x00\x00\x00\x00\x00\x00'
+p3884
+tp3885
+Rp3886
+S'Passion Fish (1992)'
+p3887
+sg1
+(g5
+S'\xcc\x03\x00\x00\x00\x00\x00\x00'
+p3888
+tp3889
+Rp3890
+S'Grateful Dead (1995)'
+p3891
+sg1
+(g5
+S'\xcd\x03\x00\x00\x00\x00\x00\x00'
+p3892
+tp3893
+Rp3894
+S'Eye for an Eye (1996)'
+p3895
+sg1
+(g5
+S'\xce\x03\x00\x00\x00\x00\x00\x00'
+p3896
+tp3897
+Rp3898
+S'Fear (1996)'
+p3899
+sg1
+(g5
+S'\xcf\x03\x00\x00\x00\x00\x00\x00'
+p3900
+tp3901
+Rp3902
+S'Solo (1996)'
+p3903
+sg1
+(g5
+S'\xd0\x03\x00\x00\x00\x00\x00\x00'
+p3904
+tp3905
+Rp3906
+S'Substitute, The (1996)'
+p3907
+sg1
+(g5
+S'\xd1\x03\x00\x00\x00\x00\x00\x00'
+p3908
+tp3909
+Rp3910
+S"Heaven's Prisoners (1996)"
+p3911
+sg1
+(g5
+S'\xd2\x03\x00\x00\x00\x00\x00\x00'
+p3912
+tp3913
+Rp3914
+S'Trigger Effect, The (1996)'
+p3915
+sg1
+(g5
+S'\xd3\x03\x00\x00\x00\x00\x00\x00'
+p3916
+tp3917
+Rp3918
+S'Mother Night (1996)'
+p3919
+sg1
+(g5
+S'\xd4\x03\x00\x00\x00\x00\x00\x00'
+p3920
+tp3921
+Rp3922
+S'Dangerous Ground (1997)'
+p3923
+sg1
+(g5
+S'\xd5\x03\x00\x00\x00\x00\x00\x00'
+p3924
+tp3925
+Rp3926
+S'Maximum Risk (1996)'
+p3927
+sg1
+(g5
+S'\xd6\x03\x00\x00\x00\x00\x00\x00'
+p3928
+tp3929
+Rp3930
+S"Rich Man's Wife, The (1996)"
+p3931
+sg1
+(g5
+S'\xd7\x03\x00\x00\x00\x00\x00\x00'
+p3932
+tp3933
+Rp3934
+S'Shadow Conspiracy (1997)'
+p3935
+sg1
+(g5
+S'\xd8\x03\x00\x00\x00\x00\x00\x00'
+p3936
+tp3937
+Rp3938
+S'Blood & Wine (1997)'
+p3939
+sg1
+(g5
+S'\xd9\x03\x00\x00\x00\x00\x00\x00'
+p3940
+tp3941
+Rp3942
+S'Turbulence (1997)'
+p3943
+sg1
+(g5
+S'\xda\x03\x00\x00\x00\x00\x00\x00'
+p3944
+tp3945
+Rp3946
+S'Underworld (1997)'
+p3947
+sg1
+(g5
+S'\xdb\x03\x00\x00\x00\x00\x00\x00'
+p3948
+tp3949
+Rp3950
+S'Beautician and the Beast, The (1997)'
+p3951
+sg1
+(g5
+S'\xdc\x03\x00\x00\x00\x00\x00\x00'
+p3952
+tp3953
+Rp3954
+S"Cats Don't Dance (1997)"
+p3955
+sg1
+(g5
+S'\xdd\x03\x00\x00\x00\x00\x00\x00'
+p3956
+tp3957
+Rp3958
+S'Anna Karenina (1997)'
+p3959
+sg1
+(g5
+S'\xde\x03\x00\x00\x00\x00\x00\x00'
+p3960
+tp3961
+Rp3962
+S'Keys to Tulsa (1997)'
+p3963
+sg1
+(g5
+S'\xdf\x03\x00\x00\x00\x00\x00\x00'
+p3964
+tp3965
+Rp3966
+S'Head Above Water (1996)'
+p3967
+sg1
+(g5
+S'\xe0\x03\x00\x00\x00\x00\x00\x00'
+p3968
+tp3969
+Rp3970
+S'Hercules (1997)'
+p3971
+sg1
+(g5
+S'\xe1\x03\x00\x00\x00\x00\x00\x00'
+p3972
+tp3973
+Rp3974
+S'Last Time I Committed Suicide, The (1997)'
+p3975
+sg1
+(g5
+S'\xe2\x03\x00\x00\x00\x00\x00\x00'
+p3976
+tp3977
+Rp3978
+S'Kiss Me, Guido (1997)'
+p3979
+sg1
+(g5
+S'\xe3\x03\x00\x00\x00\x00\x00\x00'
+p3980
+tp3981
+Rp3982
+S'Big Green, The (1995)'
+p3983
+sg1
+(g5
+S'\xe4\x03\x00\x00\x00\x00\x00\x00'
+p3984
+tp3985
+Rp3986
+S'Stuart Saves His Family (1995)'
+p3987
+sg1
+(g5
+S'\xe5\x03\x00\x00\x00\x00\x00\x00'
+p3988
+tp3989
+Rp3990
+S'Cabin Boy (1994)'
+p3991
+sg1
+(g5
+S'\xe6\x03\x00\x00\x00\x00\x00\x00'
+p3992
+tp3993
+Rp3994
+S'Clean Slate (1994)'
+p3995
+sg1
+(g5
+S'\xe7\x03\x00\x00\x00\x00\x00\x00'
+p3996
+tp3997
+Rp3998
+S'Lightning Jack (1994)'
+p3999
+sg1
+(g5
+S'\xe8\x03\x00\x00\x00\x00\x00\x00'
+p4000
+tp4001
+Rp4002
+S'Stupids, The (1996)'
+p4003
+sg1
+(g5
+S'\xe9\x03\x00\x00\x00\x00\x00\x00'
+p4004
+tp4005
+Rp4006
+S'Pest, The (1997)'
+p4007
+sg1
+(g5
+S'\xea\x03\x00\x00\x00\x00\x00\x00'
+p4008
+tp4009
+Rp4010
+g3512
+sg1
+(g5
+S'\xeb\x03\x00\x00\x00\x00\x00\x00'
+p4011
+tp4012
+Rp4013
+S'Geronimo: An American Legend (1993)'
+p4014
+sg1
+(g5
+S'\xec\x03\x00\x00\x00\x00\x00\x00'
+p4015
+tp4016
+Rp4017
+S'Double vie de V\xe9ronique, La (Double Life of Veronique, The) (1991)'
+p4018
+sg1
+(g5
+S'\xed\x03\x00\x00\x00\x00\x00\x00'
+p4019
+tp4020
+Rp4021
+S'Until the End of the World (Bis ans Ende der Welt) (1991)'
+p4022
+sg1
+(g5
+S'\xee\x03\x00\x00\x00\x00\x00\x00'
+p4023
+tp4024
+Rp4025
+S'Waiting for Guffman (1996)'
+p4026
+sg1
+(g5
+S'\xef\x03\x00\x00\x00\x00\x00\x00'
+p4027
+tp4028
+Rp4029
+S'I Shot Andy Warhol (1996)'
+p4030
+sg1
+(g5
+S'\xf0\x03\x00\x00\x00\x00\x00\x00'
+p4031
+tp4032
+Rp4033
+S'Stealing Beauty (1996)'
+p4034
+sg1
+(g5
+S'\xf1\x03\x00\x00\x00\x00\x00\x00'
+p4035
+tp4036
+Rp4037
+S'Basquiat (1996)'
+p4038
+sg1
+(g5
+S'\xf2\x03\x00\x00\x00\x00\x00\x00'
+p4039
+tp4040
+Rp4041
+S'2 Days in the Valley (1996)'
+p4042
+sg1
+(g5
+S'\xf3\x03\x00\x00\x00\x00\x00\x00'
+p4043
+tp4044
+Rp4045
+S'Private Parts (1997)'
+p4046
+sg1
+(g5
+S'\xf4\x03\x00\x00\x00\x00\x00\x00'
+p4047
+tp4048
+Rp4049
+S'Anaconda (1997)'
+p4050
+sg1
+(g5
+S'\xf5\x03\x00\x00\x00\x00\x00\x00'
+p4051
+tp4052
+Rp4053
+S"Romy and Michele's High School Reunion (1997)"
+p4054
+sg1
+(g5
+S'\xf6\x03\x00\x00\x00\x00\x00\x00'
+p4055
+tp4056
+Rp4057
+S'Shiloh (1997)'
+p4058
+sg1
+(g5
+S'\xf7\x03\x00\x00\x00\x00\x00\x00'
+p4059
+tp4060
+Rp4061
+S'Con Air (1997)'
+p4062
+sg1
+(g5
+S'\xf8\x03\x00\x00\x00\x00\x00\x00'
+p4063
+tp4064
+Rp4065
+S'Trees Lounge (1996)'
+p4066
+sg1
+(g5
+S'\xf9\x03\x00\x00\x00\x00\x00\x00'
+p4067
+tp4068
+Rp4069
+S'Tie Me Up! Tie Me Down! (1990)'
+p4070
+sg1
+(g5
+S'\xfa\x03\x00\x00\x00\x00\x00\x00'
+p4071
+tp4072
+Rp4073
+S'Die xue shuang xiong (Killer, The) (1989)'
+p4074
+sg1
+(g5
+S'\xfb\x03\x00\x00\x00\x00\x00\x00'
+p4075
+tp4076
+Rp4077
+S'Gaslight (1944)'
+p4078
+sg1
+(g5
+S'\xfc\x03\x00\x00\x00\x00\x00\x00'
+p4079
+tp4080
+Rp4081
+S'8 1/2 (1963)'
+p4082
+sg1
+(g5
+S'\xfd\x03\x00\x00\x00\x00\x00\x00'
+p4083
+tp4084
+Rp4085
+S'Fast, Cheap & Out of Control (1997)'
+p4086
+sg1
+(g5
+S'\xfe\x03\x00\x00\x00\x00\x00\x00'
+p4087
+tp4088
+Rp4089
+S"Fathers' Day (1997)"
+p4090
+sg1
+(g5
+S'\xff\x03\x00\x00\x00\x00\x00\x00'
+p4091
+tp4092
+Rp4093
+S'Mrs. Dalloway (1997)'
+p4094
+sg1
+(g5
+S'\x00\x04\x00\x00\x00\x00\x00\x00'
+p4095
+tp4096
+Rp4097
+S'Fire Down Below (1997)'
+p4098
+sg1
+(g5
+S'\x01\x04\x00\x00\x00\x00\x00\x00'
+p4099
+tp4100
+Rp4101
+S'Lay of the Land, The (1997)'
+p4102
+sg1
+(g5
+S'\x02\x04\x00\x00\x00\x00\x00\x00'
+p4103
+tp4104
+Rp4105
+S'Shooter, The (1995)'
+p4106
+sg1
+(g5
+S'\x03\x04\x00\x00\x00\x00\x00\x00'
+p4107
+tp4108
+Rp4109
+S'Grumpier Old Men (1995)'
+p4110
+sg1
+(g5
+S'\x04\x04\x00\x00\x00\x00\x00\x00'
+p4111
+tp4112
+Rp4113
+S'Jury Duty (1995)'
+p4114
+sg1
+(g5
+S'\x05\x04\x00\x00\x00\x00\x00\x00'
+p4115
+tp4116
+Rp4117
+S'Beverly Hillbillies, The (1993)'
+p4118
+sg1
+(g5
+S'\x06\x04\x00\x00\x00\x00\x00\x00'
+p4119
+tp4120
+Rp4121
+S'Lassie (1994)'
+p4122
+sg1
+(g5
+S'\x07\x04\x00\x00\x00\x00\x00\x00'
+p4123
+tp4124
+Rp4125
+S'Little Big League (1994)'
+p4126
+sg1
+(g5
+S'\x08\x04\x00\x00\x00\x00\x00\x00'
+p4127
+tp4128
+Rp4129
+S'Homeward Bound II: Lost in San Francisco (1996)'
+p4130
+sg1
+(g5
+S'\t\x04\x00\x00\x00\x00\x00\x00'
+p4131
+tp4132
+Rp4133
+S'Quest, The (1996)'
+p4134
+sg1
+(g5
+S'\n\x04\x00\x00\x00\x00\x00\x00'
+p4135
+tp4136
+Rp4137
+S'Cool Runnings (1993)'
+p4138
+sg1
+(g5
+S'\x0b\x04\x00\x00\x00\x00\x00\x00'
+p4139
+tp4140
+Rp4141
+S'Drop Dead Fred (1991)'
+p4142
+sg1
+(g5
+S'\x0c\x04\x00\x00\x00\x00\x00\x00'
+p4143
+tp4144
+Rp4145
+S'Grease 2 (1982)'
+p4146
+sg1
+(g5
+S'\r\x04\x00\x00\x00\x00\x00\x00'
+p4147
+tp4148
+Rp4149
+S'Switchback (1997)'
+p4150
+sg1
+(g5
+S'\x0e\x04\x00\x00\x00\x00\x00\x00'
+p4151
+tp4152
+Rp4153
+S'Hamlet (1996)'
+p4154
+sg1
+(g5
+S'\x0f\x04\x00\x00\x00\x00\x00\x00'
+p4155
+tp4156
+Rp4157
+S'Two if by Sea (1996)'
+p4158
+sg1
+(g5
+S'\x10\x04\x00\x00\x00\x00\x00\x00'
+p4159
+tp4160
+Rp4161
+S'Forget Paris (1995)'
+p4162
+sg1
+(g5
+S'\x11\x04\x00\x00\x00\x00\x00\x00'
+p4163
+tp4164
+Rp4165
+S'Just Cause (1995)'
+p4166
+sg1
+(g5
+S'\x12\x04\x00\x00\x00\x00\x00\x00'
+p4167
+tp4168
+Rp4169
+S'Rent-a-Kid (1995)'
+p4170
+sg1
+(g5
+S'\x13\x04\x00\x00\x00\x00\x00\x00'
+p4171
+tp4172
+Rp4173
+S'Paper, The (1994)'
+p4174
+sg1
+(g5
+S'\x14\x04\x00\x00\x00\x00\x00\x00'
+p4175
+tp4176
+Rp4177
+S'Fearless (1993)'
+p4178
+sg1
+(g5
+S'\x15\x04\x00\x00\x00\x00\x00\x00'
+p4179
+tp4180
+Rp4181
+S'Malice (1993)'
+p4182
+sg1
+(g5
+S'\x16\x04\x00\x00\x00\x00\x00\x00'
+p4183
+tp4184
+Rp4185
+S'Multiplicity (1996)'
+p4186
+sg1
+(g5
+S'\x17\x04\x00\x00\x00\x00\x00\x00'
+p4187
+tp4188
+Rp4189
+S"She's the One (1996)"
+p4190
+sg1
+(g5
+S'\x18\x04\x00\x00\x00\x00\x00\x00'
+p4191
+tp4192
+Rp4193
+S'House Arrest (1996)'
+p4194
+sg1
+(g5
+S'\x19\x04\x00\x00\x00\x00\x00\x00'
+p4195
+tp4196
+Rp4197
+S'Ghost and Mrs. Muir, The (1947)'
+p4198
+sg1
+(g5
+S'\x1a\x04\x00\x00\x00\x00\x00\x00'
+p4199
+tp4200
+Rp4201
+S'Associate, The (1996)'
+p4202
+sg1
+(g5
+S'\x1b\x04\x00\x00\x00\x00\x00\x00'
+p4203
+tp4204
+Rp4205
+S'Dracula: Dead and Loving It (1995)'
+p4206
+sg1
+(g5
+S'\x1c\x04\x00\x00\x00\x00\x00\x00'
+p4207
+tp4208
+Rp4209
+S'Now and Then (1995)'
+p4210
+sg1
+(g5
+S'\x1d\x04\x00\x00\x00\x00\x00\x00'
+p4211
+tp4212
+Rp4213
+S'Mr. Wrong (1996)'
+p4214
+sg1
+(g5
+S'\x1e\x04\x00\x00\x00\x00\x00\x00'
+p4215
+tp4216
+Rp4217
+S'Simple Twist of Fate, A (1994)'
+p4218
+sg1
+(g5
+S'\x1f\x04\x00\x00\x00\x00\x00\x00'
+p4219
+tp4220
+Rp4221
+S'Cronos (1992)'
+p4222
+sg1
+(g5
+S' \x04\x00\x00\x00\x00\x00\x00'
+p4223
+tp4224
+Rp4225
+S'Pallbearer, The (1996)'
+p4226
+sg1
+(g5
+S'!\x04\x00\x00\x00\x00\x00\x00'
+p4227
+tp4228
+Rp4229
+S'War, The (1994)'
+p4230
+sg1
+(g5
+S'"\x04\x00\x00\x00\x00\x00\x00'
+p4231
+tp4232
+Rp4233
+S"Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)"
+p4234
+sg1
+(g5
+S'#\x04\x00\x00\x00\x00\x00\x00'
+p4235
+tp4236
+Rp4237
+S'Adventures of Pinocchio, The (1996)'
+p4238
+sg1
+(g5
+S'$\x04\x00\x00\x00\x00\x00\x00'
+p4239
+tp4240
+Rp4241
+S'Evening Star, The (1996)'
+p4242
+sg1
+(g5
+S'%\x04\x00\x00\x00\x00\x00\x00'
+p4243
+tp4244
+Rp4245
+S'Four Days in September (1997)'
+p4246
+sg1
+(g5
+S'&\x04\x00\x00\x00\x00\x00\x00'
+p4247
+tp4248
+Rp4249
+S'Little Princess, A (1995)'
+p4250
+sg1
+(g5
+S"'\x04\x00\x00\x00\x00\x00\x00"
+p4251
+tp4252
+Rp4253
+S'Crossfire (1947)'
+p4254
+sg1
+(g5
+S'(\x04\x00\x00\x00\x00\x00\x00'
+p4255
+tp4256
+Rp4257
+S'Koyaanisqatsi (1983)'
+p4258
+sg1
+(g5
+S')\x04\x00\x00\x00\x00\x00\x00'
+p4259
+tp4260
+Rp4261
+S'Balto (1995)'
+p4262
+sg1
+(g5
+S'*\x04\x00\x00\x00\x00\x00\x00'
+p4263
+tp4264
+Rp4265
+S'Bottle Rocket (1996)'
+p4266
+sg1
+(g5
+S'+\x04\x00\x00\x00\x00\x00\x00'
+p4267
+tp4268
+Rp4269
+S"Star Maker, The (Uomo delle stelle, L') (1995)"
+p4270
+sg1
+(g5
+S',\x04\x00\x00\x00\x00\x00\x00'
+p4271
+tp4272
+Rp4273
+S'Amateur (1994)'
+p4274
+sg1
+(g5
+S'-\x04\x00\x00\x00\x00\x00\x00'
+p4275
+tp4276
+Rp4277
+S'Living in Oblivion (1995)'
+p4278
+sg1
+(g5
+S'.\x04\x00\x00\x00\x00\x00\x00'
+p4279
+tp4280
+Rp4281
+S'Party Girl (1995)'
+p4282
+sg1
+(g5
+S'/\x04\x00\x00\x00\x00\x00\x00'
+p4283
+tp4284
+Rp4285
+S"Pyromaniac's Love Story, A (1995)"
+p4286
+sg1
+(g5
+S'0\x04\x00\x00\x00\x00\x00\x00'
+p4287
+tp4288
+Rp4289
+S'Shallow Grave (1994)'
+p4290
+sg1
+(g5
+S'1\x04\x00\x00\x00\x00\x00\x00'
+p4291
+tp4292
+Rp4293
+S'Reality Bites (1994)'
+p4294
+sg1
+(g5
+S'2\x04\x00\x00\x00\x00\x00\x00'
+p4295
+tp4296
+Rp4297
+S'Man of No Importance, A (1994)'
+p4298
+sg1
+(g5
+S'3\x04\x00\x00\x00\x00\x00\x00'
+p4299
+tp4300
+Rp4301
+S'Pagemaster, The (1994)'
+p4302
+sg1
+(g5
+S'4\x04\x00\x00\x00\x00\x00\x00'
+p4303
+tp4304
+Rp4305
+S'Love and a .45 (1994)'
+p4306
+sg1
+(g5
+S'5\x04\x00\x00\x00\x00\x00\x00'
+p4307
+tp4308
+Rp4309
+S'Oliver & Company (1988)'
+p4310
+sg1
+(g5
+S'6\x04\x00\x00\x00\x00\x00\x00'
+p4311
+tp4312
+Rp4313
+S"Joe's Apartment (1996)"
+p4314
+sg1
+(g5
+S'7\x04\x00\x00\x00\x00\x00\x00'
+p4315
+tp4316
+Rp4317
+S'Celestial Clockwork (1994)'
+p4318
+sg1
+(g5
+S'8\x04\x00\x00\x00\x00\x00\x00'
+p4319
+tp4320
+Rp4321
+S'Curdled (1996)'
+p4322
+sg1
+(g5
+S'9\x04\x00\x00\x00\x00\x00\x00'
+p4323
+tp4324
+Rp4325
+S'Female Perversions (1996)'
+p4326
+sg1
+(g5
+S':\x04\x00\x00\x00\x00\x00\x00'
+p4327
+tp4328
+Rp4329
+S'Albino Alligator (1996)'
+p4330
+sg1
+(g5
+S';\x04\x00\x00\x00\x00\x00\x00'
+p4331
+tp4332
+Rp4333
+S'Anne Frank Remembered (1995)'
+p4334
+sg1
+(g5
+S'<\x04\x00\x00\x00\x00\x00\x00'
+p4335
+tp4336
+Rp4337
+S'Carried Away (1996)'
+p4338
+sg1
+(g5
+S'=\x04\x00\x00\x00\x00\x00\x00'
+p4339
+tp4340
+Rp4341
+S"It's My Party (1995)"
+p4342
+sg1
+(g5
+S'>\x04\x00\x00\x00\x00\x00\x00'
+p4343
+tp4344
+Rp4345
+S'Bloodsport 2 (1995)'
+p4346
+sg1
+(g5
+S'?\x04\x00\x00\x00\x00\x00\x00'
+p4347
+tp4348
+Rp4349
+S'Double Team (1997)'
+p4350
+sg1
+(g5
+S'@\x04\x00\x00\x00\x00\x00\x00'
+p4351
+tp4352
+Rp4353
+S'Speed 2: Cruise Control (1997)'
+p4354
+sg1
+(g5
+S'A\x04\x00\x00\x00\x00\x00\x00'
+p4355
+tp4356
+Rp4357
+S'Sliver (1993)'
+p4358
+sg1
+(g5
+S'B\x04\x00\x00\x00\x00\x00\x00'
+p4359
+tp4360
+Rp4361
+S"Pete's Dragon (1977)"
+p4362
+sg1
+(g5
+S'C\x04\x00\x00\x00\x00\x00\x00'
+p4363
+tp4364
+Rp4365
+S'Dear God (1996)'
+p4366
+sg1
+(g5
+S'D\x04\x00\x00\x00\x00\x00\x00'
+p4367
+tp4368
+Rp4369
+S'Live Nude Girls (1995)'
+p4370
+sg1
+(g5
+S'E\x04\x00\x00\x00\x00\x00\x00'
+p4371
+tp4372
+Rp4373
+S'Thin Line Between Love and Hate, A (1996)'
+p4374
+sg1
+(g5
+S'F\x04\x00\x00\x00\x00\x00\x00'
+p4375
+tp4376
+Rp4377
+S'High School High (1996)'
+p4378
+sg1
+(g5
+S'G\x04\x00\x00\x00\x00\x00\x00'
+p4379
+tp4380
+Rp4381
+S'Commandments (1997)'
+p4382
+sg1
+(g5
+S'H\x04\x00\x00\x00\x00\x00\x00'
+p4383
+tp4384
+Rp4385
+S'Hate (Haine, La) (1995)'
+p4386
+sg1
+(g5
+S'I\x04\x00\x00\x00\x00\x00\x00'
+p4387
+tp4388
+Rp4389
+S'Flirting With Disaster (1996)'
+p4390
+sg1
+(g5
+S'J\x04\x00\x00\x00\x00\x00\x00'
+p4391
+tp4392
+Rp4393
+S'Red Firecracker, Green Firecracker (1994)'
+p4394
+sg1
+(g5
+S'K\x04\x00\x00\x00\x00\x00\x00'
+p4395
+tp4396
+Rp4397
+S'What Happened Was... (1994)'
+p4398
+sg1
+(g5
+S'L\x04\x00\x00\x00\x00\x00\x00'
+p4399
+tp4400
+Rp4401
+S'Six Degrees of Separation (1993)'
+p4402
+sg1
+(g5
+S'M\x04\x00\x00\x00\x00\x00\x00'
+p4403
+tp4404
+Rp4405
+S'Two Much (1996)'
+p4406
+sg1
+(g5
+S'N\x04\x00\x00\x00\x00\x00\x00'
+p4407
+tp4408
+Rp4409
+S'Trust (1990)'
+p4410
+sg1
+(g5
+S'O\x04\x00\x00\x00\x00\x00\x00'
+p4411
+tp4412
+Rp4413
+S"C'est arriv\xe9 pr\xe8s de chez vous (1992)"
+p4414
+sg1
+(g5
+S'P\x04\x00\x00\x00\x00\x00\x00'
+p4415
+tp4416
+Rp4417
+S'Firestorm (1998)'
+p4418
+sg1
+(g5
+S'Q\x04\x00\x00\x00\x00\x00\x00'
+p4419
+tp4420
+Rp4421
+S'Newton Boys, The (1998)'
+p4422
+sg1
+(g5
+S'R\x04\x00\x00\x00\x00\x00\x00'
+p4423
+tp4424
+Rp4425
+S'Beyond Rangoon (1995)'
+p4426
+sg1
+(g5
+S'S\x04\x00\x00\x00\x00\x00\x00'
+p4427
+tp4428
+Rp4429
+S'Feast of July (1995)'
+p4430
+sg1
+(g5
+S'T\x04\x00\x00\x00\x00\x00\x00'
+p4431
+tp4432
+Rp4433
+S'Death and the Maiden (1994)'
+p4434
+sg1
+(g5
+S'U\x04\x00\x00\x00\x00\x00\x00'
+p4435
+tp4436
+Rp4437
+S'Tank Girl (1995)'
+p4438
+sg1
+(g5
+S'V\x04\x00\x00\x00\x00\x00\x00'
+p4439
+tp4440
+Rp4441
+S'Double Happiness (1994)'
+p4442
+sg1
+(g5
+S'W\x04\x00\x00\x00\x00\x00\x00'
+p4443
+tp4444
+Rp4445
+S'Cobb (1994)'
+p4446
+sg1
+(g5
+S'X\x04\x00\x00\x00\x00\x00\x00'
+p4447
+tp4448
+Rp4449
+S'Mrs. Parker and the Vicious Circle (1994)'
+p4450
+sg1
+(g5
+S'Y\x04\x00\x00\x00\x00\x00\x00'
+p4451
+tp4452
+Rp4453
+S'Faithful (1996)'
+p4454
+sg1
+(g5
+S'Z\x04\x00\x00\x00\x00\x00\x00'
+p4455
+tp4456
+Rp4457
+S'Twelfth Night (1996)'
+p4458
+sg1
+(g5
+S'[\x04\x00\x00\x00\x00\x00\x00'
+p4459
+tp4460
+Rp4461
+S'Mark of Zorro, The (1940)'
+p4462
+sg1
+(g5
+S'\\\x04\x00\x00\x00\x00\x00\x00'
+p4463
+tp4464
+Rp4465
+S'Surviving Picasso (1996)'
+p4466
+sg1
+(g5
+S']\x04\x00\x00\x00\x00\x00\x00'
+p4467
+tp4468
+Rp4469
+S'Up in Smoke (1978)'
+p4470
+sg1
+(g5
+S'^\x04\x00\x00\x00\x00\x00\x00'
+p4471
+tp4472
+Rp4473
+S'Some Kind of Wonderful (1987)'
+p4474
+sg1
+(g5
+S'_\x04\x00\x00\x00\x00\x00\x00'
+p4475
+tp4476
+Rp4477
+S"I'm Not Rappaport (1996)"
+p4478
+sg1
+(g5
+S'`\x04\x00\x00\x00\x00\x00\x00'
+p4479
+tp4480
+Rp4481
+S'Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)'
+p4482
+sg1
+(g5
+S'a\x04\x00\x00\x00\x00\x00\x00'
+p4483
+tp4484
+Rp4485
+S'They Made Me a Criminal (1939)'
+p4486
+sg1
+(g5
+S'b\x04\x00\x00\x00\x00\x00\x00'
+p4487
+tp4488
+Rp4489
+S'Last Time I Saw Paris, The (1954)'
+p4490
+sg1
+(g5
+S'c\x04\x00\x00\x00\x00\x00\x00'
+p4491
+tp4492
+Rp4493
+S'Farewell to Arms, A (1932)'
+p4494
+sg1
+(g5
+S'd\x04\x00\x00\x00\x00\x00\x00'
+p4495
+tp4496
+Rp4497
+S'Innocents, The (1961)'
+p4498
+sg1
+(g5
+S'e\x04\x00\x00\x00\x00\x00\x00'
+p4499
+tp4500
+Rp4501
+S'Old Man and the Sea, The (1958)'
+p4502
+sg1
+(g5
+S'f\x04\x00\x00\x00\x00\x00\x00'
+p4503
+tp4504
+Rp4505
+S'Truman Show, The (1998)'
+p4506
+sg1
+(g5
+S'g\x04\x00\x00\x00\x00\x00\x00'
+p4507
+tp4508
+Rp4509
+S'Heidi Fleiss: Hollywood Madam (1995) '
+p4510
+sg1
+(g5
+S'h\x04\x00\x00\x00\x00\x00\x00'
+p4511
+tp4512
+Rp4513
+S'Chungking Express (1994)'
+p4514
+sg1
+(g5
+S'i\x04\x00\x00\x00\x00\x00\x00'
+p4515
+tp4516
+Rp4517
+S"Jupiter's Wife (1994)"
+p4518
+sg1
+(g5
+S'j\x04\x00\x00\x00\x00\x00\x00'
+p4519
+tp4520
+Rp4521
+S'Safe (1995)'
+p4522
+sg1
+(g5
+S'k\x04\x00\x00\x00\x00\x00\x00'
+p4523
+tp4524
+Rp4525
+S'Feeling Minnesota (1996)'
+p4526
+sg1
+(g5
+S'l\x04\x00\x00\x00\x00\x00\x00'
+p4527
+tp4528
+Rp4529
+S'Escape to Witch Mountain (1975)'
+p4530
+sg1
+(g5
+S'm\x04\x00\x00\x00\x00\x00\x00'
+p4531
+tp4532
+Rp4533
+S'Get on the Bus (1996)'
+p4534
+sg1
+(g5
+S'n\x04\x00\x00\x00\x00\x00\x00'
+p4535
+tp4536
+Rp4537
+S'Doors, The (1991)'
+p4538
+sg1
+(g5
+S'o\x04\x00\x00\x00\x00\x00\x00'
+p4539
+tp4540
+Rp4541
+S'Ghosts of Mississippi (1996)'
+p4542
+sg1
+(g5
+S'p\x04\x00\x00\x00\x00\x00\x00'
+p4543
+tp4544
+Rp4545
+S'Beautiful Thing (1996)'
+p4546
+sg1
+(g5
+S'q\x04\x00\x00\x00\x00\x00\x00'
+p4547
+tp4548
+Rp4549
+S'Best Men (1997)'
+p4550
+sg1
+(g5
+S'r\x04\x00\x00\x00\x00\x00\x00'
+p4551
+tp4552
+Rp4553
+S'Hackers (1995)'
+p4554
+sg1
+(g5
+S's\x04\x00\x00\x00\x00\x00\x00'
+p4555
+tp4556
+Rp4557
+S'Road to Wellville, The (1994)'
+p4558
+sg1
+(g5
+S't\x04\x00\x00\x00\x00\x00\x00'
+p4559
+tp4560
+Rp4561
+S'War Room, The (1993)'
+p4562
+sg1
+(g5
+S'u\x04\x00\x00\x00\x00\x00\x00'
+p4563
+tp4564
+Rp4565
+S'When We Were Kings (1996)'
+p4566
+sg1
+(g5
+S'v\x04\x00\x00\x00\x00\x00\x00'
+p4567
+tp4568
+Rp4569
+S'Hard Eight (1996)'
+p4570
+sg1
+(g5
+S'w\x04\x00\x00\x00\x00\x00\x00'
+p4571
+tp4572
+Rp4573
+S'Quiet Room, The (1996)'
+p4574
+sg1
+(g5
+S'x\x04\x00\x00\x00\x00\x00\x00'
+p4575
+tp4576
+Rp4577
+S'Blue Chips (1994)'
+p4578
+sg1
+(g5
+S'y\x04\x00\x00\x00\x00\x00\x00'
+p4579
+tp4580
+Rp4581
+S'Calendar Girl (1993)'
+p4582
+sg1
+(g5
+S'z\x04\x00\x00\x00\x00\x00\x00'
+p4583
+tp4584
+Rp4585
+S'My Family (1995)'
+p4586
+sg1
+(g5
+S'{\x04\x00\x00\x00\x00\x00\x00'
+p4587
+tp4588
+Rp4589
+S'Tom & Viv (1994)'
+p4590
+sg1
+(g5
+S'|\x04\x00\x00\x00\x00\x00\x00'
+p4591
+tp4592
+Rp4593
+S'Walkabout (1971)'
+p4594
+sg1
+(g5
+S'}\x04\x00\x00\x00\x00\x00\x00'
+p4595
+tp4596
+Rp4597
+S'Last Dance (1996)'
+p4598
+sg1
+(g5
+S'~\x04\x00\x00\x00\x00\x00\x00'
+p4599
+tp4600
+Rp4601
+S'Original Gangstas (1996)'
+p4602
+sg1
+(g5
+S'\x7f\x04\x00\x00\x00\x00\x00\x00'
+p4603
+tp4604
+Rp4605
+S'In Love and War (1996)'
+p4606
+sg1
+(g5
+S'\x80\x04\x00\x00\x00\x00\x00\x00'
+p4607
+tp4608
+Rp4609
+S'Backbeat (1993)'
+p4610
+sg1
+(g5
+S'\x81\x04\x00\x00\x00\x00\x00\x00'
+p4611
+tp4612
+Rp4613
+S'Alphaville (1965)'
+p4614
+sg1
+(g5
+S'\x82\x04\x00\x00\x00\x00\x00\x00'
+p4615
+tp4616
+Rp4617
+S'Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)'
+p4618
+sg1
+(g5
+S'\x83\x04\x00\x00\x00\x00\x00\x00'
+p4619
+tp4620
+Rp4621
+S'Cyclo (1995)'
+p4622
+sg1
+(g5
+S'\x84\x04\x00\x00\x00\x00\x00\x00'
+p4623
+tp4624
+Rp4625
+S'Relic, The (1997)'
+p4626
+sg1
+(g5
+S'\x85\x04\x00\x00\x00\x00\x00\x00'
+p4627
+tp4628
+Rp4629
+S'Fille seule, La (A Single Girl) (1995)'
+p4630
+sg1
+(g5
+S'\x86\x04\x00\x00\x00\x00\x00\x00'
+p4631
+tp4632
+Rp4633
+S'Stalker (1979)'
+p4634
+sg1
+(g5
+S'\x87\x04\x00\x00\x00\x00\x00\x00'
+p4635
+tp4636
+Rp4637
+S'Love! Valour! Compassion! (1997)'
+p4638
+sg1
+(g5
+S'\x88\x04\x00\x00\x00\x00\x00\x00'
+p4639
+tp4640
+Rp4641
+S'Palookaville (1996)'
+p4642
+sg1
+(g5
+S'\x89\x04\x00\x00\x00\x00\x00\x00'
+p4643
+tp4644
+Rp4645
+S'Phat Beach (1996)'
+p4646
+sg1
+(g5
+S'\x8a\x04\x00\x00\x00\x00\x00\x00'
+p4647
+tp4648
+Rp4649
+S'Portrait of a Lady, The (1996)'
+p4650
+sg1
+(g5
+S'\x8b\x04\x00\x00\x00\x00\x00\x00'
+p4651
+tp4652
+Rp4653
+S'Zeus and Roxanne (1997)'
+p4654
+sg1
+(g5
+S'\x8c\x04\x00\x00\x00\x00\x00\x00'
+p4655
+tp4656
+Rp4657
+S'Big Bully (1996)'
+p4658
+sg1
+(g5
+S'\x8d\x04\x00\x00\x00\x00\x00\x00'
+p4659
+tp4660
+Rp4661
+S'Love & Human Remains (1993)'
+p4662
+sg1
+(g5
+S'\x8e\x04\x00\x00\x00\x00\x00\x00'
+p4663
+tp4664
+Rp4665
+S'Sum of Us, The (1994)'
+p4666
+sg1
+(g5
+S'\x8f\x04\x00\x00\x00\x00\x00\x00'
+p4667
+tp4668
+Rp4669
+S'Little Buddha (1993)'
+p4670
+sg1
+(g5
+S'\x90\x04\x00\x00\x00\x00\x00\x00'
+p4671
+tp4672
+Rp4673
+S'Fresh (1994)'
+p4674
+sg1
+(g5
+S'\x91\x04\x00\x00\x00\x00\x00\x00'
+p4675
+tp4676
+Rp4677
+S'Spanking the Monkey (1994)'
+p4678
+sg1
+(g5
+S'\x92\x04\x00\x00\x00\x00\x00\x00'
+p4679
+tp4680
+Rp4681
+S'Wild Reeds (1994)'
+p4682
+sg1
+(g5
+S'\x93\x04\x00\x00\x00\x00\x00\x00'
+p4683
+tp4684
+Rp4685
+S'Women, The (1939)'
+p4686
+sg1
+(g5
+S'\x94\x04\x00\x00\x00\x00\x00\x00'
+p4687
+tp4688
+Rp4689
+S'Bliss (1997)'
+p4690
+sg1
+(g5
+S'\x95\x04\x00\x00\x00\x00\x00\x00'
+p4691
+tp4692
+Rp4693
+S'Caught (1996)'
+p4694
+sg1
+(g5
+S'\x96\x04\x00\x00\x00\x00\x00\x00'
+p4695
+tp4696
+Rp4697
+S'Hugo Pool (1997)'
+p4698
+sg1
+(g5
+S'\x97\x04\x00\x00\x00\x00\x00\x00'
+p4699
+tp4700
+Rp4701
+S'Welcome To Sarajevo (1997)'
+p4702
+sg1
+(g5
+S'\x98\x04\x00\x00\x00\x00\x00\x00'
+p4703
+tp4704
+Rp4705
+S'Dunston Checks In (1996)'
+p4706
+sg1
+(g5
+S'\x99\x04\x00\x00\x00\x00\x00\x00'
+p4707
+tp4708
+Rp4709
+S'Major Payne (1994)'
+p4710
+sg1
+(g5
+S'\x9a\x04\x00\x00\x00\x00\x00\x00'
+p4711
+tp4712
+Rp4713
+S'Man of the House (1995)'
+p4714
+sg1
+(g5
+S'\x9b\x04\x00\x00\x00\x00\x00\x00'
+p4715
+tp4716
+Rp4717
+S'I Love Trouble (1994)'
+p4718
+sg1
+(g5
+S'\x9c\x04\x00\x00\x00\x00\x00\x00'
+p4719
+tp4720
+Rp4721
+S'Low Down Dirty Shame, A (1994)'
+p4722
+sg1
+(g5
+S'\x9d\x04\x00\x00\x00\x00\x00\x00'
+p4723
+tp4724
+Rp4725
+S'Cops and Robbersons (1994)'
+p4726
+sg1
+(g5
+S'\x9e\x04\x00\x00\x00\x00\x00\x00'
+p4727
+tp4728
+Rp4729
+S'Cowboy Way, The (1994)'
+p4730
+sg1
+(g5
+S'\x9f\x04\x00\x00\x00\x00\x00\x00'
+p4731
+tp4732
+Rp4733
+S'Endless Summer 2, The (1994)'
+p4734
+sg1
+(g5
+S'\xa0\x04\x00\x00\x00\x00\x00\x00'
+p4735
+tp4736
+Rp4737
+S'In the Army Now (1994)'
+p4738
+sg1
+(g5
+S'\xa1\x04\x00\x00\x00\x00\x00\x00'
+p4739
+tp4740
+Rp4741
+S'Inkwell, The (1994)'
+p4742
+sg1
+(g5
+S'\xa2\x04\x00\x00\x00\x00\x00\x00'
+p4743
+tp4744
+Rp4745
+S'Switchblade Sisters (1975)'
+p4746
+sg1
+(g5
+S'\xa3\x04\x00\x00\x00\x00\x00\x00'
+p4747
+tp4748
+Rp4749
+S'Young Guns II (1990)'
+p4750
+sg1
+(g5
+S'\xa4\x04\x00\x00\x00\x00\x00\x00'
+p4751
+tp4752
+Rp4753
+S'Prefontaine (1997)'
+p4754
+sg1
+(g5
+S'\xa5\x04\x00\x00\x00\x00\x00\x00'
+p4755
+tp4756
+Rp4757
+S'That Old Feeling (1997)'
+p4758
+sg1
+(g5
+S'\xa6\x04\x00\x00\x00\x00\x00\x00'
+p4759
+tp4760
+Rp4761
+S'Letter From Death Row, A (1998)'
+p4762
+sg1
+(g5
+S'\xa7\x04\x00\x00\x00\x00\x00\x00'
+p4763
+tp4764
+Rp4765
+S'Boys of St. Vincent, The (1993)'
+p4766
+sg1
+(g5
+S'\xa8\x04\x00\x00\x00\x00\x00\x00'
+p4767
+tp4768
+Rp4769
+S'Before the Rain (Pred dozhdot) (1994)'
+p4770
+sg1
+(g5
+S'\xa9\x04\x00\x00\x00\x00\x00\x00'
+p4771
+tp4772
+Rp4773
+S'Once Were Warriors (1994)'
+p4774
+sg1
+(g5
+S'\xaa\x04\x00\x00\x00\x00\x00\x00'
+p4775
+tp4776
+Rp4777
+S'Strawberry and Chocolate (Fresa y chocolate) (1993)'
+p4778
+sg1
+(g5
+S'\xab\x04\x00\x00\x00\x00\x00\x00'
+p4779
+tp4780
+Rp4781
+S'Savage Nights (Nuits fauves, Les) (1992)'
+p4782
+sg1
+(g5
+S'\xac\x04\x00\x00\x00\x00\x00\x00'
+p4783
+tp4784
+Rp4785
+S'Family Thing, A (1996)'
+p4786
+sg1
+(g5
+S'\xad\x04\x00\x00\x00\x00\x00\x00'
+p4787
+tp4788
+Rp4789
+S'Purple Noon (1960)'
+p4790
+sg1
+(g5
+S'\xae\x04\x00\x00\x00\x00\x00\x00'
+p4791
+tp4792
+Rp4793
+S'Cemetery Man (Dellamorte Dellamore) (1994)'
+p4794
+sg1
+(g5
+S'\xaf\x04\x00\x00\x00\x00\x00\x00'
+p4795
+tp4796
+Rp4797
+S'Kim (1950)'
+p4798
+sg1
+(g5
+S'\xb0\x04\x00\x00\x00\x00\x00\x00'
+p4799
+tp4800
+Rp4801
+S'Marlene Dietrich: Shadow and Light (1996) '
+p4802
+sg1
+(g5
+S'\xb1\x04\x00\x00\x00\x00\x00\x00'
+p4803
+tp4804
+Rp4805
+S'Maybe, Maybe Not (Bewegte Mann, Der) (1994)'
+p4806
+sg1
+(g5
+S'\xb2\x04\x00\x00\x00\x00\x00\x00'
+p4807
+tp4808
+Rp4809
+S'Top Hat (1935)'
+p4810
+sg1
+(g5
+S'\xb3\x04\x00\x00\x00\x00\x00\x00'
+p4811
+tp4812
+Rp4813
+S'To Be or Not to Be (1942)'
+p4814
+sg1
+(g5
+S'\xb4\x04\x00\x00\x00\x00\x00\x00'
+p4815
+tp4816
+Rp4817
+S'Secret Agent, The (1996)'
+p4818
+sg1
+(g5
+S'\xb5\x04\x00\x00\x00\x00\x00\x00'
+p4819
+tp4820
+Rp4821
+S'Amos & Andrew (1993)'
+p4822
+sg1
+(g5
+S'\xb6\x04\x00\x00\x00\x00\x00\x00'
+p4823
+tp4824
+Rp4825
+S'Jade (1995)'
+p4826
+sg1
+(g5
+S'\xb7\x04\x00\x00\x00\x00\x00\x00'
+p4827
+tp4828
+Rp4829
+S'Kiss of Death (1995)'
+p4830
+sg1
+(g5
+S'\xb8\x04\x00\x00\x00\x00\x00\x00'
+p4831
+tp4832
+Rp4833
+S'Mixed Nuts (1994)'
+p4834
+sg1
+(g5
+S'\xb9\x04\x00\x00\x00\x00\x00\x00'
+p4835
+tp4836
+Rp4837
+S'Virtuosity (1995)'
+p4838
+sg1
+(g5
+S'\xba\x04\x00\x00\x00\x00\x00\x00'
+p4839
+tp4840
+Rp4841
+S'Blue Sky (1994)'
+p4842
+sg1
+(g5
+S'\xbb\x04\x00\x00\x00\x00\x00\x00'
+p4843
+tp4844
+Rp4845
+S'Flesh and Bone (1993)'
+p4846
+sg1
+(g5
+S'\xbc\x04\x00\x00\x00\x00\x00\x00'
+p4847
+tp4848
+Rp4849
+S'Guilty as Sin (1993)'
+p4850
+sg1
+(g5
+S'\xbd\x04\x00\x00\x00\x00\x00\x00'
+p4851
+tp4852
+Rp4853
+S'In the Realm of the Senses (Ai no corrida) (1976)'
+p4854
+sg1
+(g5
+S'\xbe\x04\x00\x00\x00\x00\x00\x00'
+p4855
+tp4856
+Rp4857
+S'Barb Wire (1996)'
+p4858
+sg1
+(g5
+S'\xbf\x04\x00\x00\x00\x00\x00\x00'
+p4859
+tp4860
+Rp4861
+S'Kissed (1996)'
+p4862
+sg1
+(g5
+S'\xc0\x04\x00\x00\x00\x00\x00\x00'
+p4863
+tp4864
+Rp4865
+S'Assassins (1995)'
+p4866
+sg1
+(g5
+S'\xc1\x04\x00\x00\x00\x00\x00\x00'
+p4867
+tp4868
+Rp4869
+S'Friday (1995)'
+p4870
+sg1
+(g5
+S'\xc2\x04\x00\x00\x00\x00\x00\x00'
+p4871
+tp4872
+Rp4873
+S'Goofy Movie, A (1995)'
+p4874
+sg1
+(g5
+S'\xc3\x04\x00\x00\x00\x00\x00\x00'
+p4875
+tp4876
+Rp4877
+S'Higher Learning (1995)'
+p4878
+sg1
+(g5
+S'\xc4\x04\x00\x00\x00\x00\x00\x00'
+p4879
+tp4880
+Rp4881
+S'When a Man Loves a Woman (1994)'
+p4882
+sg1
+(g5
+S'\xc5\x04\x00\x00\x00\x00\x00\x00'
+p4883
+tp4884
+Rp4885
+S'Judgment Night (1993)'
+p4886
+sg1
+(g5
+S'\xc6\x04\x00\x00\x00\x00\x00\x00'
+p4887
+tp4888
+Rp4889
+S'King of the Hill (1993)'
+p4890
+sg1
+(g5
+S'\xc7\x04\x00\x00\x00\x00\x00\x00'
+p4891
+tp4892
+Rp4893
+S'Scout, The (1994)'
+p4894
+sg1
+(g5
+S'\xc8\x04\x00\x00\x00\x00\x00\x00'
+p4895
+tp4896
+Rp4897
+S'Angus (1995)'
+p4898
+sg1
+(g5
+S'\xc9\x04\x00\x00\x00\x00\x00\x00'
+p4899
+tp4900
+Rp4901
+S'Night Falls on Manhattan (1997)'
+p4902
+sg1
+(g5
+S'\xca\x04\x00\x00\x00\x00\x00\x00'
+p4903
+tp4904
+Rp4905
+S'Awfully Big Adventure, An (1995)'
+p4906
+sg1
+(g5
+S'\xcb\x04\x00\x00\x00\x00\x00\x00'
+p4907
+tp4908
+Rp4909
+S'Under Siege 2: Dark Territory (1995)'
+p4910
+sg1
+(g5
+S'\xcc\x04\x00\x00\x00\x00\x00\x00'
+p4911
+tp4912
+Rp4913
+S'Poison Ivy II (1995)'
+p4914
+sg1
+(g5
+S'\xcd\x04\x00\x00\x00\x00\x00\x00'
+p4915
+tp4916
+Rp4917
+S'Ready to Wear (Pret-A-Porter) (1994)'
+p4918
+sg1
+(g5
+S'\xce\x04\x00\x00\x00\x00\x00\x00'
+p4919
+tp4920
+Rp4921
+S'Marked for Death (1990)'
+p4922
+sg1
+(g5
+S'\xcf\x04\x00\x00\x00\x00\x00\x00'
+p4923
+tp4924
+Rp4925
+S'Madonna: Truth or Dare (1991)'
+p4926
+sg1
+(g5
+S'\xd0\x04\x00\x00\x00\x00\x00\x00'
+p4927
+tp4928
+Rp4929
+S'N\xe9nette et Boni (1996)'
+p4930
+sg1
+(g5
+S'\xd1\x04\x00\x00\x00\x00\x00\x00'
+p4931
+tp4932
+Rp4933
+S'Chairman of the Board (1998)'
+p4934
+sg1
+(g5
+S'\xd2\x04\x00\x00\x00\x00\x00\x00'
+p4935
+tp4936
+Rp4937
+S'Big Bang Theory, The (1994)'
+p4938
+sg1
+(g5
+S'\xd3\x04\x00\x00\x00\x00\x00\x00'
+p4939
+tp4940
+Rp4941
+S'Other Voices, Other Rooms (1997)'
+p4942
+sg1
+(g5
+S'\xd4\x04\x00\x00\x00\x00\x00\x00'
+p4943
+tp4944
+Rp4945
+S'Twisted (1996)'
+p4946
+sg1
+(g5
+S'\xd5\x04\x00\x00\x00\x00\x00\x00'
+p4947
+tp4948
+Rp4949
+S'Full Speed (1996)'
+p4950
+sg1
+(g5
+S'\xd6\x04\x00\x00\x00\x00\x00\x00'
+p4951
+tp4952
+Rp4953
+S'Cutthroat Island (1995)'
+p4954
+sg1
+(g5
+S'\xd7\x04\x00\x00\x00\x00\x00\x00'
+p4955
+tp4956
+Rp4957
+S'Ghost in the Shell (Kokaku kidotai) (1995)'
+p4958
+sg1
+(g5
+S'\xd8\x04\x00\x00\x00\x00\x00\x00'
+p4959
+tp4960
+Rp4961
+S'Van, The (1996)'
+p4962
+sg1
+(g5
+S'\xd9\x04\x00\x00\x00\x00\x00\x00'
+p4963
+tp4964
+Rp4965
+S'Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)'
+p4966
+sg1
+(g5
+S'\xda\x04\x00\x00\x00\x00\x00\x00'
+p4967
+tp4968
+Rp4969
+S'Night Flier (1997)'
+p4970
+sg1
+(g5
+S'\xdb\x04\x00\x00\x00\x00\x00\x00'
+p4971
+tp4972
+Rp4973
+S'Metro (1997)'
+p4974
+sg1
+(g5
+S'\xdc\x04\x00\x00\x00\x00\x00\x00'
+p4975
+tp4976
+Rp4977
+S"Gridlock'd (1997)"
+p4978
+sg1
+(g5
+S'\xdd\x04\x00\x00\x00\x00\x00\x00'
+p4979
+tp4980
+Rp4981
+S'Bushwhacked (1995)'
+p4982
+sg1
+(g5
+S'\xde\x04\x00\x00\x00\x00\x00\x00'
+p4983
+tp4984
+Rp4985
+S'Bad Girls (1994)'
+p4986
+sg1
+(g5
+S'\xdf\x04\x00\x00\x00\x00\x00\x00'
+p4987
+tp4988
+Rp4989
+S'Blink (1994)'
+p4990
+sg1
+(g5
+S'\xe0\x04\x00\x00\x00\x00\x00\x00'
+p4991
+tp4992
+Rp4993
+S'For Love or Money (1993)'
+p4994
+sg1
+(g5
+S'\xe1\x04\x00\x00\x00\x00\x00\x00'
+p4995
+tp4996
+Rp4997
+S'Best of the Best 3: No Turning Back (1995)'
+p4998
+sg1
+(g5
+S'\xe2\x04\x00\x00\x00\x00\x00\x00'
+p4999
+tp5000
+Rp5001
+S'A Chef in Love (1996)'
+p5002
+sg1
+(g5
+S'\xe3\x04\x00\x00\x00\x00\x00\x00'
+p5003
+tp5004
+Rp5005
+S'Contempt (M\xe9pris, Le) (1963)'
+p5006
+sg1
+(g5
+S'\xe4\x04\x00\x00\x00\x00\x00\x00'
+p5007
+tp5008
+Rp5009
+S'Tie That Binds, The (1995)'
+p5010
+sg1
+(g5
+S'\xe5\x04\x00\x00\x00\x00\x00\x00'
+p5011
+tp5012
+Rp5013
+S"Gone Fishin' (1997)"
+p5014
+sg1
+(g5
+S'\xe6\x04\x00\x00\x00\x00\x00\x00'
+p5015
+tp5016
+Rp5017
+S'Broken English (1996)'
+p5018
+sg1
+(g5
+S'\xe7\x04\x00\x00\x00\x00\x00\x00'
+p5019
+tp5020
+Rp5021
+S'Designated Mourner, The (1997)'
+p5022
+sg1
+(g5
+S'\xe8\x04\x00\x00\x00\x00\x00\x00'
+p5023
+tp5024
+Rp5025
+g5022
+sg1
+(g5
+S'\xe9\x04\x00\x00\x00\x00\x00\x00'
+p5026
+tp5027
+Rp5028
+S'Trial and Error (1997)'
+p5029
+sg1
+(g5
+S'\xea\x04\x00\x00\x00\x00\x00\x00'
+p5030
+tp5031
+Rp5032
+S'Pie in the Sky (1995)'
+p5033
+sg1
+(g5
+S'\xeb\x04\x00\x00\x00\x00\x00\x00'
+p5034
+tp5035
+Rp5036
+S'Total Eclipse (1995)'
+p5037
+sg1
+(g5
+S'\xec\x04\x00\x00\x00\x00\x00\x00'
+p5038
+tp5039
+Rp5040
+S'Run of the Country, The (1995)'
+p5041
+sg1
+(g5
+S'\xed\x04\x00\x00\x00\x00\x00\x00'
+p5042
+tp5043
+Rp5044
+S'Walking and Talking (1996)'
+p5045
+sg1
+(g5
+S'\xee\x04\x00\x00\x00\x00\x00\x00'
+p5046
+tp5047
+Rp5048
+S'Foxfire (1996)'
+p5049
+sg1
+(g5
+S'\xef\x04\x00\x00\x00\x00\x00\x00'
+p5050
+tp5051
+Rp5052
+S'Nothing to Lose (1994)'
+p5053
+sg1
+(g5
+S'\xf0\x04\x00\x00\x00\x00\x00\x00'
+p5054
+tp5055
+Rp5056
+S'Star Maps (1997)'
+p5057
+sg1
+(g5
+S'\xf1\x04\x00\x00\x00\x00\x00\x00'
+p5058
+tp5059
+Rp5060
+S'Bread and Chocolate (Pane e cioccolata) (1973)'
+p5061
+sg1
+(g5
+S'\xf2\x04\x00\x00\x00\x00\x00\x00'
+p5062
+tp5063
+Rp5064
+S'Clockers (1995)'
+p5065
+sg1
+(g5
+S'\xf3\x04\x00\x00\x00\x00\x00\x00'
+p5066
+tp5067
+Rp5068
+S'Bitter Moon (1992)'
+p5069
+sg1
+(g5
+S'\xf4\x04\x00\x00\x00\x00\x00\x00'
+p5070
+tp5071
+Rp5072
+S'Love in the Afternoon (1957)'
+p5073
+sg1
+(g5
+S'\xf5\x04\x00\x00\x00\x00\x00\x00'
+p5074
+tp5075
+Rp5076
+S'Life with Mikey (1993)'
+p5077
+sg1
+(g5
+S'\xf6\x04\x00\x00\x00\x00\x00\x00'
+p5078
+tp5079
+Rp5080
+S'North (1994)'
+p5081
+sg1
+(g5
+S'\xf7\x04\x00\x00\x00\x00\x00\x00'
+p5082
+tp5083
+Rp5084
+S'Talking About Sex (1994)'
+p5085
+sg1
+(g5
+S'\xf8\x04\x00\x00\x00\x00\x00\x00'
+p5086
+tp5087
+Rp5088
+S'Color of Night (1994)'
+p5089
+sg1
+(g5
+S'\xf9\x04\x00\x00\x00\x00\x00\x00'
+p5090
+tp5091
+Rp5092
+S'Robocop 3 (1993)'
+p5093
+sg1
+(g5
+S'\xfa\x04\x00\x00\x00\x00\x00\x00'
+p5094
+tp5095
+Rp5096
+S'Killer (Bulletproof Heart) (1994)'
+p5097
+sg1
+(g5
+S'\xfb\x04\x00\x00\x00\x00\x00\x00'
+p5098
+tp5099
+Rp5100
+S'Sunset Park (1996)'
+p5101
+sg1
+(g5
+S'\xfc\x04\x00\x00\x00\x00\x00\x00'
+p5102
+tp5103
+Rp5104
+S'Set It Off (1996)'
+p5105
+sg1
+(g5
+S'\xfd\x04\x00\x00\x00\x00\x00\x00'
+p5106
+tp5107
+Rp5108
+S'Selena (1997)'
+p5109
+sg1
+(g5
+S'\xfe\x04\x00\x00\x00\x00\x00\x00'
+p5110
+tp5111
+Rp5112
+S'Wild America (1997)'
+p5113
+sg1
+(g5
+S'\xff\x04\x00\x00\x00\x00\x00\x00'
+p5114
+tp5115
+Rp5116
+S'Gang Related (1997)'
+p5117
+sg1
+(g5
+S'\x00\x05\x00\x00\x00\x00\x00\x00'
+p5118
+tp5119
+Rp5120
+S'Manny & Lo (1996)'
+p5121
+sg1
+(g5
+S'\x01\x05\x00\x00\x00\x00\x00\x00'
+p5122
+tp5123
+Rp5124
+S'Grass Harp, The (1995)'
+p5125
+sg1
+(g5
+S'\x02\x05\x00\x00\x00\x00\x00\x00'
+p5126
+tp5127
+Rp5128
+S'Out to Sea (1997)'
+p5129
+sg1
+(g5
+S'\x03\x05\x00\x00\x00\x00\x00\x00'
+p5130
+tp5131
+Rp5132
+S'Before and After (1996)'
+p5133
+sg1
+(g5
+S'\x04\x05\x00\x00\x00\x00\x00\x00'
+p5134
+tp5135
+Rp5136
+S'Princess Caraboo (1994)'
+p5137
+sg1
+(g5
+S'\x05\x05\x00\x00\x00\x00\x00\x00'
+p5138
+tp5139
+Rp5140
+S'Shall We Dance? (1937)'
+p5141
+sg1
+(g5
+S'\x06\x05\x00\x00\x00\x00\x00\x00'
+p5142
+tp5143
+Rp5144
+S'Ed (1996)'
+p5145
+sg1
+(g5
+S'\x07\x05\x00\x00\x00\x00\x00\x00'
+p5146
+tp5147
+Rp5148
+S'Denise Calls Up (1995)'
+p5149
+sg1
+(g5
+S'\x08\x05\x00\x00\x00\x00\x00\x00'
+p5150
+tp5151
+Rp5152
+S'Jack and Sarah (1995)'
+p5153
+sg1
+(g5
+S'\t\x05\x00\x00\x00\x00\x00\x00'
+p5154
+tp5155
+Rp5156
+S'Country Life (1994)'
+p5157
+sg1
+(g5
+S'\n\x05\x00\x00\x00\x00\x00\x00'
+p5158
+tp5159
+Rp5160
+S'Celtic Pride (1996)'
+p5161
+sg1
+(g5
+S'\x0b\x05\x00\x00\x00\x00\x00\x00'
+p5162
+tp5163
+Rp5164
+S'Simple Wish, A (1997)'
+p5165
+sg1
+(g5
+S'\x0c\x05\x00\x00\x00\x00\x00\x00'
+p5166
+tp5167
+Rp5168
+S'Star Kid (1997)'
+p5169
+sg1
+(g5
+S'\r\x05\x00\x00\x00\x00\x00\x00'
+p5170
+tp5171
+Rp5172
+S'Ayn Rand: A Sense of Life (1997)'
+p5173
+sg1
+(g5
+S'\x0e\x05\x00\x00\x00\x00\x00\x00'
+p5174
+tp5175
+Rp5176
+S'Kicked in the Head (1997)'
+p5177
+sg1
+(g5
+S'\x0f\x05\x00\x00\x00\x00\x00\x00'
+p5178
+tp5179
+Rp5180
+S'Indian Summer (1996)'
+p5181
+sg1
+(g5
+S'\x10\x05\x00\x00\x00\x00\x00\x00'
+p5182
+tp5183
+Rp5184
+S'Love Affair (1994)'
+p5185
+sg1
+(g5
+S'\x11\x05\x00\x00\x00\x00\x00\x00'
+p5186
+tp5187
+Rp5188
+S'Band Wagon, The (1953)'
+p5189
+sg1
+(g5
+S'\x12\x05\x00\x00\x00\x00\x00\x00'
+p5190
+tp5191
+Rp5192
+S'Penny Serenade (1941)'
+p5193
+sg1
+(g5
+S'\x13\x05\x00\x00\x00\x00\x00\x00'
+p5194
+tp5195
+Rp5196
+S"'Til There Was You (1997)"
+p5197
+sg1
+(g5
+S'\x14\x05\x00\x00\x00\x00\x00\x00'
+p5198
+tp5199
+Rp5200
+S'Stripes (1981)'
+p5201
+sg1
+(g5
+S'\x15\x05\x00\x00\x00\x00\x00\x00'
+p5202
+tp5203
+Rp5204
+S'Late Bloomers (1996)'
+p5205
+sg1
+(g5
+S'\x16\x05\x00\x00\x00\x00\x00\x00'
+p5206
+tp5207
+Rp5208
+S'Getaway, The (1994)'
+p5209
+sg1
+(g5
+S'\x17\x05\x00\x00\x00\x00\x00\x00'
+p5210
+tp5211
+Rp5212
+S'New York Cop (1996)'
+p5213
+sg1
+(g5
+S'\x18\x05\x00\x00\x00\x00\x00\x00'
+p5214
+tp5215
+Rp5216
+S"National Lampoon's Senior Trip (1995)"
+p5217
+sg1
+(g5
+S'\x19\x05\x00\x00\x00\x00\x00\x00'
+p5218
+tp5219
+Rp5220
+S'Delta of Venus (1994)'
+p5221
+sg1
+(g5
+S'\x1a\x05\x00\x00\x00\x00\x00\x00'
+p5222
+tp5223
+Rp5224
+S'Carmen Miranda: Bananas Is My Business (1994)'
+p5225
+sg1
+(g5
+S'\x1b\x05\x00\x00\x00\x00\x00\x00'
+p5226
+tp5227
+Rp5228
+S'Babyfever (1994)'
+p5229
+sg1
+(g5
+S'\x1c\x05\x00\x00\x00\x00\x00\x00'
+p5230
+tp5231
+Rp5232
+S'Very Natural Thing, A (1974)'
+p5233
+sg1
+(g5
+S'\x1d\x05\x00\x00\x00\x00\x00\x00'
+p5234
+tp5235
+Rp5236
+S'Walk in the Sun, A (1945)'
+p5237
+sg1
+(g5
+S'\x1e\x05\x00\x00\x00\x00\x00\x00'
+p5238
+tp5239
+Rp5240
+S'Waiting to Exhale (1995)'
+p5241
+sg1
+(g5
+S'\x1f\x05\x00\x00\x00\x00\x00\x00'
+p5242
+tp5243
+Rp5244
+S'Pompatus of Love, The (1996)'
+p5245
+sg1
+(g5
+S' \x05\x00\x00\x00\x00\x00\x00'
+p5246
+tp5247
+Rp5248
+S'Palmetto (1998)'
+p5249
+sg1
+(g5
+S'!\x05\x00\x00\x00\x00\x00\x00'
+p5250
+tp5251
+Rp5252
+S'Surviving the Game (1994)'
+p5253
+sg1
+(g5
+S'"\x05\x00\x00\x00\x00\x00\x00'
+p5254
+tp5255
+Rp5256
+S'Inventing the Abbotts (1997)'
+p5257
+sg1
+(g5
+S'#\x05\x00\x00\x00\x00\x00\x00'
+p5258
+tp5259
+Rp5260
+S'Horse Whisperer, The (1998)'
+p5261
+sg1
+(g5
+S'$\x05\x00\x00\x00\x00\x00\x00'
+p5262
+tp5263
+Rp5264
+S'Journey of August King, The (1995)'
+p5265
+sg1
+(g5
+S'%\x05\x00\x00\x00\x00\x00\x00'
+p5266
+tp5267
+Rp5268
+S'Catwalk (1995)'
+p5269
+sg1
+(g5
+S'&\x05\x00\x00\x00\x00\x00\x00'
+p5270
+tp5271
+Rp5272
+S'Neon Bible, The (1995)'
+p5273
+sg1
+(g5
+S"'\x05\x00\x00\x00\x00\x00\x00"
+p5274
+tp5275
+Rp5276
+S'Homage (1995)'
+p5277
+sg1
+(g5
+S'(\x05\x00\x00\x00\x00\x00\x00'
+p5278
+tp5279
+Rp5280
+S'Open Season (1996)'
+p5281
+sg1
+(g5
+S')\x05\x00\x00\x00\x00\x00\x00'
+p5282
+tp5283
+Rp5284
+S'Metisse (Caf\xe9 au Lait) (1993)'
+p5285
+sg1
+(g5
+S'*\x05\x00\x00\x00\x00\x00\x00'
+p5286
+tp5287
+Rp5288
+S"Wooden Man's Bride, The (Wu Kui) (1994)"
+p5289
+sg1
+(g5
+S'+\x05\x00\x00\x00\x00\x00\x00'
+p5290
+tp5291
+Rp5292
+S'Loaded (1994)'
+p5293
+sg1
+(g5
+S',\x05\x00\x00\x00\x00\x00\x00'
+p5294
+tp5295
+Rp5296
+S'August (1996)'
+p5297
+sg1
+(g5
+S'-\x05\x00\x00\x00\x00\x00\x00'
+p5298
+tp5299
+Rp5300
+S'Boys (1996)'
+p5301
+sg1
+(g5
+S'.\x05\x00\x00\x00\x00\x00\x00'
+p5302
+tp5303
+Rp5304
+S'Captives (1994)'
+p5305
+sg1
+(g5
+S'/\x05\x00\x00\x00\x00\x00\x00'
+p5306
+tp5307
+Rp5308
+S'Of Love and Shadows (1994)'
+p5309
+sg1
+(g5
+S'0\x05\x00\x00\x00\x00\x00\x00'
+p5310
+tp5311
+Rp5312
+S'Low Life, The (1994)'
+p5313
+sg1
+(g5
+S'1\x05\x00\x00\x00\x00\x00\x00'
+p5314
+tp5315
+Rp5316
+S'An Unforgettable Summer (1994)'
+p5317
+sg1
+(g5
+S'2\x05\x00\x00\x00\x00\x00\x00'
+p5318
+tp5319
+Rp5320
+S'Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)'
+p5321
+sg1
+(g5
+S'3\x05\x00\x00\x00\x00\x00\x00'
+p5322
+tp5323
+Rp5324
+S"My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)"
+p5325
+sg1
+(g5
+S'4\x05\x00\x00\x00\x00\x00\x00'
+p5326
+tp5327
+Rp5328
+S'Midnight Dancers (Sibak) (1994)'
+p5329
+sg1
+(g5
+S'5\x05\x00\x00\x00\x00\x00\x00'
+p5330
+tp5331
+Rp5332
+S'Somebody to Love (1994)'
+p5333
+sg1
+(g5
+S'6\x05\x00\x00\x00\x00\x00\x00'
+p5334
+tp5335
+Rp5336
+S'American Buffalo (1996)'
+p5337
+sg1
+(g5
+S'7\x05\x00\x00\x00\x00\x00\x00'
+p5338
+tp5339
+Rp5340
+S'Kazaam (1996)'
+p5341
+sg1
+(g5
+S'8\x05\x00\x00\x00\x00\x00\x00'
+p5342
+tp5343
+Rp5344
+S'Larger Than Life (1996)'
+p5345
+sg1
+(g5
+S'9\x05\x00\x00\x00\x00\x00\x00'
+p5346
+tp5347
+Rp5348
+S'Two Deaths (1995)'
+p5349
+sg1
+(g5
+S':\x05\x00\x00\x00\x00\x00\x00'
+p5350
+tp5351
+Rp5352
+S'Stefano Quantestorie (1993)'
+p5353
+sg1
+(g5
+S';\x05\x00\x00\x00\x00\x00\x00'
+p5354
+tp5355
+Rp5356
+S'Crude Oasis, The (1995)'
+p5357
+sg1
+(g5
+S'<\x05\x00\x00\x00\x00\x00\x00'
+p5358
+tp5359
+Rp5360
+S'Hedd Wyn (1992)'
+p5361
+sg1
+(g5
+S'=\x05\x00\x00\x00\x00\x00\x00'
+p5362
+tp5363
+Rp5364
+S'Convent, The (Convento, O) (1995)'
+p5365
+sg1
+(g5
+S'>\x05\x00\x00\x00\x00\x00\x00'
+p5366
+tp5367
+Rp5368
+S'Lotto Land (1995)'
+p5369
+sg1
+(g5
+S'?\x05\x00\x00\x00\x00\x00\x00'
+p5370
+tp5371
+Rp5372
+S'Story of Xinghua, The (1993)'
+p5373
+sg1
+(g5
+S'@\x05\x00\x00\x00\x00\x00\x00'
+p5374
+tp5375
+Rp5376
+S'Day the Sun Turned Cold, The (Tianguo niezi) (1994)'
+p5377
+sg1
+(g5
+S'A\x05\x00\x00\x00\x00\x00\x00'
+p5378
+tp5379
+Rp5380
+S'Dingo (1992)'
+p5381
+sg1
+(g5
+S'B\x05\x00\x00\x00\x00\x00\x00'
+p5382
+tp5383
+Rp5384
+S'Ballad of Narayama, The (Narayama Bushiko) (1958)'
+p5385
+sg1
+(g5
+S'C\x05\x00\x00\x00\x00\x00\x00'
+p5386
+tp5387
+Rp5388
+S'Every Other Weekend (1990)'
+p5389
+sg1
+(g5
+S'D\x05\x00\x00\x00\x00\x00\x00'
+p5390
+tp5391
+Rp5392
+S'Mille bolle blu (1993)'
+p5393
+sg1
+(g5
+S'E\x05\x00\x00\x00\x00\x00\x00'
+p5394
+tp5395
+Rp5396
+S'Crows and Sparrows (1949)'
+p5397
+sg1
+(g5
+S'F\x05\x00\x00\x00\x00\x00\x00'
+p5398
+tp5399
+Rp5400
+S"Lover's Knot (1996)"
+p5401
+sg1
+(g5
+S'G\x05\x00\x00\x00\x00\x00\x00'
+p5402
+tp5403
+Rp5404
+S'Shadow of Angels (Schatten der Engel) (1976)'
+p5405
+sg1
+(g5
+S'H\x05\x00\x00\x00\x00\x00\x00'
+p5406
+tp5407
+Rp5408
+S'1-900 (1994)'
+p5409
+sg1
+(g5
+S'I\x05\x00\x00\x00\x00\x00\x00'
+p5410
+tp5411
+Rp5412
+S'Venice/Venice (1992)'
+p5413
+sg1
+(g5
+S'J\x05\x00\x00\x00\x00\x00\x00'
+p5414
+tp5415
+Rp5416
+S'Infinity (1996)'
+p5417
+sg1
+(g5
+S'K\x05\x00\x00\x00\x00\x00\x00'
+p5418
+tp5419
+Rp5420
+S"Ed's Next Move (1996)"
+p5421
+sg1
+(g5
+S'L\x05\x00\x00\x00\x00\x00\x00'
+p5422
+tp5423
+Rp5424
+S'For the Moment (1994)'
+p5425
+sg1
+(g5
+S'M\x05\x00\x00\x00\x00\x00\x00'
+p5426
+tp5427
+Rp5428
+S'The Deadly Cure (1996)'
+p5429
+sg1
+(g5
+S'N\x05\x00\x00\x00\x00\x00\x00'
+p5430
+tp5431
+Rp5432
+S'Boys in Venice (1996)'
+p5433
+sg1
+(g5
+S'O\x05\x00\x00\x00\x00\x00\x00'
+p5434
+tp5435
+Rp5436
+S'Sexual Life of the Belgians, The (1994)'
+p5437
+sg1
+(g5
+S'P\x05\x00\x00\x00\x00\x00\x00'
+p5438
+tp5439
+Rp5440
+S'Search for One-eye Jimmy, The (1996)'
+p5441
+sg1
+(g5
+S'Q\x05\x00\x00\x00\x00\x00\x00'
+p5442
+tp5443
+Rp5444
+S'American Strays (1996)'
+p5445
+sg1
+(g5
+S'R\x05\x00\x00\x00\x00\x00\x00'
+p5446
+tp5447
+Rp5448
+S'Leopard Son, The (1996)'
+p5449
+sg1
+(g5
+S'S\x05\x00\x00\x00\x00\x00\x00'
+p5450
+tp5451
+Rp5452
+S'Bird of Prey (1996)'
+p5453
+sg1
+(g5
+S'T\x05\x00\x00\x00\x00\x00\x00'
+p5454
+tp5455
+Rp5456
+S'Johnny 100 Pesos (1993)'
+p5457
+sg1
+(g5
+S'U\x05\x00\x00\x00\x00\x00\x00'
+p5458
+tp5459
+Rp5460
+S'JLG/JLG - autoportrait de d\xe9cembre (1994)'
+p5461
+sg1
+(g5
+S'V\x05\x00\x00\x00\x00\x00\x00'
+p5462
+tp5463
+Rp5464
+S'Faust (1994)'
+p5465
+sg1
+(g5
+S'W\x05\x00\x00\x00\x00\x00\x00'
+p5466
+tp5467
+Rp5468
+S'Mina Tannenbaum (1994)'
+p5469
+sg1
+(g5
+S'X\x05\x00\x00\x00\x00\x00\x00'
+p5470
+tp5471
+Rp5472
+S'Forbidden Christ, The (Cristo proibito, Il) (1950)'
+p5473
+sg1
+(g5
+S'Y\x05\x00\x00\x00\x00\x00\x00'
+p5474
+tp5475
+Rp5476
+S"I Can't Sleep (J'ai pas sommeil) (1994)"
+p5477
+sg1
+(g5
+S'Z\x05\x00\x00\x00\x00\x00\x00'
+p5478
+tp5479
+Rp5480
+S'Machine, The (1994)'
+p5481
+sg1
+(g5
+S'[\x05\x00\x00\x00\x00\x00\x00'
+p5482
+tp5483
+Rp5484
+S'Stranger, The (1994)'
+p5485
+sg1
+(g5
+S'\\\x05\x00\x00\x00\x00\x00\x00'
+p5486
+tp5487
+Rp5488
+S'Good Morning (1971)'
+p5489
+sg1
+(g5
+S']\x05\x00\x00\x00\x00\x00\x00'
+p5490
+tp5491
+Rp5492
+S'Falling in Love Again (1980)'
+p5493
+sg1
+(g5
+S'^\x05\x00\x00\x00\x00\x00\x00'
+p5494
+tp5495
+Rp5496
+S'Cement Garden, The (1993)'
+p5497
+sg1
+(g5
+S'_\x05\x00\x00\x00\x00\x00\x00'
+p5498
+tp5499
+Rp5500
+S'Meet Wally Sparks (1997)'
+p5501
+sg1
+(g5
+S'`\x05\x00\x00\x00\x00\x00\x00'
+p5502
+tp5503
+Rp5504
+S'Hotel de Love (1996)'
+p5505
+sg1
+(g5
+S'a\x05\x00\x00\x00\x00\x00\x00'
+p5506
+tp5507
+Rp5508
+S'Rhyme & Reason (1997)'
+p5509
+sg1
+(g5
+S'b\x05\x00\x00\x00\x00\x00\x00'
+p5510
+tp5511
+Rp5512
+S'Love and Other Catastrophes (1996)'
+p5513
+sg1
+(g5
+S'c\x05\x00\x00\x00\x00\x00\x00'
+p5514
+tp5515
+Rp5516
+S'Hollow Reed (1996)'
+p5517
+sg1
+(g5
+S'd\x05\x00\x00\x00\x00\x00\x00'
+p5518
+tp5519
+Rp5520
+S'Losing Chase (1996)'
+p5521
+sg1
+(g5
+S'e\x05\x00\x00\x00\x00\x00\x00'
+p5522
+tp5523
+Rp5524
+S'Bonheur, Le (1965)'
+p5525
+sg1
+(g5
+S'f\x05\x00\x00\x00\x00\x00\x00'
+p5526
+tp5527
+Rp5528
+S'Second Jungle Book: Mowgli & Baloo, The (1997)'
+p5529
+sg1
+(g5
+S'g\x05\x00\x00\x00\x00\x00\x00'
+p5530
+tp5531
+Rp5532
+S'Squeeze (1996)'
+p5533
+sg1
+(g5
+S'h\x05\x00\x00\x00\x00\x00\x00'
+p5534
+tp5535
+Rp5536
+S"Roseanna's Grave (For Roseanna) (1997)"
+p5537
+sg1
+(g5
+S'i\x05\x00\x00\x00\x00\x00\x00'
+p5538
+tp5539
+Rp5540
+S'Tetsuo II: Body Hammer (1992)'
+p5541
+sg1
+(g5
+S'j\x05\x00\x00\x00\x00\x00\x00'
+p5542
+tp5543
+Rp5544
+S'Fall (1997)'
+p5545
+sg1
+(g5
+S'k\x05\x00\x00\x00\x00\x00\x00'
+p5546
+tp5547
+Rp5548
+S'Gabbeh (1996)'
+p5549
+sg1
+(g5
+S'l\x05\x00\x00\x00\x00\x00\x00'
+p5550
+tp5551
+Rp5552
+S'Mondo (1996)'
+p5553
+sg1
+(g5
+S'm\x05\x00\x00\x00\x00\x00\x00'
+p5554
+tp5555
+Rp5556
+S'Innocent Sleep, The (1995)'
+p5557
+sg1
+(g5
+S'n\x05\x00\x00\x00\x00\x00\x00'
+p5558
+tp5559
+Rp5560
+S'For Ever Mozart (1996)'
+p5561
+sg1
+(g5
+S'o\x05\x00\x00\x00\x00\x00\x00'
+p5562
+tp5563
+Rp5564
+S'Locusts, The (1997)'
+p5565
+sg1
+(g5
+S'p\x05\x00\x00\x00\x00\x00\x00'
+p5566
+tp5567
+Rp5568
+S'Stag (1997)'
+p5569
+sg1
+(g5
+S'q\x05\x00\x00\x00\x00\x00\x00'
+p5570
+tp5571
+Rp5572
+S'Swept from the Sea (1997)'
+p5573
+sg1
+(g5
+S'r\x05\x00\x00\x00\x00\x00\x00'
+p5574
+tp5575
+Rp5576
+S'Hurricane Streets (1998)'
+p5577
+sg1
+(g5
+S's\x05\x00\x00\x00\x00\x00\x00'
+p5578
+tp5579
+Rp5580
+S'Stonewall (1995)'
+p5581
+sg1
+(g5
+S't\x05\x00\x00\x00\x00\x00\x00'
+p5582
+tp5583
+Rp5584
+S'Of Human Bondage (1934)'
+p5585
+sg1
+(g5
+S'u\x05\x00\x00\x00\x00\x00\x00'
+p5586
+tp5587
+Rp5588
+S'Anna (1996)'
+p5589
+sg1
+(g5
+S'v\x05\x00\x00\x00\x00\x00\x00'
+p5590
+tp5591
+Rp5592
+S'Stranger in the House (1997)'
+p5593
+sg1
+(g5
+S'w\x05\x00\x00\x00\x00\x00\x00'
+p5594
+tp5595
+Rp5596
+S'Picture Bride (1995)'
+p5597
+sg1
+(g5
+S'x\x05\x00\x00\x00\x00\x00\x00'
+p5598
+tp5599
+Rp5600
+S'M. Butterfly (1993)'
+p5601
+sg1
+(g5
+S'y\x05\x00\x00\x00\x00\x00\x00'
+p5602
+tp5603
+Rp5604
+S'Ciao, Professore! (1993)'
+p5605
+sg1
+(g5
+S'z\x05\x00\x00\x00\x00\x00\x00'
+p5606
+tp5607
+Rp5608
+S'Caro Diario (Dear Diary) (1994)'
+p5609
+sg1
+(g5
+S'{\x05\x00\x00\x00\x00\x00\x00'
+p5610
+tp5611
+Rp5612
+S'Withnail and I (1987)'
+p5613
+sg1
+(g5
+S'|\x05\x00\x00\x00\x00\x00\x00'
+p5614
+tp5615
+Rp5616
+S"Boy's Life 2 (1997)"
+p5617
+sg1
+(g5
+S'}\x05\x00\x00\x00\x00\x00\x00'
+p5618
+tp5619
+Rp5620
+S'When Night Is Falling (1995)'
+p5621
+sg1
+(g5
+S'~\x05\x00\x00\x00\x00\x00\x00'
+p5622
+tp5623
+Rp5624
+S'Specialist, The (1994)'
+p5625
+sg1
+(g5
+S'\x7f\x05\x00\x00\x00\x00\x00\x00'
+p5626
+tp5627
+Rp5628
+S'Gordy (1995)'
+p5629
+sg1
+(g5
+S'\x80\x05\x00\x00\x00\x00\x00\x00'
+p5630
+tp5631
+Rp5632
+S'Swan Princess, The (1994)'
+p5633
+sg1
+(g5
+S'\x81\x05\x00\x00\x00\x00\x00\x00'
+p5634
+tp5635
+Rp5636
+S'Harlem (1993)'
+p5637
+sg1
+(g5
+S'\x82\x05\x00\x00\x00\x00\x00\x00'
+p5638
+tp5639
+Rp5640
+S'Barbarella (1968)'
+p5641
+sg1
+(g5
+S'\x83\x05\x00\x00\x00\x00\x00\x00'
+p5642
+tp5643
+Rp5644
+S'Land Before Time III: The Time of the Great Giving (1995) (V)'
+p5645
+sg1
+(g5
+S'\x84\x05\x00\x00\x00\x00\x00\x00'
+p5646
+tp5647
+Rp5648
+S'Street Fighter (1994)'
+p5649
+sg1
+(g5
+S'\x85\x05\x00\x00\x00\x00\x00\x00'
+p5650
+tp5651
+Rp5652
+S'Coldblooded (1995)'
+p5653
+sg1
+(g5
+S'\x86\x05\x00\x00\x00\x00\x00\x00'
+p5654
+tp5655
+Rp5656
+S'Next Karate Kid, The (1994)'
+p5657
+sg1
+(g5
+S'\x87\x05\x00\x00\x00\x00\x00\x00'
+p5658
+tp5659
+Rp5660
+S'No Escape (1994)'
+p5661
+sg1
+(g5
+S'\x88\x05\x00\x00\x00\x00\x00\x00'
+p5662
+tp5663
+Rp5664
+S'Turning, The (1992)'
+p5665
+sg1
+(g5
+S'\x89\x05\x00\x00\x00\x00\x00\x00'
+p5666
+tp5667
+Rp5668
+S'Joy Luck Club, The (1993)'
+p5669
+sg1
+(g5
+S'\x8a\x05\x00\x00\x00\x00\x00\x00'
+p5670
+tp5671
+Rp5672
+S'Highlander III: The Sorcerer (1994)'
+p5673
+sg1
+(g5
+S'\x8b\x05\x00\x00\x00\x00\x00\x00'
+p5674
+tp5675
+Rp5676
+S"Gilligan's Island: The Movie (1998)"
+p5677
+sg1
+(g5
+S'\x8c\x05\x00\x00\x00\x00\x00\x00'
+p5678
+tp5679
+Rp5680
+S'My Crazy Life (Mi vida loca) (1993)'
+p5681
+sg1
+(g5
+S'\x8d\x05\x00\x00\x00\x00\x00\x00'
+p5682
+tp5683
+Rp5684
+S'Suture (1993)'
+p5685
+sg1
+(g5
+S'\x8e\x05\x00\x00\x00\x00\x00\x00'
+p5686
+tp5687
+Rp5688
+S'Walking Dead, The (1995)'
+p5689
+sg1
+(g5
+S'\x8f\x05\x00\x00\x00\x00\x00\x00'
+p5690
+tp5691
+Rp5692
+S'I Like It Like That (1994)'
+p5693
+sg1
+(g5
+S'\x90\x05\x00\x00\x00\x00\x00\x00'
+p5694
+tp5695
+Rp5696
+S"I'll Do Anything (1994)"
+p5697
+sg1
+(g5
+S'\x91\x05\x00\x00\x00\x00\x00\x00'
+p5698
+tp5699
+Rp5700
+S'Grace of My Heart (1996)'
+p5701
+sg1
+(g5
+S'\x92\x05\x00\x00\x00\x00\x00\x00'
+p5702
+tp5703
+Rp5704
+S'Drunks (1995)'
+p5705
+sg1
+(g5
+S'\x93\x05\x00\x00\x00\x00\x00\x00'
+p5706
+tp5707
+Rp5708
+S'SubUrbia (1997)'
+p5709
+sg1
+(g5
+S'\x94\x05\x00\x00\x00\x00\x00\x00'
+p5710
+tp5711
+Rp5712
+S'Sliding Doors (1998)'
+p5713
+sg1
+(g5
+S'\x95\x05\x00\x00\x00\x00\x00\x00'
+p5714
+tp5715
+Rp5716
+S'Ill Gotten Gains (1997)'
+p5717
+sg1
+(g5
+S'\x96\x05\x00\x00\x00\x00\x00\x00'
+p5718
+tp5719
+Rp5720
+S'Legal Deceit (1997)'
+p5721
+sg1
+(g5
+S'\x97\x05\x00\x00\x00\x00\x00\x00'
+p5722
+tp5723
+Rp5724
+S'Mighty, The (1998)'
+p5725
+sg1
+(g5
+S'\x98\x05\x00\x00\x00\x00\x00\x00'
+p5726
+tp5727
+Rp5728
+S'Men of Means (1998)'
+p5729
+sg1
+(g5
+S'\x99\x05\x00\x00\x00\x00\x00\x00'
+p5730
+tp5731
+Rp5732
+S'Shooting Fish (1997)'
+p5733
+sg1
+(g5
+S'\x9a\x05\x00\x00\x00\x00\x00\x00'
+p5734
+tp5735
+Rp5736
+S'Steal Big, Steal Little (1995)'
+p5737
+sg1
+(g5
+S'\x9b\x05\x00\x00\x00\x00\x00\x00'
+p5738
+tp5739
+Rp5740
+S'Mr. Jones (1993)'
+p5741
+sg1
+(g5
+S'\x9c\x05\x00\x00\x00\x00\x00\x00'
+p5742
+tp5743
+Rp5744
+S'House Party 3 (1994)'
+p5745
+sg1
+(g5
+S'\x9d\x05\x00\x00\x00\x00\x00\x00'
+p5746
+tp5747
+Rp5748
+S'Panther (1995)'
+p5749
+sg1
+(g5
+S'\x9e\x05\x00\x00\x00\x00\x00\x00'
+p5750
+tp5751
+Rp5752
+S"Jason's Lyric (1994)"
+p5753
+sg1
+(g5
+S'\x9f\x05\x00\x00\x00\x00\x00\x00'
+p5754
+tp5755
+Rp5756
+S'Above the Rim (1994)'
+p5757
+sg1
+(g5
+S'\xa0\x05\x00\x00\x00\x00\x00\x00'
+p5758
+tp5759
+Rp5760
+S'Moonlight and Valentino (1995)'
+p5761
+sg1
+(g5
+S'\xa1\x05\x00\x00\x00\x00\x00\x00'
+p5762
+tp5763
+Rp5764
+S'Scarlet Letter, The (1995)'
+p5765
+sg1
+(g5
+S'\xa2\x05\x00\x00\x00\x00\x00\x00'
+p5766
+tp5767
+Rp5768
+S'8 Seconds (1994)'
+p5769
+sg1
+(g5
+S'\xa3\x05\x00\x00\x00\x00\x00\x00'
+p5770
+tp5771
+Rp5772
+S'That Darn Cat! (1965)'
+p5773
+sg1
+(g5
+S'\xa4\x05\x00\x00\x00\x00\x00\x00'
+p5774
+tp5775
+Rp5776
+S'Ladybird Ladybird (1994)'
+p5777
+sg1
+(g5
+S'\xa5\x05\x00\x00\x00\x00\x00\x00'
+p5778
+tp5779
+Rp5780
+S'Bye Bye, Love (1995)'
+p5781
+sg1
+(g5
+S'\xa6\x05\x00\x00\x00\x00\x00\x00'
+p5782
+tp5783
+Rp5784
+S'Century (1993)'
+p5785
+sg1
+(g5
+S'\xa7\x05\x00\x00\x00\x00\x00\x00'
+p5786
+tp5787
+Rp5788
+S'My Favorite Season (1993)'
+p5789
+sg1
+(g5
+S'\xa8\x05\x00\x00\x00\x00\x00\x00'
+p5790
+tp5791
+Rp5792
+S'Pather Panchali (1955)'
+p5793
+sg1
+(g5
+S'\xa9\x05\x00\x00\x00\x00\x00\x00'
+p5794
+tp5795
+Rp5796
+S'Golden Earrings (1947)'
+p5797
+sg1
+(g5
+S'\xaa\x05\x00\x00\x00\x00\x00\x00'
+p5798
+tp5799
+Rp5800
+S'Foreign Correspondent (1940)'
+p5801
+sg1
+(g5
+S'\xab\x05\x00\x00\x00\x00\x00\x00'
+p5802
+tp5803
+Rp5804
+S'Lady of Burlesque (1943)'
+p5805
+sg1
+(g5
+S'\xac\x05\x00\x00\x00\x00\x00\x00'
+p5806
+tp5807
+Rp5808
+S'Angel on My Shoulder (1946)'
+p5809
+sg1
+(g5
+S'\xad\x05\x00\x00\x00\x00\x00\x00'
+p5810
+tp5811
+Rp5812
+S'Angel and the Badman (1947)'
+p5813
+sg1
+(g5
+S'\xae\x05\x00\x00\x00\x00\x00\x00'
+p5814
+tp5815
+Rp5816
+S'Outlaw, The (1943)'
+p5817
+sg1
+(g5
+S'\xaf\x05\x00\x00\x00\x00\x00\x00'
+p5818
+tp5819
+Rp5820
+S'Beat the Devil (1954)'
+p5821
+sg1
+(g5
+S'\xb0\x05\x00\x00\x00\x00\x00\x00'
+p5822
+tp5823
+Rp5824
+S'Love Is All There Is (1996)'
+p5825
+sg1
+(g5
+S'\xb1\x05\x00\x00\x00\x00\x00\x00'
+p5826
+tp5827
+Rp5828
+S'Damsel in Distress, A (1937)'
+p5829
+sg1
+(g5
+S'\xb2\x05\x00\x00\x00\x00\x00\x00'
+p5830
+tp5831
+Rp5832
+S'Madame Butterfly (1995)'
+p5833
+sg1
+(g5
+S'\xb3\x05\x00\x00\x00\x00\x00\x00'
+p5834
+tp5835
+Rp5836
+S'Sleepover (1995)'
+p5837
+sg1
+(g5
+S'\xb4\x05\x00\x00\x00\x00\x00\x00'
+p5838
+tp5839
+Rp5840
+S'Here Comes Cookie (1935)'
+p5841
+sg1
+(g5
+S'\xb5\x05\x00\x00\x00\x00\x00\x00'
+p5842
+tp5843
+Rp5844
+S'Thieves (Voleurs, Les) (1996)'
+p5845
+sg1
+(g5
+S'\xb6\x05\x00\x00\x00\x00\x00\x00'
+p5846
+tp5847
+Rp5848
+S'Boys, Les (1997)'
+p5849
+sg1
+(g5
+S'\xb7\x05\x00\x00\x00\x00\x00\x00'
+p5850
+tp5851
+Rp5852
+S'Stars Fell on Henrietta, The (1995)'
+p5853
+sg1
+(g5
+S'\xb8\x05\x00\x00\x00\x00\x00\x00'
+p5854
+tp5855
+Rp5856
+S'Last Summer in the Hamptons (1995)'
+p5857
+sg1
+(g5
+S'\xb9\x05\x00\x00\x00\x00\x00\x00'
+p5858
+tp5859
+Rp5860
+S"Margaret's Museum (1995)"
+p5861
+sg1
+(g5
+S'\xba\x05\x00\x00\x00\x00\x00\x00'
+p5862
+tp5863
+Rp5864
+S'Saint of Fort Washington, The (1993)'
+p5865
+sg1
+(g5
+S'\xbb\x05\x00\x00\x00\x00\x00\x00'
+p5866
+tp5867
+Rp5868
+S'Cure, The (1995)'
+p5869
+sg1
+(g5
+S'\xbc\x05\x00\x00\x00\x00\x00\x00'
+p5870
+tp5871
+Rp5872
+S'Tom and Huck (1995)'
+p5873
+sg1
+(g5
+S'\xbd\x05\x00\x00\x00\x00\x00\x00'
+p5874
+tp5875
+Rp5876
+S'Gumby: The Movie (1995)'
+p5877
+sg1
+(g5
+S'\xbe\x05\x00\x00\x00\x00\x00\x00'
+p5878
+tp5879
+Rp5880
+S'Hideaway (1995)'
+p5881
+sg1
+(g5
+S'\xbf\x05\x00\x00\x00\x00\x00\x00'
+p5882
+tp5883
+Rp5884
+S'Visitors, The (Visiteurs, Les) (1993)'
+p5885
+sg1
+(g5
+S'\xc0\x05\x00\x00\x00\x00\x00\x00'
+p5886
+tp5887
+Rp5888
+S'Little Princess, The (1939)'
+p5889
+sg1
+(g5
+S'\xc1\x05\x00\x00\x00\x00\x00\x00'
+p5890
+tp5891
+Rp5892
+S'Nina Takes a Lover (1994)'
+p5893
+sg1
+(g5
+S'\xc2\x05\x00\x00\x00\x00\x00\x00'
+p5894
+tp5895
+Rp5896
+S'Bhaji on the Beach (1993)'
+p5897
+sg1
+(g5
+S'\xc3\x05\x00\x00\x00\x00\x00\x00'
+p5898
+tp5899
+Rp5900
+S'Raw Deal (1948)'
+p5901
+sg1
+(g5
+S'\xc4\x05\x00\x00\x00\x00\x00\x00'
+p5902
+tp5903
+Rp5904
+S'Nightwatch (1997)'
+p5905
+sg1
+(g5
+S'\xc5\x05\x00\x00\x00\x00\x00\x00'
+p5906
+tp5907
+Rp5908
+S'Dead Presidents (1995)'
+p5909
+sg1
+(g5
+S'\xc6\x05\x00\x00\x00\x00\x00\x00'
+p5910
+tp5911
+Rp5912
+S'Reckless (1995)'
+p5913
+sg1
+(g5
+S'\xc7\x05\x00\x00\x00\x00\x00\x00'
+p5914
+tp5915
+Rp5916
+S'Herbie Rides Again (1974)'
+p5917
+sg1
+(g5
+S'\xc8\x05\x00\x00\x00\x00\x00\x00'
+p5918
+tp5919
+Rp5920
+S'S.F.W. (1994)'
+p5921
+sg1
+(g5
+S'\xc9\x05\x00\x00\x00\x00\x00\x00'
+p5922
+tp5923
+Rp5924
+S'Gate of Heavenly Peace, The (1995)'
+p5925
+sg1
+(g5
+S'\xca\x05\x00\x00\x00\x00\x00\x00'
+p5926
+tp5927
+Rp5928
+S'Man in the Iron Mask, The (1998)'
+p5929
+sg1
+(g5
+S'\xcb\x05\x00\x00\x00\x00\x00\x00'
+p5930
+tp5931
+Rp5932
+S'Jerky Boys, The (1994)'
+p5933
+sg1
+(g5
+S'\xcc\x05\x00\x00\x00\x00\x00\x00'
+p5934
+tp5935
+Rp5936
+S'Colonel Chabert, Le (1994)'
+p5937
+sg1
+(g5
+S'\xcd\x05\x00\x00\x00\x00\x00\x00'
+p5938
+tp5939
+Rp5940
+S'Girl in the Cadillac (1995)'
+p5941
+sg1
+(g5
+S'\xce\x05\x00\x00\x00\x00\x00\x00'
+p5942
+tp5943
+Rp5944
+S'Even Cowgirls Get the Blues (1993)'
+p5945
+sg1
+(g5
+S'\xcf\x05\x00\x00\x00\x00\x00\x00'
+p5946
+tp5947
+Rp5948
+S'Germinal (1993)'
+p5949
+sg1
+(g5
+S'\xd0\x05\x00\x00\x00\x00\x00\x00'
+p5950
+tp5951
+Rp5952
+S'Chasers (1994)'
+p5953
+sg1
+(g5
+S'\xd1\x05\x00\x00\x00\x00\x00\x00'
+p5954
+tp5955
+Rp5956
+S'Fausto (1993)'
+p5957
+sg1
+(g5
+S'\xd2\x05\x00\x00\x00\x00\x00\x00'
+p5958
+tp5959
+Rp5960
+S'Tough and Deadly (1995)'
+p5961
+sg1
+(g5
+S'\xd3\x05\x00\x00\x00\x00\x00\x00'
+p5962
+tp5963
+Rp5964
+S'Window to Paris (1994)'
+p5965
+sg1
+(g5
+S'\xd4\x05\x00\x00\x00\x00\x00\x00'
+p5966
+tp5967
+Rp5968
+S'Modern Affair, A (1995)'
+p5969
+sg1
+(g5
+S'\xd5\x05\x00\x00\x00\x00\x00\x00'
+p5970
+tp5971
+Rp5972
+S'Mostro, Il (1994)'
+p5973
+sg1
+(g5
+S'\xd6\x05\x00\x00\x00\x00\x00\x00'
+p5974
+tp5975
+Rp5976
+S'Flirt (1995)'
+p5977
+sg1
+(g5
+S'\xd7\x05\x00\x00\x00\x00\x00\x00'
+p5978
+tp5979
+Rp5980
+S'Carpool (1996)'
+p5981
+sg1
+(g5
+S'\xd8\x05\x00\x00\x00\x00\x00\x00'
+p5982
+tp5983
+Rp5984
+S'Line King: Al Hirschfeld, The (1996)'
+p5985
+sg1
+(g5
+S'\xd9\x05\x00\x00\x00\x00\x00\x00'
+p5986
+tp5987
+Rp5988
+S'Farmer & Chase (1995)'
+p5989
+sg1
+(g5
+S'\xda\x05\x00\x00\x00\x00\x00\x00'
+p5990
+tp5991
+Rp5992
+S'Grosse Fatigue (1994)'
+p5993
+sg1
+(g5
+S'\xdb\x05\x00\x00\x00\x00\x00\x00'
+p5994
+tp5995
+Rp5996
+S'Santa with Muscles (1996)'
+p5997
+sg1
+(g5
+S'\xdc\x05\x00\x00\x00\x00\x00\x00'
+p5998
+tp5999
+Rp6000
+S'Prisoner of the Mountains (Kavkazsky Plennik) (1996)'
+p6001
+sg1
+(g5
+S'\xdd\x05\x00\x00\x00\x00\x00\x00'
+p6002
+tp6003
+Rp6004
+S'Naked in New York (1994)'
+p6005
+sg1
+(g5
+S'\xde\x05\x00\x00\x00\x00\x00\x00'
+p6006
+tp6007
+Rp6008
+S'Gold Diggers: The Secret of Bear Mountain (1995)'
+p6009
+sg1
+(g5
+S'\xdf\x05\x00\x00\x00\x00\x00\x00'
+p6010
+tp6011
+Rp6012
+S'Bewegte Mann, Der (1994)'
+p6013
+sg1
+(g5
+S'\xe0\x05\x00\x00\x00\x00\x00\x00'
+p6014
+tp6015
+Rp6016
+S'Killer: A Journal of Murder (1995)'
+p6017
+sg1
+(g5
+S'\xe1\x05\x00\x00\x00\x00\x00\x00'
+p6018
+tp6019
+Rp6020
+S'Nelly & Monsieur Arnaud (1995)'
+p6021
+sg1
+(g5
+S'\xe2\x05\x00\x00\x00\x00\x00\x00'
+p6022
+tp6023
+Rp6024
+S'Three Lives and Only One Death (1996)'
+p6025
+sg1
+(g5
+S'\xe3\x05\x00\x00\x00\x00\x00\x00'
+p6026
+tp6027
+Rp6028
+S'Babysitter, The (1995)'
+p6029
+sg1
+(g5
+S'\xe4\x05\x00\x00\x00\x00\x00\x00'
+p6030
+tp6031
+Rp6032
+S'Getting Even with Dad (1994)'
+p6033
+sg1
+(g5
+S'\xe5\x05\x00\x00\x00\x00\x00\x00'
+p6034
+tp6035
+Rp6036
+S'Mad Dog Time (1996)'
+p6037
+sg1
+(g5
+S'\xe6\x05\x00\x00\x00\x00\x00\x00'
+p6038
+tp6039
+Rp6040
+S'Children of the Revolution (1996)'
+p6041
+sg1
+(g5
+S'\xe7\x05\x00\x00\x00\x00\x00\x00'
+p6042
+tp6043
+Rp6044
+S'World of Apu, The (Apur Sansar) (1959)'
+p6045
+sg1
+(g5
+S'\xe8\x05\x00\x00\x00\x00\x00\x00'
+p6046
+tp6047
+Rp6048
+S'Sprung (1997)'
+p6049
+sg1
+(g5
+S'\xe9\x05\x00\x00\x00\x00\x00\x00'
+p6050
+tp6051
+Rp6052
+S'Dream With the Fishes (1997)'
+p6053
+sg1
+(g5
+S'\xea\x05\x00\x00\x00\x00\x00\x00'
+p6054
+tp6055
+Rp6056
+S'Wings of Courage (1995)'
+p6057
+sg1
+(g5
+S'\xeb\x05\x00\x00\x00\x00\x00\x00'
+p6058
+tp6059
+Rp6060
+S'Wedding Gift, The (1994)'
+p6061
+sg1
+(g5
+S'\xec\x05\x00\x00\x00\x00\x00\x00'
+p6062
+tp6063
+Rp6064
+S'Race the Sun (1996)'
+p6065
+sg1
+(g5
+S'\xed\x05\x00\x00\x00\x00\x00\x00'
+p6066
+tp6067
+Rp6068
+S'Losing Isaiah (1995)'
+p6069
+sg1
+(g5
+S'\xee\x05\x00\x00\x00\x00\x00\x00'
+p6070
+tp6071
+Rp6072
+S'New Jersey Drive (1995)'
+p6073
+sg1
+(g5
+S'\xef\x05\x00\x00\x00\x00\x00\x00'
+p6074
+tp6075
+Rp6076
+S'Fear, The (1995)'
+p6077
+sg1
+(g5
+S'\xf0\x05\x00\x00\x00\x00\x00\x00'
+p6078
+tp6079
+Rp6080
+S'Mr. Wonderful (1993)'
+p6081
+sg1
+(g5
+S'\xf1\x05\x00\x00\x00\x00\x00\x00'
+p6082
+tp6083
+Rp6084
+S'Trial by Jury (1994)'
+p6085
+sg1
+(g5
+S'\xf2\x05\x00\x00\x00\x00\x00\x00'
+p6086
+tp6087
+Rp6088
+S'Good Man in Africa, A (1994)'
+p6089
+sg1
+(g5
+S'\xf3\x05\x00\x00\x00\x00\x00\x00'
+p6090
+tp6091
+Rp6092
+S'Kaspar Hauser (1993)'
+p6093
+sg1
+(g5
+S'\xf4\x05\x00\x00\x00\x00\x00\x00'
+p6094
+tp6095
+Rp6096
+S'Object of My Affection, The (1998)'
+p6097
+sg1
+(g5
+S'\xf5\x05\x00\x00\x00\x00\x00\x00'
+p6098
+tp6099
+Rp6100
+S'Witness (1985)'
+p6101
+sg1
+(g5
+S'\xf6\x05\x00\x00\x00\x00\x00\x00'
+p6102
+tp6103
+Rp6104
+S'Senseless (1998)'
+p6105
+sg1
+(g5
+S'\xf7\x05\x00\x00\x00\x00\x00\x00'
+p6106
+tp6107
+Rp6108
+S'Nowhere (1997)'
+p6109
+sg1
+(g5
+S'\xf8\x05\x00\x00\x00\x00\x00\x00'
+p6110
+tp6111
+Rp6112
+S'Underground (1995)'
+p6113
+sg1
+(g5
+S'\xf9\x05\x00\x00\x00\x00\x00\x00'
+p6114
+tp6115
+Rp6116
+S'Jefferson in Paris (1995)'
+p6117
+sg1
+(g5
+S'\xfa\x05\x00\x00\x00\x00\x00\x00'
+p6118
+tp6119
+Rp6120
+S'Far From Home: The Adventures of Yellow Dog (1995)'
+p6121
+sg1
+(g5
+S'\xfb\x05\x00\x00\x00\x00\x00\x00'
+p6122
+tp6123
+Rp6124
+S'Foreign Student (1994)'
+p6125
+sg1
+(g5
+S'\xfc\x05\x00\x00\x00\x00\x00\x00'
+p6126
+tp6127
+Rp6128
+S"I Don't Want to Talk About It (De eso no se habla) (1993)"
+p6129
+sg1
+(g5
+S'\xfd\x05\x00\x00\x00\x00\x00\x00'
+p6130
+tp6131
+Rp6132
+S'Twin Town (1997)'
+p6133
+sg1
+(g5
+S'\xfe\x05\x00\x00\x00\x00\x00\x00'
+p6134
+tp6135
+Rp6136
+S"Enfer, L' (1994)"
+p6137
+sg1
+(g5
+S'\xff\x05\x00\x00\x00\x00\x00\x00'
+p6138
+tp6139
+Rp6140
+S'Aiqing wansui (1994)'
+p6141
+sg1
+(g5
+S'\x00\x06\x00\x00\x00\x00\x00\x00'
+p6142
+tp6143
+Rp6144
+S'Cosi (1996)'
+p6145
+sg1
+(g5
+S'\x01\x06\x00\x00\x00\x00\x00\x00'
+p6146
+tp6147
+Rp6148
+S'All Over Me (1997)'
+p6149
+sg1
+(g5
+S'\x02\x06\x00\x00\x00\x00\x00\x00'
+p6150
+tp6151
+Rp6152
+S'Being Human (1993)'
+p6153
+sg1
+(g5
+S'\x03\x06\x00\x00\x00\x00\x00\x00'
+p6154
+tp6155
+Rp6156
+S'Amazing Panda Adventure, The (1995)'
+p6157
+sg1
+(g5
+S'\x04\x06\x00\x00\x00\x00\x00\x00'
+p6158
+tp6159
+Rp6160
+S'Beans of Egypt, Maine, The (1994)'
+p6161
+sg1
+(g5
+S'\x05\x06\x00\x00\x00\x00\x00\x00'
+p6162
+tp6163
+Rp6164
+S'Scarlet Letter, The (1926)'
+p6165
+sg1
+(g5
+S'\x06\x06\x00\x00\x00\x00\x00\x00'
+p6166
+tp6167
+Rp6168
+S'Johns (1996)'
+p6169
+sg1
+(g5
+S'\x07\x06\x00\x00\x00\x00\x00\x00'
+p6170
+tp6171
+Rp6172
+S'It Takes Two (1995)'
+p6173
+sg1
+(g5
+S'\x08\x06\x00\x00\x00\x00\x00\x00'
+p6174
+tp6175
+Rp6176
+S'Frankie Starlight (1995)'
+p6177
+sg1
+(g5
+S'\t\x06\x00\x00\x00\x00\x00\x00'
+p6178
+tp6179
+Rp6180
+S'Shadows (Cienie) (1988)'
+p6181
+sg1
+(g5
+S'\n\x06\x00\x00\x00\x00\x00\x00'
+p6182
+tp6183
+Rp6184
+S'Show, The (1995)'
+p6185
+sg1
+(g5
+S'\x0b\x06\x00\x00\x00\x00\x00\x00'
+p6186
+tp6187
+Rp6188
+S'The Courtyard (1995)'
+p6189
+sg1
+(g5
+S'\x0c\x06\x00\x00\x00\x00\x00\x00'
+p6190
+tp6191
+Rp6192
+S'Dream Man (1995)'
+p6193
+sg1
+(g5
+S'\r\x06\x00\x00\x00\x00\x00\x00'
+p6194
+tp6195
+Rp6196
+S'Destiny Turns on the Radio (1995)'
+p6197
+sg1
+(g5
+S'\x0e\x06\x00\x00\x00\x00\x00\x00'
+p6198
+tp6199
+Rp6200
+S'Glass Shield, The (1994)'
+p6201
+sg1
+(g5
+S'\x0f\x06\x00\x00\x00\x00\x00\x00'
+p6202
+tp6203
+Rp6204
+S'Hunted, The (1995)'
+p6205
+sg1
+(g5
+S'\x10\x06\x00\x00\x00\x00\x00\x00'
+p6206
+tp6207
+Rp6208
+S'Underneath, The (1995)'
+p6209
+sg1
+(g5
+S'\x11\x06\x00\x00\x00\x00\x00\x00'
+p6210
+tp6211
+Rp6212
+S'Safe Passage (1994)'
+p6213
+sg1
+(g5
+S'\x12\x06\x00\x00\x00\x00\x00\x00'
+p6214
+tp6215
+Rp6216
+S'Secret Adventures of Tom Thumb, The (1993)'
+p6217
+sg1
+(g5
+S'\x13\x06\x00\x00\x00\x00\x00\x00'
+p6218
+tp6219
+Rp6220
+S'Condition Red (1995)'
+p6221
+sg1
+(g5
+S'\x14\x06\x00\x00\x00\x00\x00\x00'
+p6222
+tp6223
+Rp6224
+S'Yankee Zulu (1994)'
+p6225
+sg1
+(g5
+S'\x15\x06\x00\x00\x00\x00\x00\x00'
+p6226
+tp6227
+Rp6228
+S'Aparajito (1956)'
+p6229
+sg1
+(g5
+S'\x16\x06\x00\x00\x00\x00\x00\x00'
+p6230
+tp6231
+Rp6232
+S'Hostile Intentions (1994)'
+p6233
+sg1
+(g5
+S'\x17\x06\x00\x00\x00\x00\x00\x00'
+p6234
+tp6235
+Rp6236
+S'Clean Slate (Coup de Torchon) (1981)'
+p6237
+sg1
+(g5
+S'\x18\x06\x00\x00\x00\x00\x00\x00'
+p6238
+tp6239
+Rp6240
+S'Tigrero: A Film That Was Never Made (1994)'
+p6241
+sg1
+(g5
+S'\x19\x06\x00\x00\x00\x00\x00\x00'
+p6242
+tp6243
+Rp6244
+S"Eye of Vichy, The (Oeil de Vichy, L') (1993)"
+p6245
+sg1
+(g5
+S'\x1a\x06\x00\x00\x00\x00\x00\x00'
+p6246
+tp6247
+Rp6248
+S'Promise, The (Versprechen, Das) (1994)'
+p6249
+sg1
+(g5
+S'\x1b\x06\x00\x00\x00\x00\x00\x00'
+p6250
+tp6251
+Rp6252
+S'To Cross the Rubicon (1991)'
+p6253
+sg1
+(g5
+S'\x1c\x06\x00\x00\x00\x00\x00\x00'
+p6254
+tp6255
+Rp6256
+S'Daens (1992)'
+p6257
+sg1
+(g5
+S'\x1d\x06\x00\x00\x00\x00\x00\x00'
+p6258
+tp6259
+Rp6260
+S'Man from Down Under, The (1943)'
+p6261
+sg1
+(g5
+S'\x1e\x06\x00\x00\x00\x00\x00\x00'
+p6262
+tp6263
+Rp6264
+S'Careful (1992)'
+p6265
+sg1
+(g5
+S'\x1f\x06\x00\x00\x00\x00\x00\x00'
+p6266
+tp6267
+Rp6268
+S'Vermont Is For Lovers (1992)'
+p6269
+sg1
+(g5
+S' \x06\x00\x00\x00\x00\x00\x00'
+p6270
+tp6271
+Rp6272
+S'Vie est belle, La (Life is Rosey) (1987)'
+p6273
+sg1
+(g5
+S'!\x06\x00\x00\x00\x00\x00\x00'
+p6274
+tp6275
+Rp6276
+S'Quartier Mozart (1992)'
+p6277
+sg1
+(g5
+S'"\x06\x00\x00\x00\x00\x00\x00'
+p6278
+tp6279
+Rp6280
+S'Touki Bouki (Journey of the Hyena) (1973)'
+p6281
+sg1
+(g5
+S'#\x06\x00\x00\x00\x00\x00\x00'
+p6282
+tp6283
+Rp6284
+S"Wend Kuuni (God's Gift) (1982)"
+p6285
+sg1
+(g5
+S'$\x06\x00\x00\x00\x00\x00\x00'
+p6286
+tp6287
+Rp6288
+S'Spirits of the Dead (Tre passi nel delirio) (1968)'
+p6289
+sg1
+(g5
+S'%\x06\x00\x00\x00\x00\x00\x00'
+p6290
+tp6291
+Rp6292
+S"Pharaoh's Army (1995)"
+p6293
+sg1
+(g5
+S'&\x06\x00\x00\x00\x00\x00\x00'
+p6294
+tp6295
+Rp6296
+S'I, Worst of All (Yo, la peor de todas) (1990)'
+p6297
+sg1
+(g5
+S"'\x06\x00\x00\x00\x00\x00\x00"
+p6298
+tp6299
+Rp6300
+S'Hungarian Fairy Tale, A (1987)'
+p6301
+sg1
+(g5
+S'(\x06\x00\x00\x00\x00\x00\x00'
+p6302
+tp6303
+Rp6304
+S'Death in the Garden (Mort en ce jardin, La) (1956)'
+p6305
+sg1
+(g5
+S')\x06\x00\x00\x00\x00\x00\x00'
+p6306
+tp6307
+Rp6308
+S'Collectionneuse, La (1967)'
+p6309
+sg1
+(g5
+S'*\x06\x00\x00\x00\x00\x00\x00'
+p6310
+tp6311
+Rp6312
+S'Baton Rouge (1988)'
+p6313
+sg1
+(g5
+S'+\x06\x00\x00\x00\x00\x00\x00'
+p6314
+tp6315
+Rp6316
+S'Liebelei (1933)'
+p6317
+sg1
+(g5
+S',\x06\x00\x00\x00\x00\x00\x00'
+p6318
+tp6319
+Rp6320
+S'Woman in Question, The (1950)'
+p6321
+sg1
+(g5
+S'-\x06\x00\x00\x00\x00\x00\x00'
+p6322
+tp6323
+Rp6324
+S'T-Men (1947)'
+p6325
+sg1
+(g5
+S'.\x06\x00\x00\x00\x00\x00\x00'
+p6326
+tp6327
+Rp6328
+S'Invitation, The (Zaproszenie) (1986)'
+p6329
+sg1
+(g5
+S'/\x06\x00\x00\x00\x00\x00\x00'
+p6330
+tp6331
+Rp6332
+S'Symphonie pastorale, La (1946)'
+p6333
+sg1
+(g5
+S'0\x06\x00\x00\x00\x00\x00\x00'
+p6334
+tp6335
+Rp6336
+S'American Dream (1990)'
+p6337
+sg1
+(g5
+S'1\x06\x00\x00\x00\x00\x00\x00'
+p6338
+tp6339
+Rp6340
+S'Lashou shentan (1992)'
+p6341
+sg1
+(g5
+S'2\x06\x00\x00\x00\x00\x00\x00'
+p6342
+tp6343
+Rp6344
+S'Terror in a Texas Town (1958)'
+p6345
+sg1
+(g5
+S'3\x06\x00\x00\x00\x00\x00\x00'
+p6346
+tp6347
+Rp6348
+S'Salut cousin! (1996)'
+p6349
+sg1
+(g5
+S'4\x06\x00\x00\x00\x00\x00\x00'
+p6350
+tp6351
+Rp6352
+S'Schizopolis (1996)'
+p6353
+sg1
+(g5
+S'5\x06\x00\x00\x00\x00\x00\x00'
+p6354
+tp6355
+Rp6356
+S'To Have, or Not (1995)'
+p6357
+sg1
+(g5
+S'6\x06\x00\x00\x00\x00\x00\x00'
+p6358
+tp6359
+Rp6360
+S'Duoluo tianshi (1995)'
+p6361
+sg1
+(g5
+S'7\x06\x00\x00\x00\x00\x00\x00'
+p6362
+tp6363
+Rp6364
+S'Magic Hour, The (1998)'
+p6365
+sg1
+(g5
+S'8\x06\x00\x00\x00\x00\x00\x00'
+p6366
+tp6367
+Rp6368
+S'Death in Brunswick (1991)'
+p6369
+sg1
+(g5
+S'9\x06\x00\x00\x00\x00\x00\x00'
+p6370
+tp6371
+Rp6372
+S'Everest (1998)'
+p6373
+sg1
+(g5
+S':\x06\x00\x00\x00\x00\x00\x00'
+p6374
+tp6375
+Rp6376
+S'Shopping (1994)'
+p6377
+sg1
+(g5
+S';\x06\x00\x00\x00\x00\x00\x00'
+p6378
+tp6379
+Rp6380
+S'Nemesis 2: Nebula (1995)'
+p6381
+sg1
+(g5
+S'<\x06\x00\x00\x00\x00\x00\x00'
+p6382
+tp6383
+Rp6384
+S'Romper Stomper (1992)'
+p6385
+sg1
+(g5
+S'=\x06\x00\x00\x00\x00\x00\x00'
+p6386
+tp6387
+Rp6388
+S'City of Industry (1997)'
+p6389
+sg1
+(g5
+S'>\x06\x00\x00\x00\x00\x00\x00'
+p6390
+tp6391
+Rp6392
+S"Someone Else's America (1995)"
+p6393
+sg1
+(g5
+S'?\x06\x00\x00\x00\x00\x00\x00'
+p6394
+tp6395
+Rp6396
+S'Guantanamera (1994)'
+p6397
+sg1
+(g5
+S'@\x06\x00\x00\x00\x00\x00\x00'
+p6398
+tp6399
+Rp6400
+S'Office Killer (1997)'
+p6401
+sg1
+(g5
+S'A\x06\x00\x00\x00\x00\x00\x00'
+p6402
+tp6403
+Rp6404
+S'Price Above Rubies, A (1998)'
+p6405
+sg1
+(g5
+S'B\x06\x00\x00\x00\x00\x00\x00'
+p6406
+tp6407
+Rp6408
+S'Angela (1995)'
+p6409
+sg1
+(g5
+S'C\x06\x00\x00\x00\x00\x00\x00'
+p6410
+tp6411
+Rp6412
+S'He Walked by Night (1948)'
+p6413
+sg1
+(g5
+S'D\x06\x00\x00\x00\x00\x00\x00'
+p6414
+tp6415
+Rp6416
+S'Love Serenade (1996)'
+p6417
+sg1
+(g5
+S'E\x06\x00\x00\x00\x00\x00\x00'
+p6418
+tp6419
+Rp6420
+g1241
+sg1
+(g5
+S'F\x06\x00\x00\x00\x00\x00\x00'
+p6421
+tp6422
+Rp6423
+g5577
+sg1
+(g5
+S'G\x06\x00\x00\x00\x00\x00\x00'
+p6424
+tp6425
+Rp6426
+S'Buddy (1997)'
+p6427
+sg1
+(g5
+S'H\x06\x00\x00\x00\x00\x00\x00'
+p6428
+tp6429
+Rp6430
+S'B*A*P*S (1997)'
+p6431
+sg1
+(g5
+S'I\x06\x00\x00\x00\x00\x00\x00'
+p6432
+tp6433
+Rp6434
+S'Truth or Consequences, N.M. (1997)'
+p6435
+sg1
+(g5
+S'J\x06\x00\x00\x00\x00\x00\x00'
+p6436
+tp6437
+Rp6438
+S'Intimate Relations (1996)'
+p6439
+sg1
+(g5
+S'K\x06\x00\x00\x00\x00\x00\x00'
+p6440
+tp6441
+Rp6442
+S'Leading Man, The (1996)'
+p6443
+sg1
+(g5
+S'L\x06\x00\x00\x00\x00\x00\x00'
+p6444
+tp6445
+Rp6446
+S'Tokyo Fist (1995)'
+p6447
+sg1
+(g5
+S'M\x06\x00\x00\x00\x00\x00\x00'
+p6448
+tp6449
+Rp6450
+S'Reluctant Debutante, The (1958)'
+p6451
+sg1
+(g5
+S'N\x06\x00\x00\x00\x00\x00\x00'
+p6452
+tp6453
+Rp6454
+S'Warriors of Virtue (1997)'
+p6455
+sg1
+(g5
+S'O\x06\x00\x00\x00\x00\x00\x00'
+p6456
+tp6457
+Rp6458
+S'Desert Winds (1995)'
+p6459
+sg1
+(g5
+S'P\x06\x00\x00\x00\x00\x00\x00'
+p6460
+tp6461
+Rp6462
+g4698
+sg1
+(g5
+S'Q\x06\x00\x00\x00\x00\x00\x00'
+p6463
+tp6464
+Rp6465
+S'King of New York (1990)'
+p6466
+sg1
+(g5
+S'R\x06\x00\x00\x00\x00\x00\x00'
+p6467
+tp6468
+Rp6469
+S'All Things Fair (1996)'
+p6470
+sg1
+(g5
+S'S\x06\x00\x00\x00\x00\x00\x00'
+p6471
+tp6472
+Rp6473
+S'Sixth Man, The (1997)'
+p6474
+sg1
+(g5
+S'T\x06\x00\x00\x00\x00\x00\x00'
+p6475
+tp6476
+Rp6477
+S'Butterfly Kiss (1995)'
+p6478
+sg1
+(g5
+S'U\x06\x00\x00\x00\x00\x00\x00'
+p6479
+tp6480
+Rp6481
+S'Paris, France (1993)'
+p6482
+sg1
+(g5
+S'V\x06\x00\x00\x00\x00\x00\x00'
+p6483
+tp6484
+Rp6485
+S'C\xe9r\xe9monie, La (1995)'
+p6486
+sg1
+(g5
+S'W\x06\x00\x00\x00\x00\x00\x00'
+p6487
+tp6488
+Rp6489
+S'Hush (1998)'
+p6490
+sg1
+(g5
+S'X\x06\x00\x00\x00\x00\x00\x00'
+p6491
+tp6492
+Rp6493
+g5905
+sg1
+(g5
+S'Y\x06\x00\x00\x00\x00\x00\x00'
+p6494
+tp6495
+Rp6496
+S'Nobody Loves Me (Keiner liebt mich) (1994)'
+p6497
+sg1
+(g5
+S'Z\x06\x00\x00\x00\x00\x00\x00'
+p6498
+tp6499
+Rp6500
+S'Wife, The (1995)'
+p6501
+sg1
+(g5
+S'[\x06\x00\x00\x00\x00\x00\x00'
+p6502
+tp6503
+Rp6504
+S'Lamerica (1994)'
+p6505
+sg1
+(g5
+S'\\\x06\x00\x00\x00\x00\x00\x00'
+p6506
+tp6507
+Rp6508
+S'Nico Icon (1995)'
+p6509
+sg1
+(g5
+S']\x06\x00\x00\x00\x00\x00\x00'
+p6510
+tp6511
+Rp6512
+S'Silence of the Palace, The (Saimt el Qusur) (1994)'
+p6513
+sg1
+(g5
+S'^\x06\x00\x00\x00\x00\x00\x00'
+p6514
+tp6515
+Rp6516
+S'Slingshot, The (1993)'
+p6517
+sg1
+(g5
+S'_\x06\x00\x00\x00\x00\x00\x00'
+p6518
+tp6519
+Rp6520
+S'Land and Freedom (Tierra y libertad) (1995)'
+p6521
+sg1
+(g5
+S'`\x06\x00\x00\x00\x00\x00\x00'
+p6522
+tp6523
+Rp6524
+S'\xc1 k\xf6ldum klaka (Cold Fever) (1994)'
+p6525
+sg1
+(g5
+S'a\x06\x00\x00\x00\x00\x00\x00'
+p6526
+tp6527
+Rp6528
+S'Etz Hadomim Tafus (Under the Domin Tree) (1994)'
+p6529
+sg1
+(g5
+S'b\x06\x00\x00\x00\x00\x00\x00'
+p6530
+tp6531
+Rp6532
+S'Two Friends (1986) '
+p6533
+sg1
+(g5
+S'c\x06\x00\x00\x00\x00\x00\x00'
+p6534
+tp6535
+Rp6536
+S'Brothers in Trouble (1995)'
+p6537
+sg1
+(g5
+S'd\x06\x00\x00\x00\x00\x00\x00'
+p6538
+tp6539
+Rp6540
+S'Girls Town (1996)'
+p6541
+sg1
+(g5
+S'e\x06\x00\x00\x00\x00\x00\x00'
+p6542
+tp6543
+Rp6544
+S'Normal Life (1996)'
+p6545
+sg1
+(g5
+S'f\x06\x00\x00\x00\x00\x00\x00'
+p6546
+tp6547
+Rp6548
+S'Bitter Sugar (Azucar Amargo) (1996)'
+p6549
+sg1
+(g5
+S'g\x06\x00\x00\x00\x00\x00\x00'
+p6550
+tp6551
+Rp6552
+S'Eighth Day, The (1996)'
+p6553
+sg1
+(g5
+S'h\x06\x00\x00\x00\x00\x00\x00'
+p6554
+tp6555
+Rp6556
+S'Dadetown (1995)'
+p6557
+sg1
+(g5
+S'i\x06\x00\x00\x00\x00\x00\x00'
+p6558
+tp6559
+Rp6560
+S"Some Mother's Son (1996)"
+p6561
+sg1
+(g5
+S'j\x06\x00\x00\x00\x00\x00\x00'
+p6562
+tp6563
+Rp6564
+S'Angel Baby (1995)'
+p6565
+sg1
+(g5
+S'k\x06\x00\x00\x00\x00\x00\x00'
+p6566
+tp6567
+Rp6568
+S'Sudden Manhattan (1996)'
+p6569
+sg1
+(g5
+S'l\x06\x00\x00\x00\x00\x00\x00'
+p6570
+tp6571
+Rp6572
+S'Butcher Boy, The (1998)'
+p6573
+sg1
+(g5
+S'm\x06\x00\x00\x00\x00\x00\x00'
+p6574
+tp6575
+Rp6576
+S'Men With Guns (1997)'
+p6577
+sg1
+(g5
+S'n\x06\x00\x00\x00\x00\x00\x00'
+p6578
+tp6579
+Rp6580
+S'Hana-bi (1997)'
+p6581
+sg1
+(g5
+S'o\x06\x00\x00\x00\x00\x00\x00'
+p6582
+tp6583
+Rp6584
+S'Niagara, Niagara (1997)'
+p6585
+sg1
+(g5
+S'p\x06\x00\x00\x00\x00\x00\x00'
+p6586
+tp6587
+Rp6588
+S'Big One, The (1997)'
+p6589
+sg1
+(g5
+S'q\x06\x00\x00\x00\x00\x00\x00'
+p6590
+tp6591
+Rp6592
+g6573
+sg1
+(g5
+S'r\x06\x00\x00\x00\x00\x00\x00'
+p6593
+tp6594
+Rp6595
+S'Spanish Prisoner, The (1997)'
+p6596
+sg1
+(g5
+S's\x06\x00\x00\x00\x00\x00\x00'
+p6597
+tp6598
+Rp6599
+S'Temptress Moon (Feng Yue) (1996)'
+p6600
+sg1
+(g5
+S't\x06\x00\x00\x00\x00\x00\x00'
+p6601
+tp6602
+Rp6603
+S'Entertaining Angels: The Dorothy Day Story (1996)'
+p6604
+sg1
+(g5
+S'u\x06\x00\x00\x00\x00\x00\x00'
+p6605
+tp6606
+Rp6607
+g4934
+sg1
+(g5
+S'v\x06\x00\x00\x00\x00\x00\x00'
+p6608
+tp6609
+Rp6610
+S'Favor, The (1994)'
+p6611
+sg1
+(g5
+S'w\x06\x00\x00\x00\x00\x00\x00'
+p6612
+tp6613
+Rp6614
+S'Little City (1998)'
+p6615
+sg1
+(g5
+S'x\x06\x00\x00\x00\x00\x00\x00'
+p6616
+tp6617
+Rp6618
+S'Target (1995)'
+p6619
+sg1
+(g5
+S'y\x06\x00\x00\x00\x00\x00\x00'
+p6620
+tp6621
+Rp6622
+g2845
+sg1
+(g5
+S'z\x06\x00\x00\x00\x00\x00\x00'
+p6623
+tp6624
+Rp6625
+S'Getting Away With Murder (1996)'
+p6626
+sg1
+(g5
+S'{\x06\x00\x00\x00\x00\x00\x00'
+p6627
+tp6628
+Rp6629
+S'Small Faces (1995)'
+p6630
+sg1
+(g5
+S'|\x06\x00\x00\x00\x00\x00\x00'
+p6631
+tp6632
+Rp6633
+S'New Age, The (1994)'
+p6634
+sg1
+(g5
+S'}\x06\x00\x00\x00\x00\x00\x00'
+p6635
+tp6636
+Rp6637
+S'Rough Magic (1995)'
+p6638
+sg1
+(g5
+S'~\x06\x00\x00\x00\x00\x00\x00'
+p6639
+tp6640
+Rp6641
+S'Nothing Personal (1995)'
+p6642
+sg1
+(g5
+S'\x7f\x06\x00\x00\x00\x00\x00\x00'
+p6643
+tp6644
+Rp6645
+S'8 Heads in a Duffel Bag (1997)'
+p6646
+sg1
+(g5
+S'\x80\x06\x00\x00\x00\x00\x00\x00'
+p6647
+tp6648
+Rp6649
+S"Brother's Kiss, A (1997)"
+p6650
+sg1
+(g5
+S'\x81\x06\x00\x00\x00\x00\x00\x00'
+p6651
+tp6652
+Rp6653
+S'Ripe (1996)'
+p6654
+sg1
+(g5
+S'\x82\x06\x00\x00\x00\x00\x00\x00'
+p6655
+tp6656
+Rp6657
+S'Next Step, The (1995)'
+p6658
+sg1
+(g5
+S'\x83\x06\x00\x00\x00\x00\x00\x00'
+p6659
+tp6660
+Rp6661
+S'Wedding Bell Blues (1996)'
+p6662
+sg1
+(g5
+S'\x84\x06\x00\x00\x00\x00\x00\x00'
+p6663
+tp6664
+Rp6665
+S'MURDER and murder (1996)'
+p6666
+sg1
+(g5
+S'\x85\x06\x00\x00\x00\x00\x00\x00'
+p6667
+tp6668
+Rp6669
+S'Tainted (1998)'
+p6670
+sg1
+(g5
+S'\x86\x06\x00\x00\x00\x00\x00\x00'
+p6671
+tp6672
+Rp6673
+S'Further Gesture, A (1996)'
+p6674
+sg1
+(g5
+S'\x87\x06\x00\x00\x00\x00\x00\x00'
+p6675
+tp6676
+Rp6677
+S'Kika (1993)'
+p6678
+sg1
+(g5
+S'\x88\x06\x00\x00\x00\x00\x00\x00'
+p6679
+tp6680
+Rp6681
+S'Mirage (1995)'
+p6682
+sg1
+(g5
+S'\x89\x06\x00\x00\x00\x00\x00\x00'
+p6683
+tp6684
+Rp6685
+S'Mamma Roma (1962)'
+p6686
+sg1
+(g5
+S'\x8a\x06\x00\x00\x00\x00\x00\x00'
+p6687
+tp6688
+Rp6689
+S'Sunchaser, The (1996)'
+p6690
+sg1
+(g5
+S'\x8b\x06\x00\x00\x00\x00\x00\x00'
+p6691
+tp6692
+Rp6693
+S'War at Home, The (1996)'
+p6694
+sg1
+(g5
+S'\x8c\x06\x00\x00\x00\x00\x00\x00'
+p6695
+tp6696
+Rp6697
+S'Sweet Nothing (1995)'
+p6698
+sg1
+(g5
+S'\x8d\x06\x00\x00\x00\x00\x00\x00'
+p6699
+tp6700
+Rp6701
+S"Mat' i syn (1997)"
+p6702
+sg1
+(g5
+S'\x8e\x06\x00\x00\x00\x00\x00\x00'
+p6703
+tp6704
+Rp6705
+S'B. Monkey (1998)'
+p6706
+sg1
+(g5
+S'\x8f\x06\x00\x00\x00\x00\x00\x00'
+p6707
+tp6708
+Rp6709
+g5713
+sg1
+(g5
+S'\x90\x06\x00\x00\x00\x00\x00\x00'
+p6710
+tp6711
+Rp6712
+S'You So Crazy (1994)'
+p6713
+sg1
+(g5
+S'\x91\x06\x00\x00\x00\x00\x00\x00'
+p6714
+tp6715
+Rp6716
+S'Scream of Stone (Schrei aus Stein) (1991)'
+p6717
+s.
